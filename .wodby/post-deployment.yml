@@ -1,0 +1,11 @@
+version: 0.1
+
+env:
+  FOO: bar
+
+jobs:
+  drush-status:
+    env:
+      FOO: bar2
+    steps:
+    - run: drush deploy
