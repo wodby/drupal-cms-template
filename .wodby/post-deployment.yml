@@ -8,4 +8,4 @@ jobs:
     env:
       FOO: bar2
     steps:
-    - run: drush deploy
+    - run: drush status
