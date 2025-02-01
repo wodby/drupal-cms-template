@@ -2267,17 +2267,17 @@
         },
         {
             "name": "drupal/better_exposed_filters",
-            "version": "7.0.4",
+            "version": "7.0.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/better_exposed_filters.git",
-                "reference": "7.0.4"
+                "reference": "7.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/better_exposed_filters-7.0.4.zip",
-                "reference": "7.0.4",
-                "shasum": "4db4b8fb32bb877774aa0108f0d572edf6af0e9f"
+                "url": "https://ftp.drupal.org/files/projects/better_exposed_filters-7.0.5.zip",
+                "reference": "7.0.5",
+                "shasum": "a215444c39a6ae384710a6c707caf593f6dd1e2d"
             },
             "require": {
                 "drupal/core": "^10 || ^11",
@@ -2286,8 +2286,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "7.0.4",
-                    "datestamp": "1736541655",
+                    "version": "7.0.5",
+                    "datestamp": "1738353781",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3393,16 +3393,16 @@
         },
         {
             "name": "drupal/drupal_cms_authentication",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_authentication.git",
-                "reference": "1b1e0cfc33eea3a6d8726c8d1adc01598fd7ab90"
+                "reference": "f06e28f178442fd8cab596be052dad6fdcc67e14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_authentication/repository/archive.zip?sha=1b1e0cfc33eea3a6d8726c8d1adc01598fd7ab90",
-                "reference": "1b1e0cfc33eea3a6d8726c8d1adc01598fd7ab90",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_authentication/repository/archive.zip?sha=f06e28f178442fd8cab596be052dad6fdcc67e14",
+                "reference": "f06e28f178442fd8cab596be052dad6fdcc67e14",
                 "shasum": ""
             },
             "require": {
@@ -3419,9 +3419,9 @@
             ],
             "description": "Sets up a site with useful authentication features.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_authentication/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_authentication/-/tree/1.0.1"
             },
-            "time": "2025-01-09T19:55:56+00:00"
+            "time": "2025-01-22T13:03:33+00:00"
         },
         {
             "name": "drupal/drupal_cms_blog",
@@ -3789,16 +3789,16 @@
         },
         {
             "name": "drupal/drupal_cms_privacy_basic",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_privacy_basic.git",
-                "reference": "b8d14ed0e256ebe1bde2f1ea182e3728afdaf037"
+                "reference": "4657a643ad704d3bf90c019d7ff1087606665a09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=b8d14ed0e256ebe1bde2f1ea182e3728afdaf037",
-                "reference": "b8d14ed0e256ebe1bde2f1ea182e3728afdaf037",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=4657a643ad704d3bf90c019d7ff1087606665a09",
+                "reference": "4657a643ad704d3bf90c019d7ff1087606665a09",
                 "shasum": ""
             },
             "require": {
@@ -3816,9 +3816,9 @@
             ],
             "description": "Adds basic privacy features such as consent management and remote content blocking.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/1.0.1"
             },
-            "time": "2025-01-14T14:21:19+00:00"
+            "time": "2025-01-22T13:03:33+00:00"
         },
         {
             "name": "drupal/drupal_cms_project",
