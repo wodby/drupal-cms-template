@@ -3267,16 +3267,16 @@
         },
         {
             "name": "drupal/drupal_cms_admin_ui",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_admin_ui.git",
-                "reference": "dfaec38c332c5e66b3eeea27eef43c8bd56982c4"
+                "reference": "6fab4f3902fd3e79577465a0dd9e25deaf755563"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=dfaec38c332c5e66b3eeea27eef43c8bd56982c4",
-                "reference": "dfaec38c332c5e66b3eeea27eef43c8bd56982c4",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=6fab4f3902fd3e79577465a0dd9e25deaf755563",
+                "reference": "6fab4f3902fd3e79577465a0dd9e25deaf755563",
                 "shasum": ""
             },
             "require": {
@@ -3292,9 +3292,9 @@
             ],
             "description": "Sets up a nice administrative theme and navigation.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.0.1"
             },
-            "time": "2025-01-04T08:04:07+00:00"
+            "time": "2025-01-22T13:03:33+00:00"
         },
         {
             "name": "drupal/drupal_cms_ai",
@@ -6484,17 +6484,17 @@
         },
         {
             "name": "drupal/scheduler_content_moderation_integration",
-            "version": "3.0.3",
+            "version": "3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/scheduler_content_moderation_integration.git",
-                "reference": "3.0.3"
+                "reference": "3.0.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/scheduler_content_moderation_integration-3.0.3.zip",
-                "reference": "3.0.3",
-                "shasum": "f50acc830212f7edf4b0c7dd2f355605e80658d3"
+                "url": "https://ftp.drupal.org/files/projects/scheduler_content_moderation_integration-3.0.4.zip",
+                "reference": "3.0.4",
+                "shasum": "07b57e1817c01902a5709cdcbd4578e65622ce53"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11",
@@ -6506,8 +6506,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.0.3",
-                    "datestamp": "1725377976",
+                    "version": "3.0.4",
+                    "datestamp": "1738679096",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
