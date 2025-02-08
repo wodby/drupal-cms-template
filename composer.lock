@@ -1833,17 +1833,17 @@
         },
         {
             "name": "drupal/ai_agents",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai_agents.git",
-                "reference": "1.0.1"
+                "reference": "1.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai_agents-1.0.1.zip",
-                "reference": "1.0.1",
-                "shasum": "c66e6598755716a620d97757a39cf2581d1bcf0d"
+                "url": "https://ftp.drupal.org/files/projects/ai_agents-1.0.2.zip",
+                "reference": "1.0.2",
+                "shasum": "91837ebea9b4ca6fcf6cfc1b3f93d4295249d63f"
             },
             "require": {
                 "drupal/ai": "^1.0.0",
@@ -1859,8 +1859,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.0.1",
-                    "datestamp": "1736524795",
+                    "version": "1.0.2",
+                    "datestamp": "1738909480",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
