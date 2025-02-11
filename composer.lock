@@ -3526,16 +3526,16 @@
         },
         {
             "name": "drupal/drupal_cms_events",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_events.git",
-                "reference": "dae22a7d497e266cce3a02c34c892b77a11e53b1"
+                "reference": "927fa4595123daef210420b61e555c419c124c00"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_events/repository/archive.zip?sha=dae22a7d497e266cce3a02c34c892b77a11e53b1",
-                "reference": "dae22a7d497e266cce3a02c34c892b77a11e53b1",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_events/repository/archive.zip?sha=927fa4595123daef210420b61e555c419c124c00",
+                "reference": "927fa4595123daef210420b61e555c419c124c00",
                 "shasum": ""
             },
             "require": {
@@ -3558,9 +3558,9 @@
             ],
             "description": "Adds an event content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_events/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_events/-/tree/1.0.2"
             },
-            "time": "2025-01-14T14:21:19+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_forms",
