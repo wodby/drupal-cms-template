@@ -2341,17 +2341,17 @@
         },
         {
             "name": "drupal/bpmn_io",
-            "version": "2.0.6",
+            "version": "2.0.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/bpmn_io.git",
-                "reference": "2.0.6"
+                "reference": "2.0.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/bpmn_io-2.0.6.zip",
-                "reference": "2.0.6",
-                "shasum": "d4f030329dea3b19f8ad40251b7df1b50492ba2e"
+                "url": "https://ftp.drupal.org/files/projects/bpmn_io-2.0.7.zip",
+                "reference": "2.0.7",
+                "shasum": "88cc7f6999276df2ce84188068f3bb684cc6663a"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11",
@@ -2362,8 +2362,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.6",
-                    "datestamp": "1738232187",
+                    "version": "2.0.7",
+                    "datestamp": "1739260139",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5013,17 +5013,17 @@
         },
         {
             "name": "drupal/gin",
-            "version": "4.0.2",
+            "version": "4.0.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/gin.git",
-                "reference": "4.0.2"
+                "reference": "4.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/gin-4.0.2.zip",
-                "reference": "4.0.2",
-                "shasum": "501f167bd7009cffa29848a918b3982cb0a8245b"
+                "url": "https://ftp.drupal.org/files/projects/gin-4.0.3.zip",
+                "reference": "4.0.3",
+                "shasum": "c8b80935b558985f88ee7d5fa7dbb25ec4024dd0"
             },
             "require": {
                 "drupal/core": "^10 || ^11",
@@ -5032,8 +5032,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "4.0.2",
-                    "datestamp": "1735405135",
+                    "version": "4.0.3",
+                    "datestamp": "1739275596",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
