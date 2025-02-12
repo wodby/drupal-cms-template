@@ -3426,16 +3426,16 @@
         },
         {
             "name": "drupal/drupal_cms_blog",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_blog.git",
-                "reference": "2171136c30d7ee5c03d774e6e0e96066b2486f39"
+                "reference": "56c9490fd802da5d0d4202e4eda45d7af4608f6e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blog/repository/archive.zip?sha=2171136c30d7ee5c03d774e6e0e96066b2486f39",
-                "reference": "2171136c30d7ee5c03d774e6e0e96066b2486f39",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blog/repository/archive.zip?sha=56c9490fd802da5d0d4202e4eda45d7af4608f6e",
+                "reference": "56c9490fd802da5d0d4202e4eda45d7af4608f6e",
                 "shasum": ""
             },
             "require": {
@@ -3452,22 +3452,22 @@
             ],
             "description": "Adds a blog post content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_blog/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_blog/-/tree/1.0.2"
             },
-            "time": "2025-01-14T14:21:19+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_case_study",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_case_study.git",
-                "reference": "e916400ed8b2d87455a328cf628b03956c89c2db"
+                "reference": "a9b7d4abbc3bfaf98c8d8b29c6999afdb18b12be"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_case_study/repository/archive.zip?sha=e916400ed8b2d87455a328cf628b03956c89c2db",
-                "reference": "e916400ed8b2d87455a328cf628b03956c89c2db",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_case_study/repository/archive.zip?sha=a9b7d4abbc3bfaf98c8d8b29c6999afdb18b12be",
+                "reference": "a9b7d4abbc3bfaf98c8d8b29c6999afdb18b12be",
                 "shasum": ""
             },
             "require": {
@@ -3482,9 +3482,9 @@
             ],
             "description": "Adds a case study content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_case_study/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_case_study/-/tree/1.0.2"
             },
-            "time": "2025-01-14T14:21:19+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_content_type_base",
@@ -3655,16 +3655,16 @@
         },
         {
             "name": "drupal/drupal_cms_news",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_news.git",
-                "reference": "dd0f698abcba7edab1b9538c385afff88945dcf1"
+                "reference": "243b81094eb9a4c8b91630dd5d133dad10501e61"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=dd0f698abcba7edab1b9538c385afff88945dcf1",
-                "reference": "dd0f698abcba7edab1b9538c385afff88945dcf1",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=243b81094eb9a4c8b91630dd5d133dad10501e61",
+                "reference": "243b81094eb9a4c8b91630dd5d133dad10501e61",
                 "shasum": ""
             },
             "require": {
@@ -3681,9 +3681,9 @@
             ],
             "description": "Adds a news content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.0.1"
+                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.0.2"
             },
-            "time": "2025-01-22T13:03:33+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_olivero",
@@ -3731,21 +3731,21 @@
         },
         {
             "name": "drupal/drupal_cms_page",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_page.git",
-                "reference": "3a569afa2a7b31c15b58373cd03083f3ef51faf3"
+                "reference": "412e782bb17414bc02efc7c3e3d9fd8b3320e15c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_page/repository/archive.zip?sha=3a569afa2a7b31c15b58373cd03083f3ef51faf3",
-                "reference": "3a569afa2a7b31c15b58373cd03083f3ef51faf3",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_page/repository/archive.zip?sha=412e782bb17414bc02efc7c3e3d9fd8b3320e15c",
+                "reference": "412e782bb17414bc02efc7c3e3d9fd8b3320e15c",
                 "shasum": ""
             },
             "require": {
                 "drupal/core": ">=10.4",
-                "drupal/drupal_cms_content_type_base": "~1.0.1"
+                "drupal/drupal_cms_content_type_base": "~1.0.2"
             },
             "type": "drupal-recipe",
             "notification-url": "https://packagist.org/downloads/",
@@ -3754,9 +3754,9 @@
             ],
             "description": "Adds a content type for simple pages.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_page/-/tree/1.0.1"
+                "source": "https://git.drupalcode.org/project/drupal_cms_page/-/tree/1.0.2"
             },
-            "time": "2025-01-22T13:03:33+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_person",
@@ -3823,16 +3823,16 @@
         },
         {
             "name": "drupal/drupal_cms_project",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_project.git",
-                "reference": "b648363157cb0da4e1830f38ff4b0d48a692cee7"
+                "reference": "9137bab1d8f359ae95594c6a0de4f86025e8255b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_project/repository/archive.zip?sha=b648363157cb0da4e1830f38ff4b0d48a692cee7",
-                "reference": "b648363157cb0da4e1830f38ff4b0d48a692cee7",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_project/repository/archive.zip?sha=9137bab1d8f359ae95594c6a0de4f86025e8255b",
+                "reference": "9137bab1d8f359ae95594c6a0de4f86025e8255b",
                 "shasum": ""
             },
             "require": {
@@ -3847,9 +3847,9 @@
             ],
             "description": "Adds a project content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_project/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_project/-/tree/1.0.2"
             },
-            "time": "2025-01-14T14:21:19+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_remote_video",
@@ -6111,17 +6111,17 @@
         },
         {
             "name": "drupal/project_browser",
-            "version": "2.0.0-alpha8",
+            "version": "2.0.0-alpha9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/project_browser.git",
-                "reference": "2.0.0-alpha8"
+                "reference": "2.0.0-alpha9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/project_browser-2.0.0-alpha8.zip",
-                "reference": "2.0.0-alpha8",
-                "shasum": "d37efe7af9d9904562a75b37a97477ac7debd387"
+                "url": "https://ftp.drupal.org/files/projects/project_browser-2.0.0-alpha9.zip",
+                "reference": "2.0.0-alpha9",
+                "shasum": "ca3fdf5c4aac98b5d1154bde9a7893b05c0e9475"
             },
             "require": {
                 "composer-runtime-api": "^2",
@@ -6143,8 +6143,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.0-alpha8",
-                    "datestamp": "1738185489",
+                    "version": "2.0.0-alpha9",
+                    "datestamp": "1739290480",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Alpha releases are not covered by Drupal security advisories."
@@ -6175,16 +6175,8 @@
             ],
             "authors": [
                 {
-                    "name": "bnjmnm",
-                    "homepage": "https://www.drupal.org/user/2369194"
-                },
-                {
                     "name": "chrisfromredfin",
                     "homepage": "https://www.drupal.org/user/74392"
-                },
-                {
-                    "name": "dmitrig01",
-                    "homepage": "https://www.drupal.org/user/47566"
                 },
                 {
                     "name": "fjgarlin",
@@ -6195,28 +6187,8 @@
                     "homepage": "https://www.drupal.org/user/455714"
                 },
                 {
-                    "name": "jacob@redfinsolutions.com",
-                    "homepage": "https://www.drupal.org/user/3574855"
-                },
-                {
-                    "name": "leslieg",
-                    "homepage": "https://www.drupal.org/user/1746792"
-                },
-                {
                     "name": "narendrar",
                     "homepage": "https://www.drupal.org/user/1730192"
-                },
-                {
-                    "name": "rlnorthcutt",
-                    "homepage": "https://www.drupal.org/user/116893"
-                },
-                {
-                    "name": "srishtiiee",
-                    "homepage": "https://www.drupal.org/user/3685162"
-                },
-                {
-                    "name": "sun",
-                    "homepage": "https://www.drupal.org/user/54136"
                 },
                 {
                     "name": "tim.plunkett",
@@ -8471,16 +8443,16 @@
         },
         {
             "name": "illuminate/collections",
-            "version": "v11.41.3",
+            "version": "v11.42.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/collections.git",
-                "reference": "80c85f81573cc4c024da05312119f9149a6b64c1"
+                "reference": "6fd628d32a0989211c4f2829bf0a6a6175b2f3fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/collections/zipball/80c85f81573cc4c024da05312119f9149a6b64c1",
-                "reference": "80c85f81573cc4c024da05312119f9149a6b64c1",
+                "url": "https://api.github.com/repos/illuminate/collections/zipball/6fd628d32a0989211c4f2829bf0a6a6175b2f3fd",
+                "reference": "6fd628d32a0989211c4f2829bf0a6a6175b2f3fd",
                 "shasum": ""
             },
             "require": {
@@ -8523,11 +8495,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-01-24T15:40:32+00:00"
+            "time": "2025-02-05T10:23:21+00:00"
         },
         {
             "name": "illuminate/conditionable",
-            "version": "v11.41.3",
+            "version": "v11.42.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/conditionable.git",
@@ -8573,16 +8545,16 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v11.41.3",
+            "version": "v11.42.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
-                "reference": "534b697fc1dd9fbdd9fbf2f33fc9dcbb943dea75"
+                "reference": "b350a3cd8450846325cb49e1cbc1293598b18898"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/contracts/zipball/534b697fc1dd9fbdd9fbf2f33fc9dcbb943dea75",
-                "reference": "534b697fc1dd9fbdd9fbf2f33fc9dcbb943dea75",
+                "url": "https://api.github.com/repos/illuminate/contracts/zipball/b350a3cd8450846325cb49e1cbc1293598b18898",
+                "reference": "b350a3cd8450846325cb49e1cbc1293598b18898",
                 "shasum": ""
             },
             "require": {
@@ -8617,11 +8589,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-01-10T20:57:00+00:00"
+            "time": "2025-02-10T14:20:57+00:00"
         },
         {
             "name": "illuminate/macroable",
-            "version": "v11.41.3",
+            "version": "v11.42.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/macroable.git",
@@ -8667,16 +8639,16 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v11.41.3",
+            "version": "v11.42.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "5dc4a31f34d8a0529cf1fd6b7fe167f6cae91e0c"
+                "reference": "173c22d15deb0f0e08c3e905bce8605d03cee535"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/5dc4a31f34d8a0529cf1fd6b7fe167f6cae91e0c",
-                "reference": "5dc4a31f34d8a0529cf1fd6b7fe167f6cae91e0c",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/173c22d15deb0f0e08c3e905bce8605d03cee535",
+                "reference": "173c22d15deb0f0e08c3e905bce8605d03cee535",
                 "shasum": ""
             },
             "require": {
@@ -8740,7 +8712,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-01-30T09:11:36+00:00"
+            "time": "2025-02-11T13:02:55+00:00"
         },
         {
             "name": "itamair/geophp",
@@ -9377,16 +9349,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "3.8.4",
+            "version": "3.8.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CarbonPHP/carbon.git",
-                "reference": "129700ed449b1f02d70272d2ac802357c8c30c58"
+                "reference": "b1a53a27898639579a67de42e8ced5d5386aa9a4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/129700ed449b1f02d70272d2ac802357c8c30c58",
-                "reference": "129700ed449b1f02d70272d2ac802357c8c30c58",
+                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/b1a53a27898639579a67de42e8ced5d5386aa9a4",
+                "reference": "b1a53a27898639579a67de42e8ced5d5386aa9a4",
                 "shasum": ""
             },
             "require": {
@@ -9462,8 +9434,8 @@
             ],
             "support": {
                 "docs": "https://carbon.nesbot.com/docs",
-                "issues": "https://github.com/briannesbitt/Carbon/issues",
-                "source": "https://github.com/briannesbitt/Carbon"
+                "issues": "https://github.com/CarbonPHP/carbon/issues",
+                "source": "https://github.com/CarbonPHP/carbon"
             },
             "funding": [
                 {
@@ -9479,7 +9451,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-12-27T09:25:35+00:00"
+            "time": "2025-02-11T16:28:45+00:00"
         },
         {
             "name": "nette/schema",
