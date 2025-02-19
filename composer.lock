@@ -5013,17 +5013,17 @@
         },
         {
             "name": "drupal/gin",
-            "version": "4.0.4",
+            "version": "4.0.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/gin.git",
-                "reference": "4.0.4"
+                "reference": "4.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/gin-4.0.4.zip",
-                "reference": "4.0.4",
-                "shasum": "de1a6012eb5543ac4fb807e8314e369d64812c62"
+                "url": "https://ftp.drupal.org/files/projects/gin-4.0.5.zip",
+                "reference": "4.0.5",
+                "shasum": "d1ff5c5fe171badda27bccb967006b05ef283007"
             },
             "require": {
                 "drupal/core": "^10 || ^11",
@@ -5032,8 +5032,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "4.0.4",
-                    "datestamp": "1739529395",
+                    "version": "4.0.5",
+                    "datestamp": "1739910568",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5214,17 +5214,17 @@
         },
         {
             "name": "drupal/honeypot",
-            "version": "2.2.1",
+            "version": "2.2.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/honeypot.git",
-                "reference": "2.2.1"
+                "reference": "2.2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/honeypot-2.2.1.zip",
-                "reference": "2.2.1",
-                "shasum": "445fd3d22d5776dc9e517ef35a2bb3cc1c85c5a2"
+                "url": "https://ftp.drupal.org/files/projects/honeypot-2.2.2.zip",
+                "reference": "2.2.2",
+                "shasum": "828872d31d1a2c37a818cacae7fcd77a60996c66"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11"
@@ -5236,8 +5236,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.2.1",
-                    "datestamp": "1739062705",
+                    "version": "2.2.2",
+                    "datestamp": "1739854442",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5603,17 +5603,17 @@
         },
         {
             "name": "drupal/leaflet",
-            "version": "10.2.40",
+            "version": "10.2.41",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/leaflet.git",
-                "reference": "10.2.40"
+                "reference": "10.2.41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/leaflet-10.2.40.zip",
-                "reference": "10.2.40",
-                "shasum": "bcc24d29bc03aabf04ef3636493a7684bb3d1645"
+                "url": "https://ftp.drupal.org/files/projects/leaflet-10.2.41.zip",
+                "reference": "10.2.41",
+                "shasum": "aec6763b23e035d2c92b7f8374ac4f7626e26756"
             },
             "require": {
                 "drupal/core": "^9.3 || ^10 || ^11",
@@ -5622,8 +5622,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "10.2.40",
-                    "datestamp": "1739712453",
+                    "version": "10.2.41",
+                    "datestamp": "1739919738",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -8443,16 +8443,16 @@
         },
         {
             "name": "illuminate/collections",
-            "version": "v11.42.1",
+            "version": "v11.43.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/collections.git",
-                "reference": "6fd628d32a0989211c4f2829bf0a6a6175b2f3fd"
+                "reference": "a9d5e7ef4cffd14ac8e870d4899cde106990329c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/collections/zipball/6fd628d32a0989211c4f2829bf0a6a6175b2f3fd",
-                "reference": "6fd628d32a0989211c4f2829bf0a6a6175b2f3fd",
+                "url": "https://api.github.com/repos/illuminate/collections/zipball/a9d5e7ef4cffd14ac8e870d4899cde106990329c",
+                "reference": "a9d5e7ef4cffd14ac8e870d4899cde106990329c",
                 "shasum": ""
             },
             "require": {
@@ -8495,11 +8495,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-02-05T10:23:21+00:00"
+            "time": "2025-02-17T16:11:43+00:00"
         },
         {
             "name": "illuminate/conditionable",
-            "version": "v11.42.1",
+            "version": "v11.43.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/conditionable.git",
@@ -8545,7 +8545,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v11.42.1",
+            "version": "v11.43.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -8593,7 +8593,7 @@
         },
         {
             "name": "illuminate/macroable",
-            "version": "v11.42.1",
+            "version": "v11.43.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/macroable.git",
@@ -8639,16 +8639,16 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v11.42.1",
+            "version": "v11.43.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "047a52ac6464f7861ff05e00464fe41ed2117e9a"
+                "reference": "b5e08ef76481ed541151947e83e9a5350c0087fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/047a52ac6464f7861ff05e00464fe41ed2117e9a",
-                "reference": "047a52ac6464f7861ff05e00464fe41ed2117e9a",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/b5e08ef76481ed541151947e83e9a5350c0087fa",
+                "reference": "b5e08ef76481ed541151947e83e9a5350c0087fa",
                 "shasum": ""
             },
             "require": {
@@ -8712,7 +8712,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-02-11T21:36:04+00:00"
+            "time": "2025-02-17T15:54:26+00:00"
         },
         {
             "name": "itamair/geophp",
