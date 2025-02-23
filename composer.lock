@@ -3237,16 +3237,16 @@
         },
         {
             "name": "drupal/drupal_cms_accessibility_tools",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools.git",
-                "reference": "4e578fd98607297e0669a7dba90c0461f56b26b1"
+                "reference": "44c87a2205125ed1c4244f29084aa8c4f737e94e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=4e578fd98607297e0669a7dba90c0461f56b26b1",
-                "reference": "4e578fd98607297e0669a7dba90c0461f56b26b1",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=44c87a2205125ed1c4244f29084aa8c4f737e94e",
+                "reference": "44c87a2205125ed1c4244f29084aa8c4f737e94e",
                 "shasum": ""
             },
             "require": {
@@ -3261,9 +3261,9 @@
             ],
             "description": "Adds automated checks to help ensure content conforms to web accessibility guidelines.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/1.0.2"
             },
-            "time": "2025-01-14T14:21:19+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_admin_ui",
@@ -3337,16 +3337,16 @@
         },
         {
             "name": "drupal/drupal_cms_analytics",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_analytics.git",
-                "reference": "2d2ebe3ce8ca1111150f0b35544b19907ee30801"
+                "reference": "a52cf8cd272bdfce2a617713f9bd968a0c85fa5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_analytics/repository/archive.zip?sha=2d2ebe3ce8ca1111150f0b35544b19907ee30801",
-                "reference": "2d2ebe3ce8ca1111150f0b35544b19907ee30801",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_analytics/repository/archive.zip?sha=a52cf8cd272bdfce2a617713f9bd968a0c85fa5d",
+                "reference": "a52cf8cd272bdfce2a617713f9bd968a0c85fa5d",
                 "shasum": ""
             },
             "require": {
@@ -3356,9 +3356,9 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Adds recipes for tracking website traffic.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_analytics/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_analytics/-/tree/1.0.2"
             },
-            "time": "2025-01-14T14:21:19+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_anti_spam",
@@ -3564,16 +3564,16 @@
         },
         {
             "name": "drupal/drupal_cms_forms",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_forms.git",
-                "reference": "86af53008bd2c3a7a031c51e29911f6f5e62d5e1"
+                "reference": "7ba6bfba3e2b6e0522b618bd02eaf5b5ef49ec3c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_forms/repository/archive.zip?sha=86af53008bd2c3a7a031c51e29911f6f5e62d5e1",
-                "reference": "86af53008bd2c3a7a031c51e29911f6f5e62d5e1",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_forms/repository/archive.zip?sha=7ba6bfba3e2b6e0522b618bd02eaf5b5ef49ec3c",
+                "reference": "7ba6bfba3e2b6e0522b618bd02eaf5b5ef49ec3c",
                 "shasum": ""
             },
             "require": {
@@ -3589,22 +3589,22 @@
             ],
             "description": "Adds a simple contact form, and tools for building forms.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_forms/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_forms/-/tree/1.0.2"
             },
-            "time": "2025-01-14T14:21:19+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_google_analytics",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_google_analytics.git",
-                "reference": "32059235cce9dfd1ace9059f59c631ea58ebe6c2"
+                "reference": "41e0378bd6bb1e73cf5785efbc86131f3b236491"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=32059235cce9dfd1ace9059f59c631ea58ebe6c2",
-                "reference": "32059235cce9dfd1ace9059f59c631ea58ebe6c2",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=41e0378bd6bb1e73cf5785efbc86131f3b236491",
+                "reference": "41e0378bd6bb1e73cf5785efbc86131f3b236491",
                 "shasum": ""
             },
             "require": {
@@ -3619,9 +3619,9 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Adds tracking of website traffic using Google Analytics and Google Tag Manager. Requires a Google Tag Manager ID.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/1.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/1.0.2"
             },
-            "time": "2025-01-14T14:21:19+00:00"
+            "time": "2025-02-05T11:25:08+00:00"
         },
         {
             "name": "drupal/drupal_cms_image",
