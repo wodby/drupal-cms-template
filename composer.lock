@@ -3145,7 +3145,7 @@
                     "homepage": "https://www.drupal.org/user/0"
                 },
                 {
-                    "name": "ChrisMiller627",
+                    "name": "chrismiller627",
                     "homepage": "https://www.drupal.org/user/274027"
                 },
                 {
@@ -7311,17 +7311,17 @@
         },
         {
             "name": "drupal/trash",
-            "version": "3.0.12",
+            "version": "3.0.13",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/trash.git",
-                "reference": "3.0.12"
+                "reference": "3.0.13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/trash-3.0.12.zip",
-                "reference": "3.0.12",
-                "shasum": "d0b94b6edd5b3f418b31d95324c6cd2ba183e271"
+                "url": "https://ftp.drupal.org/files/projects/trash-3.0.13.zip",
+                "reference": "3.0.13",
+                "shasum": "a55ceb5a7d11c5f293d2a3944ad218af6b6ef1f1"
             },
             "require": {
                 "drupal/core": "^10.3 | ^11"
@@ -7329,8 +7329,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.0.12",
-                    "datestamp": "1739395398",
+                    "version": "3.0.13",
+                    "datestamp": "1740489696",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
