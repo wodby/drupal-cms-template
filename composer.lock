@@ -5013,17 +5013,17 @@
         },
         {
             "name": "drupal/gin",
-            "version": "4.0.5",
+            "version": "4.0.6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/gin.git",
-                "reference": "4.0.5"
+                "reference": "4.0.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/gin-4.0.5.zip",
-                "reference": "4.0.5",
-                "shasum": "d1ff5c5fe171badda27bccb967006b05ef283007"
+                "url": "https://ftp.drupal.org/files/projects/gin-4.0.6.zip",
+                "reference": "4.0.6",
+                "shasum": "c68a0fb646c439e1eea3f31f282e59be36eadab2"
             },
             "require": {
                 "drupal/core": "^10 || ^11",
@@ -5032,8 +5032,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "4.0.5",
-                    "datestamp": "1739910568",
+                    "version": "4.0.6",
+                    "datestamp": "1740739176",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5603,17 +5603,17 @@
         },
         {
             "name": "drupal/leaflet",
-            "version": "10.2.41",
+            "version": "10.2.42",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/leaflet.git",
-                "reference": "10.2.41"
+                "reference": "10.2.42"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/leaflet-10.2.41.zip",
-                "reference": "10.2.41",
-                "shasum": "aec6763b23e035d2c92b7f8374ac4f7626e26756"
+                "url": "https://ftp.drupal.org/files/projects/leaflet-10.2.42.zip",
+                "reference": "10.2.42",
+                "shasum": "7480d4b3c5ea8952191b9fea9b55528ad2ac9f0b"
             },
             "require": {
                 "drupal/core": "^9.3 || ^10 || ^11",
@@ -5622,8 +5622,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "10.2.41",
-                    "datestamp": "1739919738",
+                    "version": "10.2.42",
+                    "datestamp": "1740753317",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6111,29 +6111,30 @@
         },
         {
             "name": "drupal/project_browser",
-            "version": "2.0.0-alpha9",
+            "version": "2.0.0-alpha10",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/project_browser.git",
-                "reference": "2.0.0-alpha9"
+                "reference": "2.0.0-alpha10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/project_browser-2.0.0-alpha9.zip",
-                "reference": "2.0.0-alpha9",
-                "shasum": "ca3fdf5c4aac98b5d1154bde9a7893b05c0e9475"
+                "url": "https://ftp.drupal.org/files/projects/project_browser-2.0.0-alpha10.zip",
+                "reference": "2.0.0-alpha10",
+                "shasum": "da1771a8a80e615a9690a72631f776e9a0c69b83"
             },
             "require": {
                 "composer-runtime-api": "^2",
                 "composer/semver": "^3.2",
-                "drupal/core": "^10 || ^11",
+                "drupal/core": "^10.3 || ^11",
                 "ext-simplexml": "*",
                 "guzzlehttp/guzzle": "^6 || ^7",
                 "php": ">=8.1",
                 "symfony/finder": "^6.3 || ^7"
             },
             "conflict": {
-                "drupal/automatic_updates": "<3.0"
+                "drupal/automatic_updates": "<3.0",
+                "drupal/gin": "<4.0.6"
             },
             "require-dev": {
                 "colinodell/psr-testlogger": "^1.2",
@@ -6143,8 +6144,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.0-alpha9",
-                    "datestamp": "1739290480",
+                    "version": "2.0.0-alpha10",
+                    "datestamp": "1740765375",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Alpha releases are not covered by Drupal security advisories."
