@@ -4421,17 +4421,17 @@
         },
         {
             "name": "drupal/eca",
-            "version": "2.1.4",
+            "version": "2.1.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/eca.git",
-                "reference": "2.1.4"
+                "reference": "2.1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/eca-2.1.4.zip",
-                "reference": "2.1.4",
-                "shasum": "1a3dc00a0b243012608fb01823493b5d95334935"
+                "url": "https://ftp.drupal.org/files/projects/eca-2.1.5.zip",
+                "reference": "2.1.5",
+                "shasum": "c16d5b41605a390d9987d8703d0658340b2082b7"
             },
             "require": {
                 "dragonmantank/cron-expression": "^3.1",
@@ -4453,8 +4453,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.1.4",
-                    "datestamp": "1740133902",
+                    "version": "2.1.5",
+                    "datestamp": "1740826866",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4488,7 +4488,7 @@
         },
         {
             "name": "drupal/eca_modeller_bpmn",
-            "version": "2.1.4",
+            "version": "2.1.5",
             "require": {
                 "drupal/core": "^10.3 || ^11",
                 "drupal/eca": "^2",
@@ -4497,8 +4497,8 @@
             "type": "metapackage",
             "extra": {
                 "drupal": {
-                    "version": "2.1.4",
-                    "datestamp": "1740133902",
+                    "version": "2.1.5",
+                    "datestamp": "1740826866",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4531,7 +4531,7 @@
         },
         {
             "name": "drupal/eca_ui",
-            "version": "2.1.4",
+            "version": "2.1.5",
             "require": {
                 "drupal/core": "^10.3 || ^11",
                 "drupal/eca": "*"
@@ -4539,8 +4539,8 @@
             "type": "metapackage",
             "extra": {
                 "drupal": {
-                    "version": "2.1.4",
-                    "datestamp": "1740133902",
+                    "version": "2.1.5",
+                    "datestamp": "1740826866",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7007,17 +7007,17 @@
         },
         {
             "name": "drupal/smart_date",
-            "version": "4.2.2",
+            "version": "4.2.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/smart_date.git",
-                "reference": "4.2.2"
+                "reference": "4.2.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/smart_date-4.2.2.zip",
-                "reference": "4.2.2",
-                "shasum": "c66711299d80ae71bec85836d42c87c1220b1bef"
+                "url": "https://ftp.drupal.org/files/projects/smart_date-4.2.3.zip",
+                "reference": "4.2.3",
+                "shasum": "f4e97acce3bd666cf553b85c87b466eb172da69c"
             },
             "require": {
                 "drupal/core": "^9 || ^10 || ^11",
@@ -7033,8 +7033,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "4.2.2",
-                    "datestamp": "1738839300",
+                    "version": "4.2.3",
+                    "datestamp": "1740856565",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
