@@ -1,13 +1,36 @@
 name: Drupal CMS Installer
 type: profile
-core_version_requirement: '>=10.3'
+core_version_requirement: '^11.1'
 description: 'Provides install-time tweaks for Drupal CMS. Not to be used in production.'
-# Drupal CMS isn't a distribution, but we need to use this `distribution` key in order
-# to skip the installer's profile selection step.
+
+# Use the `distribution` key to skip the installer's profile selection step.
 distribution:
   name: Drupal CMS
   install:
     finish_url: '/admin/dashboard/welcome'
+    theme: drupal_cms_installer_theme
+
+forms:
+  - '\Drupal\RecipeKit\Installer\Form\RecipesForm'
+  - '\Drupal\RecipeKit\Installer\Form\SiteNameForm'
+
+recipes:
+  required:
+    - drupal/drupal_cms_starter
+  optional:
+    'Blog':
+      - drupal/drupal_cms_blog
+    'Case Studies':
+      - drupal/drupal_cms_case_study
+    'Events':
+      - drupal/drupal_cms_events
+    'News':
+      - drupal/drupal_cms_news
+    'Person Profiles':
+      - drupal/drupal_cms_person
+    'Projects':
+      - drupal/drupal_cms_project
+
 # Explicitly provide an empty list of themes -- this prevents the installer from
 # injecting Stark into it.
 # @see install_profile_info()

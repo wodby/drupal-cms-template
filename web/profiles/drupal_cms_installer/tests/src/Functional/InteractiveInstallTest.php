@@ -9,8 +9,6 @@ use Drupal\Core\Extension\ModuleExtensionList;
 use Drupal\Core\Extension\ModuleHandlerInterface;
 use Drupal\Core\Extension\ThemeExtensionList;
 use Drupal\Core\Extension\ThemeHandlerInterface;
-use Drupal\Core\State\StateInterface;
-use Drupal\drupal_cms_installer\RecipeAppliedSubscriber;
 use Drupal\FunctionalTests\Installer\InstallerTestBase;
 use Drupal\user\Entity\User;
 use Symfony\Component\DependencyInjection\ContainerInterface;
@@ -106,11 +104,8 @@ class InteractiveInstallTest extends InstallerTestBase {
    * Tests basic expectations of a successful Drupal CMS install.
    */
   public function testPostInstallState(): void {
-    // The installer's list of applied recipes should be gone.
-    $this->assertNull($this->container->get(StateInterface::class)->get(RecipeAppliedSubscriber::STATE_KEY));
-
     // The site name and site-wide email address should have been set.
-    // @see \Drupal\drupal_cms_installer\Form\SiteNameForm
+    // @see \Drupal\RecipeKit\Installer\Form\SiteNameForm
     $site_config = $this->config('system.site');
     $this->assertSame('Installer Test', $site_config->get('name'));
     $this->assertSame("hello@good.bye", $site_config->get('mail'));
@@ -123,8 +118,9 @@ class InteractiveInstallTest extends InstallerTestBase {
     $this->assertContains('administrator', $account->getRoles());
 
     // The installer should have uninstalled itself.
-    // @see drupal_cms_installer_uninstall_myself()
     $this->assertFalse($this->container->getParameter('install_profile'));
+    // The theme used in the installer, should not be installed.
+    $this->assertArrayNotHasKey('drupal_cms_installer_theme', $this->config('core.extension')->get('theme'));
 
     // Ensure that there are non-core extensions installed, which proves that
     // recipes were applied during site installation.
