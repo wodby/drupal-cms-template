@@ -7979,29 +7979,28 @@
         },
         {
             "name": "geocoder-php/nominatim-provider",
-            "version": "5.7.0",
+            "version": "5.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/geocoder-php/nominatim-provider.git",
-                "reference": "a50486161f6babad7b1ed7ee7bf86147b0844413"
+                "reference": "1b6852d33e9b558a13d98510fff66e76f4aed9b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/geocoder-php/nominatim-provider/zipball/a50486161f6babad7b1ed7ee7bf86147b0844413",
-                "reference": "a50486161f6babad7b1ed7ee7bf86147b0844413",
+                "url": "https://api.github.com/repos/geocoder-php/nominatim-provider/zipball/1b6852d33e9b558a13d98510fff66e76f4aed9b2",
+                "reference": "1b6852d33e9b558a13d98510fff66e76f4aed9b2",
                 "shasum": ""
             },
             "require": {
                 "geocoder-php/common-http": "^4.1",
-                "php": "^7.4 || ^8.0",
-                "willdurand/geocoder": "^4.0"
+                "php": "^8.0",
+                "willdurand/geocoder": "^4.0|^5.0"
             },
             "provide": {
                 "geocoder-php/provider-implementation": "1.0"
             },
             "require-dev": {
-                "geocoder-php/provider-integration-tests": "^1.0",
-                "php-http/curl-client": "^2.2",
+                "geocoder-php/provider-integration-tests": "^1.6.3",
                 "php-http/message": "^1.0",
                 "phpunit/phpunit": "^9.5"
             },
@@ -8032,9 +8031,9 @@
             "description": "Geocoder Nominatim adapter",
             "homepage": "http://geocoder-php.org/Geocoder/",
             "support": {
-                "source": "https://github.com/geocoder-php/nominatim-provider/tree/5.7.0"
+                "source": "https://github.com/geocoder-php/nominatim-provider/tree/5.8.0"
             },
-            "time": "2023-03-01T10:18:27+00:00"
+            "time": "2025-04-15T13:24:32+00:00"
         },
         {
             "name": "goalgorilla/rtseo.js",
@@ -14603,25 +14602,25 @@
         },
         {
             "name": "willdurand/geocoder",
-            "version": "4.6.0",
+            "version": "5.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/geocoder-php/php-common.git",
-                "reference": "be3d9ed0fddf8c698ee079d8a07ae9520b4a49a1"
+                "reference": "a749e00819d2929bd0ec40fb79853956332970ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/geocoder-php/php-common/zipball/be3d9ed0fddf8c698ee079d8a07ae9520b4a49a1",
-                "reference": "be3d9ed0fddf8c698ee079d8a07ae9520b4a49a1",
+                "url": "https://api.github.com/repos/geocoder-php/php-common/zipball/a749e00819d2929bd0ec40fb79853956332970ba",
+                "reference": "a749e00819d2929bd0ec40fb79853956332970ba",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.4 || ^8.0"
+                "php": ">=8.2"
             },
             "require-dev": {
                 "nyholm/nsa": "^1.1",
                 "phpunit/phpunit": "^9.5",
-                "symfony/stopwatch": "~2.5"
+                "symfony/stopwatch": "~2.5 || ~5.0"
             },
             "suggest": {
                 "symfony/stopwatch": "If you want to use the TimedGeocoder"
@@ -14629,7 +14628,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "4.1-dev"
+                    "dev-master": "5.1-dev"
                 }
             },
             "autoload": {
@@ -14659,9 +14658,9 @@
                 "geoip"
             ],
             "support": {
-                "source": "https://github.com/geocoder-php/php-common/tree/4.6.0"
+                "source": "https://github.com/geocoder-php/php-common/tree/5.0.0"
             },
-            "time": "2022-07-30T11:09:43+00:00"
+            "time": "2025-01-01T15:52:42+00:00"
         },
         {
             "name": "wpai-inc/anthropic-sdk-php",
