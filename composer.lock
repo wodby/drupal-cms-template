@@ -4797,17 +4797,17 @@
         },
         {
             "name": "drupal/friendlycaptcha",
-            "version": "1.1.3",
+            "version": "1.1.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/friendlycaptcha.git",
-                "reference": "1.1.3"
+                "reference": "1.1.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/friendlycaptcha-1.1.3.zip",
-                "reference": "1.1.3",
-                "shasum": "4b705e96093ef32df4666a8f6925c95196363b8e"
+                "url": "https://ftp.drupal.org/files/projects/friendlycaptcha-1.1.4.zip",
+                "reference": "1.1.4",
+                "shasum": "1ec2d274d1462a8eecba0d695a51d39df0149194"
             },
             "require": {
                 "drupal/captcha": ">=1 || <=2",
@@ -4816,8 +4816,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.1.3",
-                    "datestamp": "1733222894",
+                    "version": "1.1.4",
+                    "datestamp": "1745330350",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5607,17 +5607,17 @@
         },
         {
             "name": "drupal/leaflet",
-            "version": "10.2.44",
+            "version": "10.2.45",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/leaflet.git",
-                "reference": "10.2.44"
+                "reference": "10.2.45"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/leaflet-10.2.44.zip",
-                "reference": "10.2.44",
-                "shasum": "34c601a1c9e2d20d52625fbe4a30592b0c949613"
+                "url": "https://ftp.drupal.org/files/projects/leaflet-10.2.45.zip",
+                "reference": "10.2.45",
+                "shasum": "734d927637fd563af9b0ba8a5fecd73dd3144d74"
             },
             "require": {
                 "drupal/core": "^9.3 || ^10 || ^11",
@@ -5626,8 +5626,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "10.2.44",
-                    "datestamp": "1744547382",
+                    "version": "10.2.45",
+                    "datestamp": "1745329985",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7221,17 +7221,17 @@
         },
         {
             "name": "drupal/tagify",
-            "version": "1.2.37",
+            "version": "1.2.38",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/tagify.git",
-                "reference": "1.2.37"
+                "reference": "1.2.38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.37.zip",
-                "reference": "1.2.37",
-                "shasum": "ae760ffe9132bfee3a1eb37384c8bdcd26886bd4"
+                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.38.zip",
+                "reference": "1.2.38",
+                "shasum": "1f74bfa6e3181f922353364eb4668fae17368783"
             },
             "require": {
                 "drupal/core": "^8.8 || ^9 || ^10 || ^11"
@@ -7247,8 +7247,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.37",
-                    "datestamp": "1742287083",
+                    "version": "1.2.38",
+                    "datestamp": "1745319006",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7657,16 +7657,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "13.5.1",
+            "version": "13.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "16076b24532eb27aaf9e2b8bca1e05a74871c713"
+                "reference": "570a05dce7aea9770f17306808804290764127ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/16076b24532eb27aaf9e2b8bca1e05a74871c713",
-                "reference": "16076b24532eb27aaf9e2b8bca1e05a74871c713",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/570a05dce7aea9770f17306808804290764127ad",
+                "reference": "570a05dce7aea9770f17306808804290764127ad",
                 "shasum": ""
             },
             "require": {
@@ -7793,7 +7793,7 @@
                 "issues": "https://github.com/drush-ops/drush/issues",
                 "security": "https://github.com/drush-ops/drush/security/advisories",
                 "slack": "https://drupal.slack.com/messages/C62H9CWQM",
-                "source": "https://github.com/drush-ops/drush/tree/13.5.1"
+                "source": "https://github.com/drush-ops/drush/tree/13.6.0"
             },
             "funding": [
                 {
@@ -7801,7 +7801,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-04-04T11:38:40+00:00"
+            "time": "2025-04-22T12:14:13+00:00"
         },
         {
             "name": "egulias/email-validator",
