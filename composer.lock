@@ -8534,7 +8534,7 @@
         },
         {
             "name": "illuminate/collections",
-            "version": "v11.44.5",
+            "version": "v11.44.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/collections.git",
@@ -8590,7 +8590,7 @@
         },
         {
             "name": "illuminate/conditionable",
-            "version": "v11.44.5",
+            "version": "v11.44.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/conditionable.git",
@@ -8636,7 +8636,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v11.44.5",
+            "version": "v11.44.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -8684,7 +8684,7 @@
         },
         {
             "name": "illuminate/macroable",
-            "version": "v11.44.5",
+            "version": "v11.44.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/macroable.git",
@@ -8730,16 +8730,16 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v11.44.5",
+            "version": "v11.44.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "b462971289facee2c6002b8c4dc2403dd258bcd3"
+                "reference": "915efb197e615dc8adf52fa96d02b9035ff9ce6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/b462971289facee2c6002b8c4dc2403dd258bcd3",
-                "reference": "b462971289facee2c6002b8c4dc2403dd258bcd3",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/915efb197e615dc8adf52fa96d02b9035ff9ce6f",
+                "reference": "915efb197e615dc8adf52fa96d02b9035ff9ce6f",
                 "shasum": ""
             },
             "require": {
@@ -8803,7 +8803,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-03-28T16:08:47+00:00"
+            "time": "2025-04-25T08:31:51+00:00"
         },
         {
             "name": "itamair/geophp",
