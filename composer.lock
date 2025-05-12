@@ -7225,17 +7225,17 @@
         },
         {
             "name": "drupal/tagify",
-            "version": "1.2.38",
+            "version": "1.2.39",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/tagify.git",
-                "reference": "1.2.38"
+                "reference": "1.2.39"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.38.zip",
-                "reference": "1.2.38",
-                "shasum": "1f74bfa6e3181f922353364eb4668fae17368783"
+                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.39.zip",
+                "reference": "1.2.39",
+                "shasum": "37155edc9916f7425148258cc7a109605fff9325"
             },
             "require": {
                 "drupal/core": "^8.8 || ^9 || ^10 || ^11"
@@ -7251,8 +7251,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.38",
-                    "datestamp": "1745319006",
+                    "version": "1.2.39",
+                    "datestamp": "1746954604",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
