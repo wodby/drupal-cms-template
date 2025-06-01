@@ -1821,6 +1821,10 @@
                     "homepage": "https://www.drupal.org/user/3065779"
                 },
                 {
+                    "name": "valthebald",
+                    "homepage": "https://www.drupal.org/user/239562"
+                },
+                {
                     "name": "wouters_f",
                     "homepage": "https://www.drupal.org/user/721548"
                 },
@@ -7229,17 +7233,17 @@
         },
         {
             "name": "drupal/tagify",
-            "version": "1.2.39",
+            "version": "1.2.40",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/tagify.git",
-                "reference": "1.2.39"
+                "reference": "1.2.40"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.39.zip",
-                "reference": "1.2.39",
-                "shasum": "37155edc9916f7425148258cc7a109605fff9325"
+                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.40.zip",
+                "reference": "1.2.40",
+                "shasum": "5a4bcc41fe1997a3cd9548e0641268741f68c0a1"
             },
             "require": {
                 "drupal/core": "^8.8 || ^9 || ^10 || ^11"
@@ -7255,8 +7259,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.39",
-                    "datestamp": "1746954604",
+                    "version": "1.2.40",
+                    "datestamp": "1748686447",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -9703,16 +9707,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v5.4.0",
+            "version": "v5.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "447a020a1f875a434d62f2a401f53b82a396e494"
+                "reference": "ae59794362fe85e051a58ad36b289443f57be7a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/447a020a1f875a434d62f2a401f53b82a396e494",
-                "reference": "447a020a1f875a434d62f2a401f53b82a396e494",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/ae59794362fe85e051a58ad36b289443f57be7a9",
+                "reference": "ae59794362fe85e051a58ad36b289443f57be7a9",
                 "shasum": ""
             },
             "require": {
@@ -9755,9 +9759,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v5.4.0"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.5.0"
             },
-            "time": "2024-12-30T11:07:19+00:00"
+            "time": "2025-05-31T08:24:38+00:00"
         },
         {
             "name": "openai-php/client",
