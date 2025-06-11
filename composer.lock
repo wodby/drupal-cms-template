@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "85f61f790c8ae9b750d1947cc2a08fc8",
+    "content-hash": "e4223a69ba677a1e7e815dc18d0e59e5",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3287,23 +3287,23 @@
         },
         {
             "name": "drupal/drupal_cms_admin_ui",
-            "version": "1.1.2",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_admin_ui.git",
-                "reference": "3f48a3da714103bed2ea418a797b4e07206977d0"
+                "reference": "6eefe2e0bbcd2676b7bee3e05a5bdd3c60e62938"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=3f48a3da714103bed2ea418a797b4e07206977d0",
-                "reference": "3f48a3da714103bed2ea418a797b4e07206977d0",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=6eefe2e0bbcd2676b7bee3e05a5bdd3c60e62938",
+                "reference": "6eefe2e0bbcd2676b7bee3e05a5bdd3c60e62938",
                 "shasum": ""
             },
             "require": {
                 "drupal/coffee": "^2",
                 "drupal/core": "^10.3 || ^11",
                 "drupal/dashboard": "^2",
-                "drupal/gin": "^4.0.6",
+                "drupal/gin": "^4.0.6 || ^5",
                 "drupal/sam": "^1.2",
                 "drupal/tagify": "^1.2"
             },
@@ -3314,9 +3314,9 @@
             ],
             "description": "Sets up a nice administrative theme and navigation.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.1.2"
+                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.1.3"
             },
-            "time": "2025-06-05T13:45:09+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/drupal_cms_ai",
