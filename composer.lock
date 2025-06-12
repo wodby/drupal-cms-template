@@ -3320,16 +3320,16 @@
         },
         {
             "name": "drupal/drupal_cms_ai",
-            "version": "1.1.2",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_ai.git",
-                "reference": "fd74d816617df26778946275db49e13cf8dfd044"
+                "reference": "3a38f6cff4f9ebbc9df5d313c4ee1351261a8dff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_ai/repository/archive.zip?sha=fd74d816617df26778946275db49e13cf8dfd044",
-                "reference": "fd74d816617df26778946275db49e13cf8dfd044",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_ai/repository/archive.zip?sha=3a38f6cff4f9ebbc9df5d313c4ee1351261a8dff",
+                "reference": "3a38f6cff4f9ebbc9df5d313c4ee1351261a8dff",
                 "shasum": ""
             },
             "require": {
@@ -3352,9 +3352,9 @@
             ],
             "description": "Adds integration with AI services, such as alt text generation and a chat bot to assist with site building. Requires an API key from Open AI or Anthropic.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_ai/-/tree/1.1.2"
+                "source": "https://git.drupalcode.org/project/drupal_cms_ai/-/tree/1.1.3"
             },
-            "time": "2025-06-05T13:45:09+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/drupal_cms_analytics",
@@ -4016,16 +4016,16 @@
         },
         {
             "name": "drupal/drupal_cms_starter",
-            "version": "1.1.2",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_starter.git",
-                "reference": "f22cde99990eec3a3a82ee0f7961445dfa902510"
+                "reference": "e29d311aa37866796fff96f2839f0f8b1680c727"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=f22cde99990eec3a3a82ee0f7961445dfa902510",
-                "reference": "f22cde99990eec3a3a82ee0f7961445dfa902510",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=e29d311aa37866796fff96f2839f0f8b1680c727",
+                "reference": "e29d311aa37866796fff96f2839f0f8b1680c727",
                 "shasum": ""
             },
             "require": {
@@ -4054,9 +4054,9 @@
             ],
             "description": "Applies the foundational Drupal CMS recipes.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.1.2"
+                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.1.3"
             },
-            "time": "2025-06-05T13:45:09+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/easy_breadcrumb",
@@ -4589,17 +4589,17 @@
         },
         {
             "name": "drupal/editoria11y",
-            "version": "2.2.10",
+            "version": "2.2.11",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/editoria11y.git",
-                "reference": "2.2.10"
+                "reference": "2.2.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/editoria11y-2.2.10.zip",
-                "reference": "2.2.10",
-                "shasum": "2299571e0102a2b612256b0bcc4a7fdf85bb401f"
+                "url": "https://ftp.drupal.org/files/projects/editoria11y-2.2.11.zip",
+                "reference": "2.2.11",
+                "shasum": "be8e424636492f3613f3c39de83a9d0175fb83bc"
             },
             "require": {
                 "drupal/core": "^9 || ^10 || ^11"
@@ -4610,8 +4610,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.2.10",
-                    "datestamp": "1748985237",
+                    "version": "2.2.11",
+                    "datestamp": "1749656980",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6230,16 +6230,16 @@
         },
         {
             "name": "drupal/recipe_installer_kit",
-            "version": "1.0.0-alpha4",
+            "version": "1.0.0-alpha6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/recipe_installer_kit.git",
-                "reference": "f8643755715b12c1a7367d6deb1875378f049480"
+                "reference": "970314449e1edaa08c6eb373318293fd33240d15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Frecipe_installer_kit/repository/archive.zip?sha=f8643755715b12c1a7367d6deb1875378f049480",
-                "reference": "f8643755715b12c1a7367d6deb1875378f049480",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Frecipe_installer_kit/repository/archive.zip?sha=970314449e1edaa08c6eb373318293fd33240d15",
+                "reference": "970314449e1edaa08c6eb373318293fd33240d15",
                 "shasum": ""
             },
             "require": {
@@ -6257,9 +6257,9 @@
                 "GPL-2.0-or-later"
             ],
             "support": {
-                "source": "https://git.drupalcode.org/project/recipe_installer_kit/-/tree/1.0.0-alpha4"
+                "source": "https://git.drupalcode.org/project/recipe_installer_kit/-/tree/1.0.0-alpha6"
             },
-            "time": "2025-05-13T20:19:45+00:00"
+            "time": "2025-06-11T13:34:23+00:00"
         },
         {
             "name": "drupal/redirect",
