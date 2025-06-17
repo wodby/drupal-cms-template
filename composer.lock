@@ -3293,16 +3293,16 @@
         },
         {
             "name": "drupal/drupal_cms_blog",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_blog.git",
-                "reference": "19dd5ec9c1ed992b4cdfcd12c74fd8aab93f71c1"
+                "reference": "ad5609fc5b2f7fc8c4a13242cee2a1739e9a9687"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blog/repository/archive.zip?sha=19dd5ec9c1ed992b4cdfcd12c74fd8aab93f71c1",
-                "reference": "19dd5ec9c1ed992b4cdfcd12c74fd8aab93f71c1",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blog/repository/archive.zip?sha=ad5609fc5b2f7fc8c4a13242cee2a1739e9a9687",
+                "reference": "ad5609fc5b2f7fc8c4a13242cee2a1739e9a9687",
                 "shasum": ""
             },
             "require": {
@@ -3319,22 +3319,22 @@
             ],
             "description": "Adds a blog post content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_blog/-/tree/1.1.1"
+                "source": "https://git.drupalcode.org/project/drupal_cms_blog/-/tree/1.1.3"
             },
-            "time": "2025-05-07T11:45:23+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/drupal_cms_case_study",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_case_study.git",
-                "reference": "e3db12f5b3bca7c68ff77688302f5f0aee011a30"
+                "reference": "2f7ad5de933acd1514fa43128c42803d7c0c673e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_case_study/repository/archive.zip?sha=e3db12f5b3bca7c68ff77688302f5f0aee011a30",
-                "reference": "e3db12f5b3bca7c68ff77688302f5f0aee011a30",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_case_study/repository/archive.zip?sha=2f7ad5de933acd1514fa43128c42803d7c0c673e",
+                "reference": "2f7ad5de933acd1514fa43128c42803d7c0c673e",
                 "shasum": ""
             },
             "require": {
@@ -3349,9 +3349,9 @@
             ],
             "description": "Adds a case study content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_case_study/-/tree/1.1.1"
+                "source": "https://git.drupalcode.org/project/drupal_cms_case_study/-/tree/1.1.3"
             },
-            "time": "2025-05-07T11:45:23+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/drupal_cms_content_type_base",
@@ -3394,16 +3394,16 @@
         },
         {
             "name": "drupal/drupal_cms_events",
-            "version": "1.1.2",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_events.git",
-                "reference": "17dd900d8abb197414cda8311568343428bd0e54"
+                "reference": "91f62d3d71203dd48eb63f630a1471fde0deb85f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_events/repository/archive.zip?sha=17dd900d8abb197414cda8311568343428bd0e54",
-                "reference": "17dd900d8abb197414cda8311568343428bd0e54",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_events/repository/archive.zip?sha=91f62d3d71203dd48eb63f630a1471fde0deb85f",
+                "reference": "91f62d3d71203dd48eb63f630a1471fde0deb85f",
                 "shasum": ""
             },
             "require": {
@@ -3426,9 +3426,9 @@
             ],
             "description": "Adds an event content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_events/-/tree/1.1.2"
+                "source": "https://git.drupalcode.org/project/drupal_cms_events/-/tree/1.1.3"
             },
-            "time": "2025-06-05T13:45:09+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/drupal_cms_forms",
@@ -3523,16 +3523,16 @@
         },
         {
             "name": "drupal/drupal_cms_news",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_news.git",
-                "reference": "95c65532fd6d4602cd71f1c0628bb0038dc59294"
+                "reference": "6f71ccf838121ef2bcd75dd46acdb3b6b248b768"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=95c65532fd6d4602cd71f1c0628bb0038dc59294",
-                "reference": "95c65532fd6d4602cd71f1c0628bb0038dc59294",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=6f71ccf838121ef2bcd75dd46acdb3b6b248b768",
+                "reference": "6f71ccf838121ef2bcd75dd46acdb3b6b248b768",
                 "shasum": ""
             },
             "require": {
@@ -3549,9 +3549,9 @@
             ],
             "description": "Adds a news content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.1.1"
+                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.1.3"
             },
-            "time": "2025-05-07T11:45:23+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/drupal_cms_olivero",
@@ -3599,16 +3599,16 @@
         },
         {
             "name": "drupal/drupal_cms_page",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_page.git",
-                "reference": "11c28bf883bc8e1b3509f5eded7d4ead2e8107ba"
+                "reference": "da4e90ccba9624592a687628ec5ffc24f77ae203"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_page/repository/archive.zip?sha=11c28bf883bc8e1b3509f5eded7d4ead2e8107ba",
-                "reference": "11c28bf883bc8e1b3509f5eded7d4ead2e8107ba",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_page/repository/archive.zip?sha=da4e90ccba9624592a687628ec5ffc24f77ae203",
+                "reference": "da4e90ccba9624592a687628ec5ffc24f77ae203",
                 "shasum": ""
             },
             "require": {
@@ -3622,22 +3622,22 @@
             ],
             "description": "Adds a content type for simple pages.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_page/-/tree/1.1.1"
+                "source": "https://git.drupalcode.org/project/drupal_cms_page/-/tree/1.1.3"
             },
-            "time": "2025-05-07T11:45:23+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/drupal_cms_person",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_person.git",
-                "reference": "80680a6a065025b26f8c3516745740d1e4dc887c"
+                "reference": "b2cc2e54d9a169940dd7aa04c2801fb499bfc35d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_person/repository/archive.zip?sha=80680a6a065025b26f8c3516745740d1e4dc887c",
-                "reference": "80680a6a065025b26f8c3516745740d1e4dc887c",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_person/repository/archive.zip?sha=b2cc2e54d9a169940dd7aa04c2801fb499bfc35d",
+                "reference": "b2cc2e54d9a169940dd7aa04c2801fb499bfc35d",
                 "shasum": ""
             },
             "require": {
@@ -3652,9 +3652,9 @@
             ],
             "description": "Adds a person profile content type.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_person/-/tree/1.1.1"
+                "source": "https://git.drupalcode.org/project/drupal_cms_person/-/tree/1.1.3"
             },
-            "time": "2025-05-07T11:45:23+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/drupal_cms_privacy_basic",
@@ -3691,16 +3691,16 @@
         },
         {
             "name": "drupal/drupal_cms_project",
-            "version": "1.1.1",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_project.git",
-                "reference": "81b52d1cf8ca4b96f8fcf112d184ebc5eb5060da"
+                "reference": "f9d322a5b4b98fa8241f518033594f56b22afa83"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_project/repository/archive.zip?sha=81b52d1cf8ca4b96f8fcf112d184ebc5eb5060da",
-                "reference": "81b52d1cf8ca4b96f8fcf112d184ebc5eb5060da",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_project/repository/archive.zip?sha=f9d322a5b4b98fa8241f518033594f56b22afa83",
+                "reference": "f9d322a5b4b98fa8241f518033594f56b22afa83",
                 "shasum": ""
             },
             "require": {
@@ -3715,9 +3715,9 @@
             ],
             "description": "Adds a project content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_project/-/tree/1.1.1"
+                "source": "https://git.drupalcode.org/project/drupal_cms_project/-/tree/1.1.3"
             },
-            "time": "2025-05-07T11:45:23+00:00"
+            "time": "2025-06-10T11:21:54+00:00"
         },
         {
             "name": "drupal/drupal_cms_remote_video",
@@ -4001,17 +4001,17 @@
         },
         {
             "name": "drupal/easy_email",
-            "version": "3.0.4",
+            "version": "3.0.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email.git",
-                "reference": "3.0.4"
+                "reference": "3.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/easy_email-3.0.4.zip",
-                "reference": "3.0.4",
-                "shasum": "1b42bd118538f5f1a45fe5d8fef68494ab45d4c6"
+                "url": "https://ftp.drupal.org/files/projects/easy_email-3.0.5.zip",
+                "reference": "3.0.5",
+                "shasum": "4f079e156933e5bcbb7d2fc59dd747c3fbe3c2e4"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11",
@@ -4028,8 +4028,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.0.4",
-                    "datestamp": "1735316199",
+                    "version": "3.0.5",
+                    "datestamp": "1750096730",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4063,16 +4063,16 @@
         },
         {
             "name": "drupal/easy_email_express",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email_express.git",
-                "reference": "324e63083b41dbeab29bf8c480da1b081d864092"
+                "reference": "aff24f73fe8b2e04cbb524a7887c035385ba8662"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_express/repository/archive.zip?sha=324e63083b41dbeab29bf8c480da1b081d864092",
-                "reference": "324e63083b41dbeab29bf8c480da1b081d864092",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_express/repository/archive.zip?sha=aff24f73fe8b2e04cbb524a7887c035385ba8662",
+                "reference": "aff24f73fe8b2e04cbb524a7887c035385ba8662",
                 "shasum": ""
             },
             "require": {
@@ -4095,20 +4095,20 @@
                 "issues": "https://www.drupal.org/project/issues/easy_email_express",
                 "source": "https://git.drupalcode.org/project/easy_email_express"
             },
-            "time": "2024-11-22T14:22:03+00:00"
+            "time": "2025-06-16T14:18:11+00:00"
         },
         {
             "name": "drupal/easy_email_standard",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email_standard.git",
-                "reference": "80cfbcfdc5d9a84d17a81502aa7189bc011f07c0"
+                "reference": "e252ab7285864d7e3d63ee3e78d5c7a518f00a17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_standard/repository/archive.zip?sha=80cfbcfdc5d9a84d17a81502aa7189bc011f07c0",
-                "reference": "80cfbcfdc5d9a84d17a81502aa7189bc011f07c0",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_standard/repository/archive.zip?sha=e252ab7285864d7e3d63ee3e78d5c7a518f00a17",
+                "reference": "e252ab7285864d7e3d63ee3e78d5c7a518f00a17",
                 "shasum": ""
             },
             "require": {
@@ -4132,20 +4132,20 @@
                 "issues": "https://www.drupal.org/project/issues/easy_email_standard",
                 "source": "https://git.drupalcode.org/project/easy_email_standard"
             },
-            "time": "2024-11-20T17:14:09+00:00"
+            "time": "2025-06-16T14:15:30+00:00"
         },
         {
             "name": "drupal/easy_email_text_format",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email_text_format.git",
-                "reference": "43798ff5924bdeb07ef30531faa2ab8271a3169f"
+                "reference": "568b1d97a91c4aab6aa2e6a3936f280cc49f8385"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_text_format/repository/archive.zip?sha=43798ff5924bdeb07ef30531faa2ab8271a3169f",
-                "reference": "43798ff5924bdeb07ef30531faa2ab8271a3169f",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_text_format/repository/archive.zip?sha=568b1d97a91c4aab6aa2e6a3936f280cc49f8385",
+                "reference": "568b1d97a91c4aab6aa2e6a3936f280cc49f8385",
                 "shasum": ""
             },
             "require": {
@@ -4165,7 +4165,7 @@
                 "issues": "https://www.drupal.org/project/issues/easy_email_text_format",
                 "source": "https://git.drupalcode.org/project/easy_email_text_format"
             },
-            "time": "2024-11-20T16:00:31+00:00"
+            "time": "2025-06-16T14:07:18+00:00"
         },
         {
             "name": "drupal/easy_email_theme",
@@ -4213,16 +4213,16 @@
         },
         {
             "name": "drupal/easy_email_types_core",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email_types_core.git",
-                "reference": "fcbf5253f35f16e94dc92e6fd6b35e6f620effe5"
+                "reference": "d8e41ba370031d8978e4dc30efaed9d91be1a75c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_types_core/repository/archive.zip?sha=fcbf5253f35f16e94dc92e6fd6b35e6f620effe5",
-                "reference": "fcbf5253f35f16e94dc92e6fd6b35e6f620effe5",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_types_core/repository/archive.zip?sha=d8e41ba370031d8978e4dc30efaed9d91be1a75c",
+                "reference": "d8e41ba370031d8978e4dc30efaed9d91be1a75c",
                 "shasum": ""
             },
             "require": {
@@ -4244,20 +4244,20 @@
                 "issues": "https://www.drupal.org/project/issues/easy_email_types_core",
                 "source": "https://git.drupalcode.org/project/easy_email_types_core"
             },
-            "time": "2024-11-22T14:11:05+00:00"
+            "time": "2025-06-16T14:13:31+00:00"
         },
         {
             "name": "drupal/easy_email_types_default",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email_types_default.git",
-                "reference": "edad52fa8dd7d14b7dbd01e5da250b9d79f20246"
+                "reference": "7f981984cd1d1d9e6eddf4a914210d7ae3d490e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_types_default/repository/archive.zip?sha=edad52fa8dd7d14b7dbd01e5da250b9d79f20246",
-                "reference": "edad52fa8dd7d14b7dbd01e5da250b9d79f20246",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_types_default/repository/archive.zip?sha=7f981984cd1d1d9e6eddf4a914210d7ae3d490e2",
+                "reference": "7f981984cd1d1d9e6eddf4a914210d7ae3d490e2",
                 "shasum": ""
             },
             "require": {
@@ -4279,7 +4279,7 @@
                 "issues": "https://www.drupal.org/project/issues/easy_email_types_default",
                 "source": "https://git.drupalcode.org/project/easy_email_types_default"
             },
-            "time": "2024-11-22T14:16:50+00:00"
+            "time": "2025-06-16T14:10:36+00:00"
         },
         {
             "name": "drupal/eca",
