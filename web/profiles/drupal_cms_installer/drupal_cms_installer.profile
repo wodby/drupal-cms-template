@@ -10,8 +10,8 @@ use Drupal\RecipeKit\Installer\Messenger;
 /**
  * Implements hook_install_tasks().
  */
-function drupal_cms_installer_install_tasks(): array {
-  $tasks = Hooks::installTasks();
+function drupal_cms_installer_install_tasks(array &$install_state): array {
+  $tasks = Hooks::installTasks($install_state);
 
   if (getenv('IS_DDEV_PROJECT')) {
     Messenger::reject(
