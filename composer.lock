@@ -5522,17 +5522,17 @@
         },
         {
             "name": "drupal/leaflet",
-            "version": "10.3.3",
+            "version": "10.3.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/leaflet.git",
-                "reference": "10.3.3"
+                "reference": "10.3.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/leaflet-10.3.3.zip",
-                "reference": "10.3.3",
-                "shasum": "2b8b08ba38c6c80574b0f04ff27e9fbf95c63ad6"
+                "url": "https://ftp.drupal.org/files/projects/leaflet-10.3.4.zip",
+                "reference": "10.3.4",
+                "shasum": "936222df53d607d6074ee2ada5c13aaa84992a58"
             },
             "require": {
                 "drupal/core": "^9.3 || ^10 || ^11",
@@ -5541,8 +5541,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "10.3.3",
-                    "datestamp": "1750662685",
+                    "version": "10.3.4",
+                    "datestamp": "1751013778",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -8984,16 +8984,16 @@
         },
         {
             "name": "mck89/peast",
-            "version": "v1.17.0",
+            "version": "v1.17.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mck89/peast.git",
-                "reference": "3a752d39bd7d8dc1e19bcf424f3d5ac1a1ca6ad5"
+                "reference": "90e01c0da3a5a1c2c06d94a56fa2e0594769d525"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mck89/peast/zipball/3a752d39bd7d8dc1e19bcf424f3d5ac1a1ca6ad5",
-                "reference": "3a752d39bd7d8dc1e19bcf424f3d5ac1a1ca6ad5",
+                "url": "https://api.github.com/repos/mck89/peast/zipball/90e01c0da3a5a1c2c06d94a56fa2e0594769d525",
+                "reference": "90e01c0da3a5a1c2c06d94a56fa2e0594769d525",
                 "shasum": ""
             },
             "require": {
@@ -9006,7 +9006,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.17.0-dev"
+                    "dev-master": "1.17.1-dev"
                 }
             },
             "autoload": {
@@ -9027,9 +9027,9 @@
             "description": "Peast is PHP library that generates AST for JavaScript code",
             "support": {
                 "issues": "https://github.com/mck89/peast/issues",
-                "source": "https://github.com/mck89/peast/tree/v1.17.0"
+                "source": "https://github.com/mck89/peast/tree/v1.17.1"
             },
-            "time": "2025-03-07T19:44:14+00:00"
+            "time": "2025-06-27T14:33:03+00:00"
         },
         {
             "name": "mtownsend/xml-to-array",
