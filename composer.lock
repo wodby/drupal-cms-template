@@ -2207,17 +2207,17 @@
         },
         {
             "name": "drupal/bpmn_io",
-            "version": "2.0.8",
+            "version": "2.0.10",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/bpmn_io.git",
-                "reference": "2.0.8"
+                "reference": "2.0.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/bpmn_io-2.0.8.zip",
-                "reference": "2.0.8",
-                "shasum": "3fe8734f2a9570fcfdbe47167eafa1e3402f7c03"
+                "url": "https://ftp.drupal.org/files/projects/bpmn_io-2.0.10.zip",
+                "reference": "2.0.10",
+                "shasum": "3068bbb5ea4df08279390d5749d62b3b1bcda654"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11",
@@ -2228,8 +2228,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.8",
-                    "datestamp": "1744192017",
+                    "version": "2.0.10",
+                    "datestamp": "1751531607",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4331,17 +4331,17 @@
         },
         {
             "name": "drupal/eca",
-            "version": "2.1.9",
+            "version": "2.1.10",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/eca.git",
-                "reference": "2.1.9"
+                "reference": "2.1.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/eca-2.1.9.zip",
-                "reference": "2.1.9",
-                "shasum": "e3b465d14bb49a956b5c7dbd93a191eed7e9c3d7"
+                "url": "https://ftp.drupal.org/files/projects/eca-2.1.10.zip",
+                "reference": "2.1.10",
+                "shasum": "eaae440d51c17178340cebc21af62f5792b7026b"
             },
             "require": {
                 "dragonmantank/cron-expression": "^3.1",
@@ -4363,8 +4363,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.1.9",
-                    "datestamp": "1750775146",
+                    "version": "2.1.10",
+                    "datestamp": "1751524996",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4398,7 +4398,7 @@
         },
         {
             "name": "drupal/eca_modeller_bpmn",
-            "version": "2.1.9",
+            "version": "2.1.10",
             "require": {
                 "drupal/core": "^10.3 || ^11",
                 "drupal/eca": "^2",
@@ -4407,8 +4407,8 @@
             "type": "metapackage",
             "extra": {
                 "drupal": {
-                    "version": "2.1.9",
-                    "datestamp": "1750775146",
+                    "version": "2.1.10",
+                    "datestamp": "1751524996",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4441,7 +4441,7 @@
         },
         {
             "name": "drupal/eca_ui",
-            "version": "2.1.9",
+            "version": "2.1.10",
             "require": {
                 "drupal/core": "^10.3 || ^11",
                 "drupal/eca": "*"
@@ -4449,8 +4449,8 @@
             "type": "metapackage",
             "extra": {
                 "drupal": {
-                    "version": "2.1.9",
-                    "datestamp": "1750775146",
+                    "version": "2.1.10",
+                    "datestamp": "1751524996",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
