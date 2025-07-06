@@ -1,12 +1,12 @@
 {
     "name": "drupal/cms",
-    "version": "1.2.0",
+    "version": "1.2.2",
     "description": "Drupal CMS is a ready-to-use platform built on Drupal core, offering smart defaults to get started quickly and enterprise-grade tools for marketers, designers, and content creators.",
     "type": "project",
     "license": "GPL-2.0-or-later",
-    "homepage": "https://www.drupal.org/project/drupal",
+    "homepage": "https://www.drupal.org/project/cms",
     "support": {
-        "docs": "https://drupal.org/docs/user_guide/en/index.html",
+        "docs": "https://new.drupal.org/docs/drupal-cms",
         "chat": "https://drupal.org/node/314178"
     },
     "repositories": {
@@ -37,7 +37,9 @@
         "drupal/drupal_cms_starter": "^1.2",
         "drupal/project_browser": "@beta",
         "drupal/recipe_installer_kit": "^1-alpha6@alpha",
-        "drupal/webform": "@beta",
+        "drupal/webform": "@beta"
+    },
+    "require-dev": {
         "drush/drush": "^13"
     },
     "conflict": {
@@ -51,7 +53,8 @@
             "drupal/core-composer-scaffold": true,
             "drupal/core-project-message": true,
             "drupal/core-recipe-unpack": true,
-            "php-http/discovery": true
+            "php-http/discovery": true,
+            "drupal/core-vendor-hardening": true
         },
         "sort-packages": true,
         "optimize-autoloader": true
