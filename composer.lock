@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c18ee166a9becdd540cf779e77e6f080",
+    "content-hash": "d0b8b2c11c511386be059c43c3ce3c8c",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1595,17 +1595,17 @@
         },
         {
             "name": "drupal/ai",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai.git",
-                "reference": "1.1.0"
+                "reference": "1.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai-1.1.0.zip",
-                "reference": "1.1.0",
-                "shasum": "68e284453ce90ea362a94f7aef098f802ac6d2d5"
+                "url": "https://ftp.drupal.org/files/projects/ai-1.1.1.zip",
+                "reference": "1.1.1",
+                "shasum": "bd01919cc1432337c2e090a2a442b408df0c7a77"
             },
             "require": {
                 "drupal/core": "^10.2 || ^11",
@@ -1631,8 +1631,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.1.0",
-                    "datestamp": "1749732062",
+                    "version": "1.1.1",
+                    "datestamp": "1752063616",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3914,16 +3914,16 @@
         },
         {
             "name": "drupal/drupal_cms_starter",
-            "version": "1.2.0",
+            "version": "1.2.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_starter.git",
-                "reference": "791110b7ba5bd816a115a7923d6043b228919637"
+                "reference": "5a3658419c27fd97f94eafe2417413f5aa916e51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=791110b7ba5bd816a115a7923d6043b228919637",
-                "reference": "791110b7ba5bd816a115a7923d6043b228919637",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=5a3658419c27fd97f94eafe2417413f5aa916e51",
+                "reference": "5a3658419c27fd97f94eafe2417413f5aa916e51",
                 "shasum": ""
             },
             "require": {
@@ -3952,9 +3952,9 @@
             ],
             "description": "Applies the foundational Drupal CMS recipes.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.3"
             },
-            "time": "2025-06-20T09:51:47+00:00"
+            "time": "2025-07-09T13:09:00+00:00"
         },
         {
             "name": "drupal/easy_breadcrumb",
