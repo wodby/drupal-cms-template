@@ -5894,7 +5894,7 @@
             "extra": {
                 "drupal": {
                     "version": "2.1.1",
-                    "datestamp": "1748539484",
+                    "datestamp": "1752433708",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7950,12 +7950,12 @@
             "version": "2.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/goalgorilla/RTSEO.js.git",
+                "url": "https://github.com/Kingdutch/RTSEO.js.git",
                 "reference": "ab5f9c3ff478e0e9d61f5cc3831038e4f22bbbb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/goalgorilla/RTSEO.js/zipball/ab5f9c3ff478e0e9d61f5cc3831038e4f22bbbb0",
+                "url": "https://api.github.com/repos/Kingdutch/RTSEO.js/zipball/ab5f9c3ff478e0e9d61f5cc3831038e4f22bbbb0",
                 "reference": "ab5f9c3ff478e0e9d61f5cc3831038e4f22bbbb0",
                 "shasum": ""
             },
@@ -7967,8 +7967,22 @@
             "description": "Text analysis application for use with the Real-Time SEO Drupal module.",
             "homepage": "https://github.com/goalgorilla/RTSEO.js",
             "support": {
-                "source": "https://github.com/goalgorilla/RTSEO.js/tree/2.1.0"
+                "source": "https://github.com/Kingdutch/RTSEO.js/tree/2.1.0"
             },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2018-01-19T23:11:36+00:00"
         },
         {
