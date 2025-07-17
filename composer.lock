@@ -482,16 +482,16 @@
         },
         {
             "name": "consolidation/annotated-command",
-            "version": "4.10.1",
+            "version": "4.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/consolidation/annotated-command.git",
-                "reference": "362310b13ececa9f6f0a4a880811fa08fecc348b"
+                "reference": "e550ea4f177f199e0e9451168342bf3f321d92b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/consolidation/annotated-command/zipball/362310b13ececa9f6f0a4a880811fa08fecc348b",
-                "reference": "362310b13ececa9f6f0a4a880811fa08fecc348b",
+                "url": "https://api.github.com/repos/consolidation/annotated-command/zipball/e550ea4f177f199e0e9451168342bf3f321d92b0",
+                "reference": "e550ea4f177f199e0e9451168342bf3f321d92b0",
                 "shasum": ""
             },
             "require": {
@@ -532,9 +532,9 @@
             "description": "Initialize Symfony Console commands from annotated command class methods.",
             "support": {
                 "issues": "https://github.com/consolidation/annotated-command/issues",
-                "source": "https://github.com/consolidation/annotated-command/tree/4.10.1"
+                "source": "https://github.com/consolidation/annotated-command/tree/4.10.2"
             },
-            "time": "2024-12-13T19:55:40+00:00"
+            "time": "2025-07-16T20:54:09+00:00"
         },
         {
             "name": "consolidation/config",
@@ -7501,17 +7501,17 @@
         },
         {
             "name": "drupal/yoast_seo",
-            "version": "2.1.0",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/yoast_seo.git",
-                "reference": "8.x-2.1"
+                "reference": "8.x-2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/yoast_seo-8.x-2.1.zip",
-                "reference": "8.x-2.1",
-                "shasum": "f80745ea28937ee6e31a77ae9396cff62bb251ca"
+                "url": "https://ftp.drupal.org/files/projects/yoast_seo-8.x-2.2.zip",
+                "reference": "8.x-2.2",
+                "shasum": "02cbc1f35709fbf5a464e4686dfac10cedca0b67"
             },
             "require": {
                 "drupal/core": "^8 || ^9 || ^10 || ^11",
@@ -7522,26 +7522,13 @@
                 "drupal/commerce": ">2.0 <2.5"
             },
             "require-dev": {
-                "composer/installers": "^2",
-                "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
-                "dmore/behat-chrome-extension": "^1.4",
-                "drupal/devel": "^5.0.2",
-                "drupal/drupal-extension": "^5",
-                "drupal/paragraphs": "^1.15",
-                "drush/drush": "^11.0",
-                "friends-of-behat/mink-debug-extension": "^2.1",
-                "mglaman/phpstan-drupal": "^1.1.25",
-                "phpspec/prophecy-phpunit": "v2.0.1",
-                "phpstan/extension-installer": "^1.1.0",
-                "phpstan/phpstan": "^1.9.2",
-                "phpstan/phpstan-deprecation-rules": "^1.0",
-                "phpstan/phpstan-phpunit": "^1.1.1"
+                "drupal/paragraphs": "*"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-2.1",
-                    "datestamp": "1736565427",
+                    "version": "8.x-2.2",
+                    "datestamp": "1752684280",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
