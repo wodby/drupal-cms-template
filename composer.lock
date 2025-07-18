@@ -1697,17 +1697,17 @@
         },
         {
             "name": "drupal/ai_agents",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai_agents.git",
-                "reference": "1.1.1"
+                "reference": "1.1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai_agents-1.1.1.zip",
-                "reference": "1.1.1",
-                "shasum": "d42f15c83203aa44620f3e1a7f0e1199117856e7"
+                "url": "https://ftp.drupal.org/files/projects/ai_agents-1.1.2.zip",
+                "reference": "1.1.2",
+                "shasum": "e8791ef9ce59edd068efd8b20b1aeaa9fe1e65a2"
             },
             "require": {
                 "drupal/ai": "^1.1.0",
@@ -1725,8 +1725,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.1.1",
-                    "datestamp": "1752248510",
+                    "version": "1.1.2",
+                    "datestamp": "1752741524",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4491,17 +4491,17 @@
         },
         {
             "name": "drupal/editoria11y",
-            "version": "2.2.11",
+            "version": "2.2.12",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/editoria11y.git",
-                "reference": "2.2.11"
+                "reference": "2.2.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/editoria11y-2.2.11.zip",
-                "reference": "2.2.11",
-                "shasum": "be8e424636492f3613f3c39de83a9d0175fb83bc"
+                "url": "https://ftp.drupal.org/files/projects/editoria11y-2.2.12.zip",
+                "reference": "2.2.12",
+                "shasum": "9e18168b1f02b622b591646f5b4ef574e9b195bb"
             },
             "require": {
                 "drupal/core": "^9 || ^10 || ^11"
@@ -4512,8 +4512,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.2.11",
-                    "datestamp": "1749656980",
+                    "version": "2.2.12",
+                    "datestamp": "1752763995",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7144,17 +7144,17 @@
         },
         {
             "name": "drupal/tagify",
-            "version": "1.2.40",
+            "version": "1.2.41",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/tagify.git",
-                "reference": "1.2.40"
+                "reference": "1.2.41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.40.zip",
-                "reference": "1.2.40",
-                "shasum": "5a4bcc41fe1997a3cd9548e0641268741f68c0a1"
+                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.41.zip",
+                "reference": "1.2.41",
+                "shasum": "6fb10667971117e1420211a4a167c6d1f2f1eb07"
             },
             "require": {
                 "drupal/core": "^8.8 || ^9 || ^10 || ^11"
@@ -7170,8 +7170,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.40",
-                    "datestamp": "1748686447",
+                    "version": "1.2.41",
+                    "datestamp": "1752770481",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
