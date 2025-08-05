@@ -9346,16 +9346,16 @@
         },
         {
             "name": "openai-php/client",
-            "version": "v0.14.0",
+            "version": "v0.15.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/openai-php/client.git",
-                "reference": "c176c964902272649c10f092e2513bc12179161f"
+                "reference": "4db080738104be6a1144fa9f203c428ea4e58128"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/openai-php/client/zipball/c176c964902272649c10f092e2513bc12179161f",
-                "reference": "c176c964902272649c10f092e2513bc12179161f",
+                "url": "https://api.github.com/repos/openai-php/client/zipball/4db080738104be6a1144fa9f203c428ea4e58128",
+                "reference": "4db080738104be6a1144fa9f203c428ea4e58128",
                 "shasum": ""
             },
             "require": {
@@ -9370,7 +9370,7 @@
             "require-dev": {
                 "guzzlehttp/guzzle": "^7.9.3",
                 "guzzlehttp/psr7": "^2.7.1",
-                "laravel/pint": "^1.22.0",
+                "laravel/pint": "^1.24.0",
                 "mockery/mockery": "^1.6.12",
                 "nunomaduro/collision": "^8.8.0",
                 "pestphp/pest": "^3.8.2|^4.0.0",
@@ -9417,7 +9417,7 @@
             ],
             "support": {
                 "issues": "https://github.com/openai-php/client/issues",
-                "source": "https://github.com/openai-php/client/tree/v0.14.0"
+                "source": "https://github.com/openai-php/client/tree/v0.15.0"
             },
             "funding": [
                 {
@@ -9433,7 +9433,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-06-24T10:49:48+00:00"
+            "time": "2025-08-04T17:44:21+00:00"
         },
         {
             "name": "pear/archive_tar",
@@ -10629,16 +10629,16 @@
         },
         {
             "name": "psy/psysh",
-            "version": "v0.12.9",
+            "version": "v0.12.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bobthecow/psysh.git",
-                "reference": "1b801844becfe648985372cb4b12ad6840245ace"
+                "reference": "6e80abe6f2257121f1eb9a4c55bf29d921025b22"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/1b801844becfe648985372cb4b12ad6840245ace",
-                "reference": "1b801844becfe648985372cb4b12ad6840245ace",
+                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/6e80abe6f2257121f1eb9a4c55bf29d921025b22",
+                "reference": "6e80abe6f2257121f1eb9a4c55bf29d921025b22",
                 "shasum": ""
             },
             "require": {
@@ -10688,12 +10688,11 @@
             "authors": [
                 {
                     "name": "Justin Hileman",
-                    "email": "justin@justinhileman.info",
-                    "homepage": "http://justinhileman.com"
+                    "email": "justin@justinhileman.info"
                 }
             ],
             "description": "An interactive shell for modern PHP.",
-            "homepage": "http://psysh.org",
+            "homepage": "https://psysh.org",
             "keywords": [
                 "REPL",
                 "console",
@@ -10702,9 +10701,9 @@
             ],
             "support": {
                 "issues": "https://github.com/bobthecow/psysh/issues",
-                "source": "https://github.com/bobthecow/psysh/tree/v0.12.9"
+                "source": "https://github.com/bobthecow/psysh/tree/v0.12.10"
             },
-            "time": "2025-06-23T02:35:06+00:00"
+            "time": "2025-08-04T12:39:37+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
