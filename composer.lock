@@ -4452,7 +4452,7 @@
         },
         {
             "name": "drupal/eca_ui",
-            "version": "3.0.0",
+            "version": "3.0.1",
             "require": {
                 "drupal/core": "^11.2",
                 "drupal/eca": "*",
@@ -4461,8 +4461,8 @@
             "type": "metapackage",
             "extra": {
                 "drupal": {
-                    "version": "3.0.0",
-                    "datestamp": "1753888380",
+                    "version": "3.0.1",
+                    "datestamp": "1754929004",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
