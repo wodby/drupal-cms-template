@@ -6976,29 +6976,31 @@
         },
         {
             "name": "drupal/sitemap",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/sitemap.git",
-                "reference": "8.x-2.0"
+                "reference": "8.x-2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/sitemap-8.x-2.0.zip",
-                "reference": "8.x-2.0",
-                "shasum": "1e1db0da34ff07318cd2179b392d6495da49a0f4"
+                "url": "https://ftp.drupal.org/files/projects/sitemap-8.x-2.1.zip",
+                "reference": "8.x-2.1",
+                "shasum": "4bc46a0e3d2d82bda62d415acd4758048ccfd4be"
             },
             "require": {
-                "drupal/core": "^10.2 || ^11"
+                "drupal/core": "^10.2 || ^11",
+                "php": ">=8.1"
             },
             "require-dev": {
-                "drupal/book": "*"
+                "drupal/book": "^1 || ^2",
+                "drush/drush": "*"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-2.0",
-                    "datestamp": "1724850275",
+                    "version": "8.x-2.1",
+                    "datestamp": "1755283900",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7011,24 +7013,20 @@
             ],
             "authors": [
                 {
-                    "name": "Nik Alexandrov",
-                    "homepage": "https://www.drupal.org/u/nafes",
-                    "role": "Maintainer"
+                    "name": "akalata",
+                    "homepage": "https://www.drupal.org/user/498926"
                 },
                 {
-                    "name": "Anna Kalata",
-                    "homepage": "https://www.drupal.org/u/akalata",
-                    "role": "Co-maintainer"
+                    "name": "colan",
+                    "homepage": "https://www.drupal.org/user/58704"
                 },
                 {
                     "name": "killes@www.drop.org",
-                    "homepage": "https://www.drupal.org/u/killeswww.drop.org",
-                    "role": "Co-maintainer"
+                    "homepage": "https://www.drupal.org/user/227"
                 },
                 {
-                    "name": "See other contributors",
-                    "homepage": "https://www.drupal.org/node/3295/committers",
-                    "role": "contributor"
+                    "name": "mparker17",
+                    "homepage": "https://www.drupal.org/user/536298"
                 },
                 {
                     "name": "Nafes",
@@ -7039,10 +7037,10 @@
                     "homepage": "https://www.drupal.org/user/49148"
                 }
             ],
-            "description": "Display a sitemap.",
-            "homepage": "http://drupal.org/project/sitemap",
+            "description": "A way for visitors to navigate your website using an overview of notable pages on the site, by displaying one or more human-readable lists of links on a page. Useful for sites with lots of lightly-organized content.",
+            "homepage": "https://www.drupal.org/project/sitemap",
             "support": {
-                "source": "http://cgit.drupalcode.org/sitemap",
+                "source": "https://git.drupalcode.org/project/sitemap",
                 "issues": "http://drupal.org/project/issues/sitemap"
             }
         },
