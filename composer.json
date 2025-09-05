@@ -1,6 +1,6 @@
 {
     "name": "drupal/cms",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "description": "Drupal CMS is a ready-to-use platform built on Drupal core, offering smart defaults to get started quickly and enterprise-grade tools for marketers, designers, and content creators.",
     "type": "project",
     "license": "GPL-2.0-or-later",
@@ -16,12 +16,14 @@
         }
     },
     "require": {
+        "composer/composer": "^2.8",
         "composer/installers": "^2.3",
         "drupal/core": "@rc",
-        "drupal/core-composer-scaffold": "^11.2",
-        "drupal/core-project-message": "^11.2",
-        "drupal/core-recipe-unpack": "^11.2",
-        "drupal/core-recommended": "^11.2",
+        "drupal/core-composer-scaffold": "^11.2.4",
+        "drupal/core-project-message": "^11.2.4",
+        "drupal/core-recipe-unpack": "^11.2.4",
+        "drupal/core-recommended": "^11.2.4",
+        "drupal/core-vendor-hardening": "^11.2.4",
         "drupal/drupal_cms_accessibility_tools": "^1.2",
         "drupal/drupal_cms_ai": "^1.2",
         "drupal/drupal_cms_analytics": "^1.2",
@@ -40,7 +42,7 @@
         "drupal/webform": "@beta"
     },
     "require-dev": {
-        "drush/drush": "^13"
+        "drush/drush": "^13.6.1"
     },
     "conflict": {
         "drupal/drupal": "*"
@@ -56,6 +58,7 @@
             "php-http/discovery": true,
             "drupal/core-vendor-hardening": true
         },
+        "bin-dir": "vendor/bin",
         "sort-packages": true,
         "optimize-autoloader": true
     },
@@ -89,6 +92,14 @@
                 "  * Get support: https://drupal.org/support",
                 "  * Get involved with the Drupal community: https://drupal.org/getting-involved"
             ]
+        },
+        "drupal-core-vendor-hardening": {
+            "composer/composer": false
         }
+    },
+    "scripts": {
+        "post-update-cmd": [
+            "@php -r \"@unlink('vendor/bin/composer');\""
+        ]
     }
 }
