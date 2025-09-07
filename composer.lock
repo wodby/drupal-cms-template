@@ -3749,16 +3749,16 @@
         },
         {
             "name": "drupal/drupal_cms_accessibility_tools",
-            "version": "1.2.3",
+            "version": "1.2.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools.git",
-                "reference": "5da58df475927fa3ec4733c6ee2fd60d3a98d4b2"
+                "reference": "2a84b30877a62a346033cf3b223e3befb2dd88ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=5da58df475927fa3ec4733c6ee2fd60d3a98d4b2",
-                "reference": "5da58df475927fa3ec4733c6ee2fd60d3a98d4b2",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=2a84b30877a62a346033cf3b223e3befb2dd88ed",
+                "reference": "2a84b30877a62a346033cf3b223e3befb2dd88ed",
                 "shasum": ""
             },
             "require": {
@@ -3773,9 +3773,9 @@
             ],
             "description": "Adds automated checks to help ensure content conforms to web accessibility guidelines.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/1.2.4"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-04T10:06:53+00:00"
         },
         {
             "name": "drupal/drupal_cms_admin_ui",
@@ -3875,16 +3875,16 @@
         },
         {
             "name": "drupal/drupal_cms_anti_spam",
-            "version": "1.2.3",
+            "version": "1.2.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_anti_spam.git",
-                "reference": "a670d248eda345896515d585b26c9f8ef6ebc19a"
+                "reference": "4905af18b215c5ef2a01ae2b0cace82800017d8f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_anti_spam/repository/archive.zip?sha=a670d248eda345896515d585b26c9f8ef6ebc19a",
-                "reference": "a670d248eda345896515d585b26c9f8ef6ebc19a",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_anti_spam/repository/archive.zip?sha=4905af18b215c5ef2a01ae2b0cace82800017d8f",
+                "reference": "4905af18b215c5ef2a01ae2b0cace82800017d8f",
                 "shasum": ""
             },
             "require": {
@@ -3901,9 +3901,9 @@
             ],
             "description": "Sets up anti-spam and anti-abuse functionality.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_anti_spam/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_anti_spam/-/tree/1.2.4"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-04T10:06:53+00:00"
         },
         {
             "name": "drupal/drupal_cms_authentication",
@@ -4109,16 +4109,16 @@
         },
         {
             "name": "drupal/drupal_cms_google_analytics",
-            "version": "1.2.3",
+            "version": "1.2.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_google_analytics.git",
-                "reference": "817f8390f8884e7327148f57bb56114aa4e31817"
+                "reference": "2c06066875a658dece01ea75bd57f5099db856bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=817f8390f8884e7327148f57bb56114aa4e31817",
-                "reference": "817f8390f8884e7327148f57bb56114aa4e31817",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=2c06066875a658dece01ea75bd57f5099db856bf",
+                "reference": "2c06066875a658dece01ea75bd57f5099db856bf",
                 "shasum": ""
             },
             "require": {
@@ -4133,9 +4133,9 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Adds tracking of website traffic using Google Analytics and Google Tag Manager. Requires a Google Tag Manager ID.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/1.2.4"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-04T10:06:53+00:00"
         },
         {
             "name": "drupal/drupal_cms_helper",
@@ -4183,16 +4183,16 @@
         },
         {
             "name": "drupal/drupal_cms_image",
-            "version": "1.2.3",
+            "version": "1.2.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_image.git",
-                "reference": "78a6a2248093fab652f78b790eb1f7873cfdf3df"
+                "reference": "b055a037d5eedd7862d7a7c5d5dc99ba9ec902c4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_image/repository/archive.zip?sha=78a6a2248093fab652f78b790eb1f7873cfdf3df",
-                "reference": "78a6a2248093fab652f78b790eb1f7873cfdf3df",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_image/repository/archive.zip?sha=b055a037d5eedd7862d7a7c5d5dc99ba9ec902c4",
+                "reference": "b055a037d5eedd7862d7a7c5d5dc99ba9ec902c4",
                 "shasum": ""
             },
             "require": {
@@ -4207,9 +4207,9 @@
             ],
             "description": "Sets up base image configuration including responsive image styles, view modes, focal point-based cropping and SVG images.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_image/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_image/-/tree/1.2.4"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-04T10:06:53+00:00"
         },
         {
             "name": "drupal/drupal_cms_news",
@@ -6551,7 +6551,7 @@
                 "drupal/hal": "^1 || ^2 || ^9",
                 "drupal/metatag_dc": "*",
                 "drupal/metatag_open_graph": "*",
-                "drupal/page_manager": "*",
+                "drupal/page_manager": "^4.0",
                 "drupal/redirect": "^1.0",
                 "ergebnis/composer-normalize": "*",
                 "mpyw/phpunit-patch-serializable-comparison": "*"
@@ -7911,17 +7911,17 @@
         },
         {
             "name": "drupal/token",
-            "version": "1.15.0",
+            "version": "1.16.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/token.git",
-                "reference": "8.x-1.15"
+                "reference": "8.x-1.16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/token-8.x-1.15.zip",
-                "reference": "8.x-1.15",
-                "shasum": "5916fbccc86458a5f51e71f832ac70ff4c84ebdf"
+                "url": "https://ftp.drupal.org/files/projects/token-8.x-1.16.zip",
+                "reference": "8.x-1.16",
+                "shasum": "f7ae77316ef8135068d995c09507da7517b20572"
             },
             "require": {
                 "drupal/core": "^9.2 || ^10 || ^11"
@@ -7932,8 +7932,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.15",
-                    "datestamp": "1722206211",
+                    "version": "8.x-1.16",
+                    "datestamp": "1757151197",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
