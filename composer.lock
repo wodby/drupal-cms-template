@@ -3850,16 +3850,16 @@
         },
         {
             "name": "drupal/drupal_cms_analytics",
-            "version": "1.2.3",
+            "version": "1.2.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_analytics.git",
-                "reference": "78691531d2807d03703a16e6a8dfc7eb46394323"
+                "reference": "714e674a59a84c5f4844088cf03eb011be0427ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_analytics/repository/archive.zip?sha=78691531d2807d03703a16e6a8dfc7eb46394323",
-                "reference": "78691531d2807d03703a16e6a8dfc7eb46394323",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_analytics/repository/archive.zip?sha=714e674a59a84c5f4844088cf03eb011be0427ab",
+                "reference": "714e674a59a84c5f4844088cf03eb011be0427ab",
                 "shasum": ""
             },
             "require": {
@@ -3869,9 +3869,9 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Adds recipes for tracking website traffic.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_analytics/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_analytics/-/tree/1.2.4"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-04T10:06:53+00:00"
         },
         {
             "name": "drupal/drupal_cms_anti_spam",
@@ -4492,16 +4492,16 @@
         },
         {
             "name": "drupal/drupal_cms_seo_basic",
-            "version": "1.2.3",
+            "version": "1.2.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_seo_basic.git",
-                "reference": "d8805e87b2612380b40823e1d8b03f3bc49a4e9e"
+                "reference": "2990acbb8d94cd9e67e4928a9da354e56faa8626"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_basic/repository/archive.zip?sha=d8805e87b2612380b40823e1d8b03f3bc49a4e9e",
-                "reference": "d8805e87b2612380b40823e1d8b03f3bc49a4e9e",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_basic/repository/archive.zip?sha=2990acbb8d94cd9e67e4928a9da354e56faa8626",
+                "reference": "2990acbb8d94cd9e67e4928a9da354e56faa8626",
                 "shasum": ""
             },
             "require": {
@@ -4523,9 +4523,9 @@
             ],
             "description": "Provides basic SEO best practices.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_seo_basic/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_seo_basic/-/tree/1.2.4"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-04T10:06:53+00:00"
         },
         {
             "name": "drupal/drupal_cms_seo_tools",
@@ -9209,16 +9209,16 @@
         },
         {
             "name": "justinrainbow/json-schema",
-            "version": "6.5.1",
+            "version": "6.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jsonrainbow/json-schema.git",
-                "reference": "b5ab21e431594897e5bb86343c01f140ba862c26"
+                "reference": "ac0d369c09653cf7af561f6d91a705bc617a87b8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/b5ab21e431594897e5bb86343c01f140ba862c26",
-                "reference": "b5ab21e431594897e5bb86343c01f140ba862c26",
+                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/ac0d369c09653cf7af561f6d91a705bc617a87b8",
+                "reference": "ac0d369c09653cf7af561f6d91a705bc617a87b8",
                 "shasum": ""
             },
             "require": {
@@ -9278,9 +9278,9 @@
             ],
             "support": {
                 "issues": "https://github.com/jsonrainbow/json-schema/issues",
-                "source": "https://github.com/jsonrainbow/json-schema/tree/6.5.1"
+                "source": "https://github.com/jsonrainbow/json-schema/tree/6.5.2"
             },
-            "time": "2025-08-29T10:58:11+00:00"
+            "time": "2025-09-09T09:42:27+00:00"
         },
         {
             "name": "laravel/prompts",
