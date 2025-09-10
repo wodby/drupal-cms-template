@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dd2039056e9ae024b16d8cbbe385bd4d",
+    "content-hash": "d46145477bf4886a0bd1877ec371235e",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3849,31 +3849,6 @@
             "time": "2025-07-09T13:09:00+00:00"
         },
         {
-            "name": "drupal/drupal_cms_analytics",
-            "version": "1.2.4",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/drupal_cms_analytics.git",
-                "reference": "714e674a59a84c5f4844088cf03eb011be0427ab"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_analytics/repository/archive.zip?sha=714e674a59a84c5f4844088cf03eb011be0427ab",
-                "reference": "714e674a59a84c5f4844088cf03eb011be0427ab",
-                "shasum": ""
-            },
-            "require": {
-                "drupal/drupal_cms_google_analytics": "^1.2"
-            },
-            "type": "metapackage",
-            "notification-url": "https://packagist.org/downloads/",
-            "description": "Adds recipes for tracking website traffic.",
-            "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_analytics/-/tree/1.2.4"
-            },
-            "time": "2025-09-04T10:06:53+00:00"
-        },
-        {
             "name": "drupal/drupal_cms_anti_spam",
             "version": "1.2.4",
             "source": {
@@ -3939,16 +3914,16 @@
         },
         {
             "name": "drupal/drupal_cms_blog",
-            "version": "1.2.4",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_blog.git",
-                "reference": "4a2761f471edd349fa029f56e42871ce804dc4c8"
+                "reference": "f63648047d9ffc875becf83687c158b6f56056d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blog/repository/archive.zip?sha=4a2761f471edd349fa029f56e42871ce804dc4c8",
-                "reference": "4a2761f471edd349fa029f56e42871ce804dc4c8",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blog/repository/archive.zip?sha=f63648047d9ffc875becf83687c158b6f56056d6",
+                "reference": "f63648047d9ffc875becf83687c158b6f56056d6",
                 "shasum": ""
             },
             "require": {
@@ -3965,9 +3940,9 @@
             ],
             "description": "Adds a blog post content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_blog/-/tree/1.2.4"
+                "source": "https://git.drupalcode.org/project/drupal_cms_blog/-/tree/1.2.5"
             },
-            "time": "2025-09-04T10:06:53+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_case_study",
@@ -4078,16 +4053,16 @@
         },
         {
             "name": "drupal/drupal_cms_forms",
-            "version": "1.2.3",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_forms.git",
-                "reference": "4db69d8690c91b090eb32385889b982765b5d6ca"
+                "reference": "842cd61aebaaafbcf0162e04e997376245f37868"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_forms/repository/archive.zip?sha=4db69d8690c91b090eb32385889b982765b5d6ca",
-                "reference": "4db69d8690c91b090eb32385889b982765b5d6ca",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_forms/repository/archive.zip?sha=842cd61aebaaafbcf0162e04e997376245f37868",
+                "reference": "842cd61aebaaafbcf0162e04e997376245f37868",
                 "shasum": ""
             },
             "require": {
@@ -4103,9 +4078,9 @@
             ],
             "description": "Adds a simple contact form, and tools for building forms.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_forms/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_forms/-/tree/1.2.5"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_google_analytics",
@@ -4139,17 +4114,17 @@
         },
         {
             "name": "drupal/drupal_cms_helper",
-            "version": "1.2.4",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_helper.git",
-                "reference": "1.2.4"
+                "reference": "1.2.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-1.2.4.zip",
-                "reference": "1.2.4",
-                "shasum": "554422cf08b348539c00f38a22084c8004fb72c9"
+                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-1.2.5.zip",
+                "reference": "1.2.5",
+                "shasum": "8582120a5c60e4231fb03b1aec62feb65e7c9ded"
             },
             "require": {
                 "drupal/core": "^11.2.4"
@@ -4157,8 +4132,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.4",
-                    "datestamp": "1756996164",
+                    "version": "1.2.5",
+                    "datestamp": "1757424200",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4572,16 +4547,16 @@
         },
         {
             "name": "drupal/drupal_cms_starter",
-            "version": "1.2.4",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_starter.git",
-                "reference": "b66b2affcf3413507d1d68489ec52e0a949e97bc"
+                "reference": "6390e930befec5e12ee28a8b41827905d90e5c51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=b66b2affcf3413507d1d68489ec52e0a949e97bc",
-                "reference": "b66b2affcf3413507d1d68489ec52e0a949e97bc",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=6390e930befec5e12ee28a8b41827905d90e5c51",
+                "reference": "6390e930befec5e12ee28a8b41827905d90e5c51",
                 "shasum": ""
             },
             "require": {
@@ -4611,9 +4586,9 @@
             ],
             "description": "Applies the foundational Drupal CMS recipes.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.4"
+                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.5"
             },
-            "time": "2025-09-04T10:06:53+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/easy_breadcrumb",
@@ -6551,7 +6526,7 @@
                 "drupal/hal": "^1 || ^2 || ^9",
                 "drupal/metatag_dc": "*",
                 "drupal/metatag_open_graph": "*",
-                "drupal/page_manager": "^4.0",
+                "drupal/page_manager": "*",
                 "drupal/redirect": "^1.0",
                 "ergebnis/composer-normalize": "*",
                 "mpyw/phpunit-patch-serializable-comparison": "*"
