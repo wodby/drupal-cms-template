@@ -4687,17 +4687,17 @@
         },
         {
             "name": "drupal/easy_email",
-            "version": "3.0.5",
+            "version": "3.0.6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email.git",
-                "reference": "3.0.5"
+                "reference": "3.0.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/easy_email-3.0.5.zip",
-                "reference": "3.0.5",
-                "shasum": "4f079e156933e5bcbb7d2fc59dd747c3fbe3c2e4"
+                "url": "https://ftp.drupal.org/files/projects/easy_email-3.0.6.zip",
+                "reference": "3.0.6",
+                "shasum": "ff6ecbe214d727487e9f604b834f98d131287599"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11",
@@ -4714,8 +4714,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.0.5",
-                    "datestamp": "1750096730",
+                    "version": "3.0.6",
+                    "datestamp": "1757509792",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4855,17 +4855,17 @@
         },
         {
             "name": "drupal/easy_email_theme",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email_theme.git",
-                "reference": "1.0.0"
+                "reference": "1.1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/easy_email_theme-1.0.0.zip",
-                "reference": "1.0.0",
-                "shasum": "daaca22af0a2ba337c847be3ad6d6f18eb21f3fa"
+                "url": "https://ftp.drupal.org/files/projects/easy_email_theme-1.1.0.zip",
+                "reference": "1.1.0",
+                "shasum": "14270a75753e3c228a2a281b266b7e62c270b4f0"
             },
             "require": {
                 "drupal/core": "^10.2 || ^11"
@@ -4873,8 +4873,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.0.0",
-                    "datestamp": "1729101397",
+                    "version": "1.1.0",
+                    "datestamp": "1757509759",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5081,7 +5081,7 @@
         },
         {
             "name": "drupal/eca_ui",
-            "version": "3.0.2",
+            "version": "3.0.3",
             "require": {
                 "drupal/core": "^11.2",
                 "drupal/eca": "*",
@@ -5090,8 +5090,8 @@
             "type": "metapackage",
             "extra": {
                 "drupal": {
-                    "version": "3.0.2",
-                    "datestamp": "1755341165",
+                    "version": "3.0.3",
+                    "datestamp": "1757505170",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
