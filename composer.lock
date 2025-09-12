@@ -2281,6 +2281,10 @@
             ],
             "authors": [
                 {
+                    "name": "akhil babu",
+                    "homepage": "https://www.drupal.org/user/3632866"
+                },
+                {
                     "name": "andrewbelcher",
                     "homepage": "https://www.drupal.org/user/655282"
                 },
@@ -3976,16 +3980,16 @@
         },
         {
             "name": "drupal/drupal_cms_content_type_base",
-            "version": "1.2.3",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_content_type_base.git",
-                "reference": "241fcf42d3820113dd1cdfa6a8c2b69d01ddcd35"
+                "reference": "b76ebda9c431a2957df7b26ae93f3dbe308d0664"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_content_type_base/repository/archive.zip?sha=241fcf42d3820113dd1cdfa6a8c2b69d01ddcd35",
-                "reference": "241fcf42d3820113dd1cdfa6a8c2b69d01ddcd35",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_content_type_base/repository/archive.zip?sha=b76ebda9c431a2957df7b26ae93f3dbe308d0664",
+                "reference": "b76ebda9c431a2957df7b26ae93f3dbe308d0664",
                 "shasum": ""
             },
             "require": {
@@ -4009,9 +4013,9 @@
             ],
             "description": "Provides basic tools for creating content.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_content_type_base/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_content_type_base/-/tree/1.2.5"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_events",
@@ -4343,16 +4347,16 @@
         },
         {
             "name": "drupal/drupal_cms_privacy_basic",
-            "version": "1.2.3",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_privacy_basic.git",
-                "reference": "0fd31d5515a681dbac620f292c5e6180ab68781f"
+                "reference": "8f2ff3403edfba10420d1e41dff948e1e5e31af6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=0fd31d5515a681dbac620f292c5e6180ab68781f",
-                "reference": "0fd31d5515a681dbac620f292c5e6180ab68781f",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=8f2ff3403edfba10420d1e41dff948e1e5e31af6",
+                "reference": "8f2ff3403edfba10420d1e41dff948e1e5e31af6",
                 "shasum": ""
             },
             "require": {
@@ -4370,9 +4374,9 @@
             ],
             "description": "Adds basic privacy features such as consent management and remote content blocking.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/1.2.5"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_project",
@@ -4406,16 +4410,16 @@
         },
         {
             "name": "drupal/drupal_cms_remote_video",
-            "version": "1.2.3",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_remote_video.git",
-                "reference": "c74e75b4ade2324f2277b7ae905913b37cca7596"
+                "reference": "3104e5d3203eea71e2a12b68e8a5c0b26236f787"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_remote_video/repository/archive.zip?sha=c74e75b4ade2324f2277b7ae905913b37cca7596",
-                "reference": "c74e75b4ade2324f2277b7ae905913b37cca7596",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_remote_video/repository/archive.zip?sha=3104e5d3203eea71e2a12b68e8a5c0b26236f787",
+                "reference": "3104e5d3203eea71e2a12b68e8a5c0b26236f787",
                 "shasum": ""
             },
             "require": {
@@ -4429,9 +4433,9 @@
             ],
             "description": "Configures display options for remote video.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_remote_video/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_remote_video/-/tree/1.2.5"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_search",
@@ -4504,16 +4508,16 @@
         },
         {
             "name": "drupal/drupal_cms_seo_tools",
-            "version": "1.2.3",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_seo_tools.git",
-                "reference": "e4ec846546508811aee256db264f2aaf1e2626ed"
+                "reference": "4692e8e0e00a3bd50129358b540e568810f177d5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_tools/repository/archive.zip?sha=e4ec846546508811aee256db264f2aaf1e2626ed",
-                "reference": "e4ec846546508811aee256db264f2aaf1e2626ed",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_tools/repository/archive.zip?sha=4692e8e0e00a3bd50129358b540e568810f177d5",
+                "reference": "4692e8e0e00a3bd50129358b540e568810f177d5",
                 "shasum": ""
             },
             "require": {
@@ -4541,9 +4545,9 @@
             ],
             "description": "Adds common search engine optimisation tools such as meta tags, XML sitemap, robots.txt management and more.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_seo_tools/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_seo_tools/-/tree/1.2.5"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
@@ -6239,17 +6243,17 @@
         },
         {
             "name": "drupal/linkit",
-            "version": "7.0.8",
+            "version": "7.0.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkit.git",
-                "reference": "7.0.8"
+                "reference": "7.0.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.8.zip",
-                "reference": "7.0.8",
-                "shasum": "3a16053650934b3942cf369ac1ee3ad85c655d45"
+                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.9.zip",
+                "reference": "7.0.9",
+                "shasum": "fa75d31583a5866c8dd1f0455b7b5d19642c6f34"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
@@ -6261,8 +6265,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "7.0.8",
-                    "datestamp": "1754406731",
+                    "version": "7.0.9",
+                    "datestamp": "1757621287",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
