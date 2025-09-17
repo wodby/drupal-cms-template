@@ -3783,16 +3783,16 @@
         },
         {
             "name": "drupal/drupal_cms_admin_ui",
-            "version": "1.2.3",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_admin_ui.git",
-                "reference": "c25bc08283029e543707f82154a5144e5dd4b3a1"
+                "reference": "6fe148e620f0cac1bab72f993adb2caea6bd5d3b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=c25bc08283029e543707f82154a5144e5dd4b3a1",
-                "reference": "c25bc08283029e543707f82154a5144e5dd4b3a1",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=6fe148e620f0cac1bab72f993adb2caea6bd5d3b",
+                "reference": "6fe148e620f0cac1bab72f993adb2caea6bd5d3b",
                 "shasum": ""
             },
             "require": {
@@ -3810,9 +3810,9 @@
             ],
             "description": "Sets up a nice administrative theme and navigation.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.2.5"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_ai",
@@ -7673,7 +7673,7 @@
                 "shasum": "87638e15bd1878f402cdb9cd40154d481a849881"
             },
             "require": {
-                "drupal/core": "^9 || ^10  || ^11",
+                "drupal/core": "^9 || ^10 || ^11",
                 "php": ">=8.1",
                 "simshaun/recurr": "^5"
             },
@@ -7711,6 +7711,10 @@
                 {
                     "name": "stefan.korn",
                     "homepage": "https://www.drupal.org/user/1942204"
+                },
+                {
+                    "name": "tyapchyc",
+                    "homepage": "https://www.drupal.org/user/3351412"
                 }
             ],
             "description": "Adds app-like date and recurring date functionality.",
