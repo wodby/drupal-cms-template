@@ -2136,17 +2136,17 @@
         },
         {
             "name": "drupal/ai",
-            "version": "1.1.3",
+            "version": "1.1.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai.git",
-                "reference": "1.1.3"
+                "reference": "1.1.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai-1.1.3.zip",
-                "reference": "1.1.3",
-                "shasum": "2d800359b7e99f9934f36aaab05c230d2ac8f3f5"
+                "url": "https://ftp.drupal.org/files/projects/ai-1.1.4.zip",
+                "reference": "1.1.4",
+                "shasum": "cb52f84b53a3b36d5b2f7bf42592d3437a3718cb"
             },
             "require": {
                 "drupal/core": "^10.2 || ^11",
@@ -2173,8 +2173,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.1.3",
-                    "datestamp": "1755081815",
+                    "version": "1.1.4",
+                    "datestamp": "1758118125",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2239,17 +2239,17 @@
         },
         {
             "name": "drupal/ai_agents",
-            "version": "1.1.2",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai_agents.git",
-                "reference": "1.1.2"
+                "reference": "1.1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai_agents-1.1.2.zip",
-                "reference": "1.1.2",
-                "shasum": "e8791ef9ce59edd068efd8b20b1aeaa9fe1e65a2"
+                "url": "https://ftp.drupal.org/files/projects/ai_agents-1.1.3.zip",
+                "reference": "1.1.3",
+                "shasum": "e1af67a94452d93b3a8cb64258d0b492aad16726"
             },
             "require": {
                 "drupal/ai": "^1.1.0",
@@ -2267,8 +2267,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.1.2",
-                    "datestamp": "1752741524",
+                    "version": "1.1.3",
+                    "datestamp": "1758113722",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
