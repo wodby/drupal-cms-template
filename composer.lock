@@ -4439,20 +4439,21 @@
         },
         {
             "name": "drupal/drupal_cms_search",
-            "version": "1.2.3",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_search.git",
-                "reference": "b6a41f030417a8acb80f1f7be9b6d08cf1802098"
+                "reference": "76e9ba0fa2b7278b5753048542b0acad7a022262"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_search/repository/archive.zip?sha=b6a41f030417a8acb80f1f7be9b6d08cf1802098",
-                "reference": "b6a41f030417a8acb80f1f7be9b6d08cf1802098",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_search/repository/archive.zip?sha=76e9ba0fa2b7278b5753048542b0acad7a022262",
+                "reference": "76e9ba0fa2b7278b5753048542b0acad7a022262",
                 "shasum": ""
             },
             "require": {
                 "drupal/core": "^10.4 || ^11",
+                "drupal/drupal_cms_helper": "^1.2",
                 "drupal/search_api": "^1.36",
                 "drupal/search_api_autocomplete": "^1.9",
                 "drupal/search_api_exclude": "^2",
@@ -4465,9 +4466,9 @@
             ],
             "description": "Adds a search to help visitors find content.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_search/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_search/-/tree/1.2.5"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_seo_basic",
@@ -8065,22 +8066,6 @@
                 {
                     "name": "amateescu",
                     "homepage": "https://www.drupal.org/user/729614"
-                },
-                {
-                    "name": "dixon_",
-                    "homepage": "https://www.drupal.org/user/239911"
-                },
-                {
-                    "name": "jeqq",
-                    "homepage": "https://www.drupal.org/user/1427908"
-                },
-                {
-                    "name": "rötzi",
-                    "homepage": "https://www.drupal.org/user/73064"
-                },
-                {
-                    "name": "timmillwood",
-                    "homepage": "https://www.drupal.org/user/227849"
                 }
             ],
             "description": "This module adds a trash bin for all content entities.",
