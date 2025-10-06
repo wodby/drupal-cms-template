@@ -4228,26 +4228,29 @@
         },
         {
             "name": "drupal/drupal_cms_olivero",
-            "version": "1.x-dev",
+            "version": "1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_olivero.git",
-                "reference": "1.2.6"
+                "reference": "1.2.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupal_cms_olivero-1.2.6.zip",
-                "reference": "1.2.6",
-                "shasum": "7677be12cdd8c54b359059b78cf92b0578dc329e"
+                "url": "https://ftp.drupal.org/files/projects/drupal_cms_olivero-1.2.7.zip",
+                "reference": "1.2.7",
+                "shasum": "232d474e76eaa8ee3697956852858f832930636e"
             },
             "require": {
                 "drupal/core": "^11"
             },
+            "require-dev": {
+                "drupal/canvas": "@beta"
+            },
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.2.6",
-                    "datestamp": "1759413502",
+                    "version": "1.2.7",
+                    "datestamp": "1759717429",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
