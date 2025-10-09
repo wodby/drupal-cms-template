@@ -1690,6 +1690,7 @@
                 "issues": "https://github.com/doctrine/annotations/issues",
                 "source": "https://github.com/doctrine/annotations/tree/2.0.2"
             },
+            "abandoned": true,
             "time": "2024-09-05T10:17:24+00:00"
         },
         {
@@ -4023,16 +4024,16 @@
         },
         {
             "name": "drupal/drupal_cms_events",
-            "version": "1.2.4",
+            "version": "1.2.6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_events.git",
-                "reference": "f639b5a06f571fc9fbabb9d2cecf0e2fbbd80fb0"
+                "reference": "e7fc3191b46b9697d23acb6548ed422a7557a93c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_events/repository/archive.zip?sha=f639b5a06f571fc9fbabb9d2cecf0e2fbbd80fb0",
-                "reference": "f639b5a06f571fc9fbabb9d2cecf0e2fbbd80fb0",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_events/repository/archive.zip?sha=e7fc3191b46b9697d23acb6548ed422a7557a93c",
+                "reference": "e7fc3191b46b9697d23acb6548ed422a7557a93c",
                 "shasum": ""
             },
             "require": {
@@ -4055,9 +4056,9 @@
             ],
             "description": "Adds an event content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_events/-/tree/1.2.4"
+                "source": "https://git.drupalcode.org/project/drupal_cms_events/-/tree/1.2.6"
             },
-            "time": "2025-09-04T10:06:53+00:00"
+            "time": "2025-09-29T13:06:27+00:00"
         },
         {
             "name": "drupal/drupal_cms_forms",
@@ -4196,16 +4197,16 @@
         },
         {
             "name": "drupal/drupal_cms_news",
-            "version": "1.2.4",
+            "version": "1.2.6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_news.git",
-                "reference": "854601bded054cfee7628ce91c872e2a6a58d7c2"
+                "reference": "f1b1280a818272ff6112627e04dd0dcfd9ddf26d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=854601bded054cfee7628ce91c872e2a6a58d7c2",
-                "reference": "854601bded054cfee7628ce91c872e2a6a58d7c2",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=f1b1280a818272ff6112627e04dd0dcfd9ddf26d",
+                "reference": "f1b1280a818272ff6112627e04dd0dcfd9ddf26d",
                 "shasum": ""
             },
             "require": {
@@ -4222,9 +4223,9 @@
             ],
             "description": "Adds a news content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.2.4"
+                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.2.6"
             },
-            "time": "2025-09-04T10:06:53+00:00"
+            "time": "2025-09-29T13:06:27+00:00"
         },
         {
             "name": "drupal/drupal_cms_olivero",
@@ -4295,16 +4296,16 @@
         },
         {
             "name": "drupal/drupal_cms_page",
-            "version": "1.2.4",
+            "version": "1.2.6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_page.git",
-                "reference": "4d5184d404bdb79fb472073924cbb52ed394a988"
+                "reference": "1bf1b21bd801a4e242e40003e2e214087d07d764"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_page/repository/archive.zip?sha=4d5184d404bdb79fb472073924cbb52ed394a988",
-                "reference": "4d5184d404bdb79fb472073924cbb52ed394a988",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_page/repository/archive.zip?sha=1bf1b21bd801a4e242e40003e2e214087d07d764",
+                "reference": "1bf1b21bd801a4e242e40003e2e214087d07d764",
                 "shasum": ""
             },
             "require": {
@@ -4318,22 +4319,22 @@
             ],
             "description": "Adds a content type for simple pages.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_page/-/tree/1.2.4"
+                "source": "https://git.drupalcode.org/project/drupal_cms_page/-/tree/1.2.6"
             },
-            "time": "2025-09-04T10:06:53+00:00"
+            "time": "2025-09-29T13:06:27+00:00"
         },
         {
             "name": "drupal/drupal_cms_person",
-            "version": "1.2.4",
+            "version": "1.2.6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_person.git",
-                "reference": "44bfd4b6ad0159186ad7d1860de807e3f48c3e60"
+                "reference": "2be03dc1a6f883c13629696170a041e358f96c20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_person/repository/archive.zip?sha=44bfd4b6ad0159186ad7d1860de807e3f48c3e60",
-                "reference": "44bfd4b6ad0159186ad7d1860de807e3f48c3e60",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_person/repository/archive.zip?sha=2be03dc1a6f883c13629696170a041e358f96c20",
+                "reference": "2be03dc1a6f883c13629696170a041e358f96c20",
                 "shasum": ""
             },
             "require": {
@@ -4348,9 +4349,9 @@
             ],
             "description": "Adds a person profile content type.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_person/-/tree/1.2.4"
+                "source": "https://git.drupalcode.org/project/drupal_cms_person/-/tree/1.2.6"
             },
-            "time": "2025-09-04T10:06:53+00:00"
+            "time": "2025-09-29T13:06:27+00:00"
         },
         {
             "name": "drupal/drupal_cms_privacy_basic",
@@ -4387,16 +4388,16 @@
         },
         {
             "name": "drupal/drupal_cms_project",
-            "version": "1.2.4",
+            "version": "1.2.6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_project.git",
-                "reference": "43d63ff0549a8bdabc8f5748043bb928c3c4edbe"
+                "reference": "ca27b7b7aa16c35c40d527f8a6d8a652ae174c2b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_project/repository/archive.zip?sha=43d63ff0549a8bdabc8f5748043bb928c3c4edbe",
-                "reference": "43d63ff0549a8bdabc8f5748043bb928c3c4edbe",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_project/repository/archive.zip?sha=ca27b7b7aa16c35c40d527f8a6d8a652ae174c2b",
+                "reference": "ca27b7b7aa16c35c40d527f8a6d8a652ae174c2b",
                 "shasum": ""
             },
             "require": {
@@ -4411,9 +4412,9 @@
             ],
             "description": "Adds a project content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_project/-/tree/1.2.4"
+                "source": "https://git.drupalcode.org/project/drupal_cms_project/-/tree/1.2.6"
             },
-            "time": "2025-09-04T10:06:53+00:00"
+            "time": "2025-09-29T13:06:27+00:00"
         },
         {
             "name": "drupal/drupal_cms_remote_video",
@@ -6251,30 +6252,26 @@
         },
         {
             "name": "drupal/linkit",
-            "version": "7.0.9",
+            "version": "7.0.10",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkit.git",
-                "reference": "7.0.9"
+                "reference": "7.0.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.9.zip",
-                "reference": "7.0.9",
-                "shasum": "fa75d31583a5866c8dd1f0455b7b5d19642c6f34"
+                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.10.zip",
+                "reference": "7.0.10",
+                "shasum": "10a7d4bce0038e887e597911b60919496c640f41"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
             },
-            "require-dev": {
-                "drupal/ckeditor": "*",
-                "drupal/imce": "*"
-            },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "7.0.9",
-                    "datestamp": "1757621287",
+                    "version": "7.0.10",
+                    "datestamp": "1759925018",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
