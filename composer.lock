@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fb7885838c91adb8b7ec7406116b4249",
+    "content-hash": "6a29447eb7cce173e8f4aa4cbdb68339",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4062,16 +4062,16 @@
         },
         {
             "name": "drupal/drupal_cms_forms",
-            "version": "1.2.6",
+            "version": "1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_forms.git",
-                "reference": "62adf2008bbaeacd4fa6dfea89aaf538e04fa23e"
+                "reference": "78b5d3431e3e6d856d553e7c40a4e540ddaf3530"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_forms/repository/archive.zip?sha=62adf2008bbaeacd4fa6dfea89aaf538e04fa23e",
-                "reference": "62adf2008bbaeacd4fa6dfea89aaf538e04fa23e",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_forms/repository/archive.zip?sha=78b5d3431e3e6d856d553e7c40a4e540ddaf3530",
+                "reference": "78b5d3431e3e6d856d553e7c40a4e540ddaf3530",
                 "shasum": ""
             },
             "require": {
@@ -4087,9 +4087,9 @@
             ],
             "description": "Adds a simple contact form, and tools for building forms.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_forms/-/tree/1.2.6"
+                "source": "https://git.drupalcode.org/project/drupal_cms_forms/-/tree/1.2.7"
             },
-            "time": "2025-09-29T13:06:27+00:00"
+            "time": "2025-10-09T13:50:35+00:00"
         },
         {
             "name": "drupal/drupal_cms_google_analytics",
@@ -4123,17 +4123,17 @@
         },
         {
             "name": "drupal/drupal_cms_helper",
-            "version": "1.2.6",
+            "version": "1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_helper.git",
-                "reference": "1.2.6"
+                "reference": "1.2.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-1.2.6.zip",
-                "reference": "1.2.6",
-                "shasum": "ac76cf15daffbcc2c25f52daa87b7429bf1c821f"
+                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-1.2.7.zip",
+                "reference": "1.2.7",
+                "shasum": "8a9405c35b804e346f8bf73e1582a7160b02a239"
             },
             "require": {
                 "drupal/core": "^11.2.4"
@@ -4141,8 +4141,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.6",
-                    "datestamp": "1759167506",
+                    "version": "1.2.7",
+                    "datestamp": "1760034362",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4480,16 +4480,16 @@
         },
         {
             "name": "drupal/drupal_cms_seo_basic",
-            "version": "1.2.4",
+            "version": "1.2.6",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_seo_basic.git",
-                "reference": "2990acbb8d94cd9e67e4928a9da354e56faa8626"
+                "reference": "44259a0bc30112a518b7a475e8bcd23d7765745a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_basic/repository/archive.zip?sha=2990acbb8d94cd9e67e4928a9da354e56faa8626",
-                "reference": "2990acbb8d94cd9e67e4928a9da354e56faa8626",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_basic/repository/archive.zip?sha=44259a0bc30112a518b7a475e8bcd23d7765745a",
+                "reference": "44259a0bc30112a518b7a475e8bcd23d7765745a",
                 "shasum": ""
             },
             "require": {
@@ -4501,7 +4501,7 @@
             },
             "suggest": {
                 "drupal/drupal_cms_accessibility_tools": "Adds automated checks to help ensure content conforms to web accessibility guidelines.",
-                "drupal/drupal_cms_analytics": "Adds recipes for tracking website traffic.",
+                "drupal/drupal_cms_google_analytics": "Adds website traffic tracking with Google Analytics.",
                 "drupal/drupal_cms_seo_tools": "Add additional SEO tools to help configure and manage meta tags, SEO analysis, sitemaps, with an SEO checklist and dashboard."
             },
             "type": "drupal-recipe",
@@ -4511,9 +4511,9 @@
             ],
             "description": "Provides basic SEO best practices.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_seo_basic/-/tree/1.2.4"
+                "source": "https://git.drupalcode.org/project/drupal_cms_seo_basic/-/tree/1.2.6"
             },
-            "time": "2025-09-04T10:06:53+00:00"
+            "time": "2025-09-29T13:06:27+00:00"
         },
         {
             "name": "drupal/drupal_cms_seo_tools",
@@ -4560,16 +4560,16 @@
         },
         {
             "name": "drupal/drupal_cms_starter",
-            "version": "1.2.6",
+            "version": "1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_starter.git",
-                "reference": "1a26ac2b0f6eaf4dc7e3e32ef48d250cb8c15037"
+                "reference": "d96bc962c9e94479405c4833dcc413aff62c3ebc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=1a26ac2b0f6eaf4dc7e3e32ef48d250cb8c15037",
-                "reference": "1a26ac2b0f6eaf4dc7e3e32ef48d250cb8c15037",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=d96bc962c9e94479405c4833dcc413aff62c3ebc",
+                "reference": "d96bc962c9e94479405c4833dcc413aff62c3ebc",
                 "shasum": ""
             },
             "require": {
@@ -4581,7 +4581,7 @@
                 "drupal/drupal_cms_anti_spam": "^1.2",
                 "drupal/drupal_cms_authentication": "^1.2",
                 "drupal/drupal_cms_helper": "^1.2",
-                "drupal/drupal_cms_olivero": "^1.2.5",
+                "drupal/drupal_cms_olivero": "^1.2.7",
                 "drupal/drupal_cms_page": "^1.2",
                 "drupal/drupal_cms_privacy_basic": "^1.2",
                 "drupal/drupal_cms_remote_video": "^1.2",
@@ -4599,9 +4599,9 @@
             ],
             "description": "Applies the foundational Drupal CMS recipes.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.6"
+                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.7"
             },
-            "time": "2025-09-29T13:06:27+00:00"
+            "time": "2025-10-09T13:50:35+00:00"
         },
         {
             "name": "drupal/easy_breadcrumb",
@@ -6828,16 +6828,16 @@
         },
         {
             "name": "drupal/recipe_installer_kit",
-            "version": "1.0.0-alpha7",
+            "version": "1.0.0-alpha8",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/recipe_installer_kit.git",
-                "reference": "00cb997bc44b8dfc4a40cbd2db38b8eeba7c9c6b"
+                "reference": "57545308c602ea012911987e0f3eae7820c5c865"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Frecipe_installer_kit/repository/archive.zip?sha=00cb997bc44b8dfc4a40cbd2db38b8eeba7c9c6b",
-                "reference": "00cb997bc44b8dfc4a40cbd2db38b8eeba7c9c6b",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Frecipe_installer_kit/repository/archive.zip?sha=57545308c602ea012911987e0f3eae7820c5c865",
+                "reference": "57545308c602ea012911987e0f3eae7820c5c865",
                 "shasum": ""
             },
             "require": {
@@ -6855,9 +6855,9 @@
                 "GPL-2.0-or-later"
             ],
             "support": {
-                "source": "https://git.drupalcode.org/project/recipe_installer_kit/-/tree/1.0.0-alpha7"
+                "source": "https://git.drupalcode.org/project/recipe_installer_kit/-/tree/1.0.0-alpha8"
             },
-            "time": "2025-08-16T09:38:33+00:00"
+            "time": "2025-09-25T18:11:08+00:00"
         },
         {
             "name": "drupal/redirect",
@@ -10130,16 +10130,16 @@
         },
         {
             "name": "openai-php/client",
-            "version": "v0.17.0",
+            "version": "v0.17.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/openai-php/client.git",
-                "reference": "e79ab01f1237b9b8e69fdcacdaaabf81b1a2a6f3"
+                "reference": "f7d3150159a7b840fe144568bede1c072f768343"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/openai-php/client/zipball/e79ab01f1237b9b8e69fdcacdaaabf81b1a2a6f3",
-                "reference": "e79ab01f1237b9b8e69fdcacdaaabf81b1a2a6f3",
+                "url": "https://api.github.com/repos/openai-php/client/zipball/f7d3150159a7b840fe144568bede1c072f768343",
+                "reference": "f7d3150159a7b840fe144568bede1c072f768343",
                 "shasum": ""
             },
             "require": {
@@ -10201,7 +10201,7 @@
             ],
             "support": {
                 "issues": "https://github.com/openai-php/client/issues",
-                "source": "https://github.com/openai-php/client/tree/v0.17.0"
+                "source": "https://github.com/openai-php/client/tree/v0.17.1"
             },
             "funding": [
                 {
@@ -10217,7 +10217,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-10-02T10:29:48+00:00"
+            "time": "2025-10-09T10:35:54+00:00"
         },
         {
             "name": "pear/archive_tar",
@@ -15168,7 +15168,6 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "drupal/core": 5,
         "drupal/project_browser": 10,
         "drupal/recipe_installer_kit": 15,
         "drupal/webform": 10
