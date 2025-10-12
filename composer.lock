@@ -4355,16 +4355,16 @@
         },
         {
             "name": "drupal/drupal_cms_privacy_basic",
-            "version": "1.2.5",
+            "version": "1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_privacy_basic.git",
-                "reference": "8f2ff3403edfba10420d1e41dff948e1e5e31af6"
+                "reference": "6cbbb5d5147938404718bbbd2e97342f43b8dfb8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=8f2ff3403edfba10420d1e41dff948e1e5e31af6",
-                "reference": "8f2ff3403edfba10420d1e41dff948e1e5e31af6",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=6cbbb5d5147938404718bbbd2e97342f43b8dfb8",
+                "reference": "6cbbb5d5147938404718bbbd2e97342f43b8dfb8",
                 "shasum": ""
             },
             "require": {
@@ -4382,9 +4382,9 @@
             ],
             "description": "Adds basic privacy features such as consent management and remote content blocking.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/1.2.5"
+                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/1.2.7"
             },
-            "time": "2025-09-09T08:41:31+00:00"
+            "time": "2025-10-09T13:50:35+00:00"
         },
         {
             "name": "drupal/drupal_cms_project",
@@ -4418,16 +4418,16 @@
         },
         {
             "name": "drupal/drupal_cms_remote_video",
-            "version": "1.2.5",
+            "version": "1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_remote_video.git",
-                "reference": "3104e5d3203eea71e2a12b68e8a5c0b26236f787"
+                "reference": "7749cc1a3959359b4c2d459a5db8fb4eb047ac0d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_remote_video/repository/archive.zip?sha=3104e5d3203eea71e2a12b68e8a5c0b26236f787",
-                "reference": "3104e5d3203eea71e2a12b68e8a5c0b26236f787",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_remote_video/repository/archive.zip?sha=7749cc1a3959359b4c2d459a5db8fb4eb047ac0d",
+                "reference": "7749cc1a3959359b4c2d459a5db8fb4eb047ac0d",
                 "shasum": ""
             },
             "require": {
@@ -4441,9 +4441,9 @@
             ],
             "description": "Configures display options for remote video.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_remote_video/-/tree/1.2.5"
+                "source": "https://git.drupalcode.org/project/drupal_cms_remote_video/-/tree/1.2.7"
             },
-            "time": "2025-09-09T08:41:31+00:00"
+            "time": "2025-10-09T13:50:35+00:00"
         },
         {
             "name": "drupal/drupal_cms_search",
@@ -5578,17 +5578,17 @@
         },
         {
             "name": "drupal/gin",
-            "version": "5.0.4",
+            "version": "5.0.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/gin.git",
-                "reference": "5.0.4"
+                "reference": "5.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/gin-5.0.4.zip",
-                "reference": "5.0.4",
-                "shasum": "d89e7a9b2369076efd2c0fbc6109c235cd978977"
+                "url": "https://ftp.drupal.org/files/projects/gin-5.0.5.zip",
+                "reference": "5.0.5",
+                "shasum": "5d38d3b5c11bdd1ed77846276e094fc8fc6b4a8a"
             },
             "require": {
                 "drupal/core": "^11.2",
@@ -5597,8 +5597,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "5.0.4",
-                    "datestamp": "1759588043",
+                    "version": "5.0.5",
+                    "datestamp": "1760186640",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
