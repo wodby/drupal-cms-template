@@ -3955,16 +3955,16 @@
         },
         {
             "name": "drupal/drupal_cms_case_study",
-            "version": "1.2.5",
+            "version": "1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_case_study.git",
-                "reference": "e80e2a69c2fa9adbcb825de687035c9af4af5ac5"
+                "reference": "d9669b951b87e8e9580c70ec736cd6750c8e96d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_case_study/repository/archive.zip?sha=e80e2a69c2fa9adbcb825de687035c9af4af5ac5",
-                "reference": "e80e2a69c2fa9adbcb825de687035c9af4af5ac5",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_case_study/repository/archive.zip?sha=d9669b951b87e8e9580c70ec736cd6750c8e96d0",
+                "reference": "d9669b951b87e8e9580c70ec736cd6750c8e96d0",
                 "shasum": ""
             },
             "require": {
@@ -3979,9 +3979,9 @@
             ],
             "description": "Adds a case study content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_case_study/-/tree/1.2.5"
+                "source": "https://git.drupalcode.org/project/drupal_cms_case_study/-/tree/1.2.7"
             },
-            "time": "2025-09-09T08:41:31+00:00"
+            "time": "2025-10-09T13:50:35+00:00"
         },
         {
             "name": "drupal/drupal_cms_content_type_base",
