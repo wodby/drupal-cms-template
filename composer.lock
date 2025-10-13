@@ -4447,16 +4447,16 @@
         },
         {
             "name": "drupal/drupal_cms_search",
-            "version": "1.2.6",
+            "version": "1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_search.git",
-                "reference": "0d99e485fcf957d0b61f3bda9aff502b5327a1c4"
+                "reference": "a48b56d26fec547566ee50f0ed170d12898db7f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_search/repository/archive.zip?sha=0d99e485fcf957d0b61f3bda9aff502b5327a1c4",
-                "reference": "0d99e485fcf957d0b61f3bda9aff502b5327a1c4",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_search/repository/archive.zip?sha=a48b56d26fec547566ee50f0ed170d12898db7f2",
+                "reference": "a48b56d26fec547566ee50f0ed170d12898db7f2",
                 "shasum": ""
             },
             "require": {
@@ -4474,9 +4474,9 @@
             ],
             "description": "Adds a search to help visitors find content.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_search/-/tree/1.2.6"
+                "source": "https://git.drupalcode.org/project/drupal_cms_search/-/tree/1.2.7"
             },
-            "time": "2025-09-29T13:06:27+00:00"
+            "time": "2025-10-09T13:50:35+00:00"
         },
         {
             "name": "drupal/drupal_cms_seo_basic",
@@ -7490,17 +7490,17 @@
         },
         {
             "name": "drupal/simple_search_form",
-            "version": "1.7.0",
+            "version": "1.8.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/simple_search_form.git",
-                "reference": "8.x-1.7"
+                "reference": "8.x-1.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/simple_search_form-8.x-1.7.zip",
-                "reference": "8.x-1.7",
-                "shasum": "5592a3bf24dd60df7e692c74520441751da66f9d"
+                "url": "https://ftp.drupal.org/files/projects/simple_search_form-8.x-1.8.zip",
+                "reference": "8.x-1.8",
+                "shasum": "ba1a1c711971c56f5df39c0841dfd53483f76116"
             },
             "require": {
                 "drupal/core": "^8.8 || ^9 || ^10 || ^11"
@@ -7508,8 +7508,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.7",
-                    "datestamp": "1755001399",
+                    "version": "8.x-1.8",
+                    "datestamp": "1760340205",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
