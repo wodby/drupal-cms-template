@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a29447eb7cce173e8f4aa4cbdb68339",
+    "content-hash": "e7a1d5d43a03162629104495a6f74024",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4121,17 +4121,17 @@
         },
         {
             "name": "drupal/drupal_cms_helper",
-            "version": "1.2.7",
+            "version": "1.2.8",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_helper.git",
-                "reference": "1.2.7"
+                "reference": "1.2.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-1.2.7.zip",
-                "reference": "1.2.7",
-                "shasum": "8a9405c35b804e346f8bf73e1582a7160b02a239"
+                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-1.2.8.zip",
+                "reference": "1.2.8",
+                "shasum": "dde2c783df0803862f532662dcbe075149761a1d"
             },
             "require": {
                 "drupal/core": "^11.2.4"
@@ -4139,8 +4139,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.7",
-                    "datestamp": "1760106657",
+                    "version": "1.2.8",
+                    "datestamp": "1760628762",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4227,17 +4227,17 @@
         },
         {
             "name": "drupal/drupal_cms_olivero",
-            "version": "1.2.7",
+            "version": "1.2.8",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_olivero.git",
-                "reference": "1.2.7"
+                "reference": "1.2.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupal_cms_olivero-1.2.7.zip",
-                "reference": "1.2.7",
-                "shasum": "232d474e76eaa8ee3697956852858f832930636e"
+                "url": "https://ftp.drupal.org/files/projects/drupal_cms_olivero-1.2.8.zip",
+                "reference": "1.2.8",
+                "shasum": "68da5c772ad449329f2fa46b6d89235b2c299304"
             },
             "require": {
                 "drupal/core": "^11"
@@ -4248,8 +4248,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.2.7",
-                    "datestamp": "1759717429",
+                    "version": "1.2.8",
+                    "datestamp": "1760626785",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4558,16 +4558,16 @@
         },
         {
             "name": "drupal/drupal_cms_starter",
-            "version": "1.2.7",
+            "version": "1.2.8",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_starter.git",
-                "reference": "d96bc962c9e94479405c4833dcc413aff62c3ebc"
+                "reference": "41cdaa85fbbc6e4d27e215d99292b4080fa0b9d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=d96bc962c9e94479405c4833dcc413aff62c3ebc",
-                "reference": "d96bc962c9e94479405c4833dcc413aff62c3ebc",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=41cdaa85fbbc6e4d27e215d99292b4080fa0b9d4",
+                "reference": "41cdaa85fbbc6e4d27e215d99292b4080fa0b9d4",
                 "shasum": ""
             },
             "require": {
@@ -4597,9 +4597,9 @@
             ],
             "description": "Applies the foundational Drupal CMS recipes.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.7"
+                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.8"
             },
-            "time": "2025-10-09T13:50:35+00:00"
+            "time": "2025-10-16T17:02:18+00:00"
         },
         {
             "name": "drupal/easy_breadcrumb",
@@ -6733,17 +6733,17 @@
         },
         {
             "name": "drupal/project_browser",
-            "version": "2.1.0-beta3",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/project_browser.git",
-                "reference": "2.1.0-beta3"
+                "reference": "2.1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/project_browser-2.1.0-beta3.zip",
-                "reference": "2.1.0-beta3",
-                "shasum": "ab80aa5737f05389e73cc8fd3a64f0277d423ad7"
+                "url": "https://ftp.drupal.org/files/projects/project_browser-2.1.0.zip",
+                "reference": "2.1.0",
+                "shasum": "9b45086f52d53b6c6d09206754911f21c8ffca50"
             },
             "require": {
                 "composer-runtime-api": "^2",
@@ -6766,11 +6766,11 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.1.0-beta3",
-                    "datestamp": "1754425660",
+                    "version": "2.1.0",
+                    "datestamp": "1760620953",
                     "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Beta releases are not covered by Drupal security advisories."
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
                     }
                 }
             },
@@ -15166,7 +15166,6 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "drupal/project_browser": 10,
         "drupal/recipe_installer_kit": 15,
         "drupal/webform": 10
     },
