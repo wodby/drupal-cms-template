@@ -2137,17 +2137,17 @@
         },
         {
             "name": "drupal/ai",
-            "version": "1.2.1",
+            "version": "1.2.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai.git",
-                "reference": "1.2.1"
+                "reference": "1.2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai-1.2.1.zip",
-                "reference": "1.2.1",
-                "shasum": "1d80e4bc9f6c263f0abf0ca0a7f97a57e746c13a"
+                "url": "https://ftp.drupal.org/files/projects/ai-1.2.2.zip",
+                "reference": "1.2.2",
+                "shasum": "761bbf7578a26ea4ef122b76f0e82a10254f9df1"
             },
             "require": {
                 "drupal/core": "^10.4 || ^11",
@@ -2174,8 +2174,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.1",
-                    "datestamp": "1760514350",
+                    "version": "1.2.2",
+                    "datestamp": "1761744723",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3621,17 +3621,17 @@
         },
         {
             "name": "drupal/dashboard",
-            "version": "2.1.0",
+            "version": "2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/dashboard.git",
-                "reference": "2.1.0"
+                "reference": "2.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/dashboard-2.1.0.zip",
-                "reference": "2.1.0",
-                "shasum": "5ba992bcf57db7df8f1e78463c410c974eee0999"
+                "url": "https://ftp.drupal.org/files/projects/dashboard-2.1.1.zip",
+                "reference": "2.1.1",
+                "shasum": "63960db365894f72ff52f6b5d069b1f1f4d5fdd4"
             },
             "require": {
                 "drupal/core": "^11.2"
@@ -3642,8 +3642,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.1.0",
-                    "datestamp": "1756601749",
+                    "version": "2.1.1",
+                    "datestamp": "1761732316",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6181,17 +6181,17 @@
         },
         {
             "name": "drupal/leaflet",
-            "version": "10.3.10",
+            "version": "10.3.11",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/leaflet.git",
-                "reference": "10.3.10"
+                "reference": "10.3.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/leaflet-10.3.10.zip",
-                "reference": "10.3.10",
-                "shasum": "29c6218f354e28d4b13fae2d3e5ecb24f7d82e4f"
+                "url": "https://ftp.drupal.org/files/projects/leaflet-10.3.11.zip",
+                "reference": "10.3.11",
+                "shasum": "64a83207cd1bfc599d32ad5f338a3d6ee24a2bad"
             },
             "require": {
                 "drupal/core": "^9.3 || ^10 || ^11",
@@ -6200,8 +6200,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "10.3.10",
-                    "datestamp": "1759524213",
+                    "version": "10.3.11",
+                    "datestamp": "1761727339",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6736,17 +6736,17 @@
         },
         {
             "name": "drupal/project_browser",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/project_browser.git",
-                "reference": "2.1.1"
+                "reference": "2.1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/project_browser-2.1.1.zip",
-                "reference": "2.1.1",
-                "shasum": "e3c07c9946c567b6c237f6668277be135445a05c"
+                "url": "https://ftp.drupal.org/files/projects/project_browser-2.1.2.zip",
+                "reference": "2.1.2",
+                "shasum": "5033af2c19e3552e4a3a2a236b48a2c869e2afe3"
             },
             "require": {
                 "composer-runtime-api": "^2",
@@ -6769,8 +6769,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.1.1",
-                    "datestamp": "1760712068",
+                    "version": "2.1.2",
+                    "datestamp": "1761762127",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -14996,16 +14996,16 @@
         },
         {
             "name": "webmozart/assert",
-            "version": "1.12.0",
+            "version": "1.12.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webmozarts/assert.git",
-                "reference": "541057574806f942c94662b817a50f63f7345360"
+                "reference": "9be6926d8b485f55b9229203f962b51ed377ba68"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozarts/assert/zipball/541057574806f942c94662b817a50f63f7345360",
-                "reference": "541057574806f942c94662b817a50f63f7345360",
+                "url": "https://api.github.com/repos/webmozarts/assert/zipball/9be6926d8b485f55b9229203f962b51ed377ba68",
+                "reference": "9be6926d8b485f55b9229203f962b51ed377ba68",
                 "shasum": ""
             },
             "require": {
@@ -15048,9 +15048,9 @@
             ],
             "support": {
                 "issues": "https://github.com/webmozarts/assert/issues",
-                "source": "https://github.com/webmozarts/assert/tree/1.12.0"
+                "source": "https://github.com/webmozarts/assert/tree/1.12.1"
             },
-            "time": "2025-10-20T12:43:39+00:00"
+            "time": "2025-10-29T15:56:20+00:00"
         },
         {
             "name": "willdurand/geocoder",
