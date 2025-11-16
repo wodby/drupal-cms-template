@@ -7602,17 +7602,17 @@
         },
         {
             "name": "drupal/sitemap",
-            "version": "2.4.0",
+            "version": "2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/sitemap.git",
-                "reference": "8.x-2.4"
+                "reference": "8.x-2.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/sitemap-8.x-2.4.zip",
-                "reference": "8.x-2.4",
-                "shasum": "9178b8c94465ec2087ea417f97689b0c3e93f528"
+                "url": "https://ftp.drupal.org/files/projects/sitemap-8.x-2.5.zip",
+                "reference": "8.x-2.5",
+                "shasum": "0f99a562ce49cbcabf67dbd9249670385495a3f4"
             },
             "require": {
                 "drupal/core": "^10.2 || ^11",
@@ -7626,8 +7626,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-2.4",
-                    "datestamp": "1759339104",
+                    "version": "8.x-2.5",
+                    "datestamp": "1763258886",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
