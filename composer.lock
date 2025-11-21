@@ -2700,17 +2700,17 @@
         },
         {
             "name": "drupal/better_exposed_filters",
-            "version": "7.1.0",
+            "version": "7.1.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/better_exposed_filters.git",
-                "reference": "7.1.0"
+                "reference": "7.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/better_exposed_filters-7.1.0.zip",
-                "reference": "7.1.0",
-                "shasum": "2ef5095f9132362b51007db1771a4355512eb486"
+                "url": "https://ftp.drupal.org/files/projects/better_exposed_filters-7.1.1.zip",
+                "reference": "7.1.1",
+                "shasum": "e22a4afccf011a583e2ae6297d34f7d344552469"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11",
@@ -2719,8 +2719,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "7.1.0",
-                    "datestamp": "1763590292",
+                    "version": "7.1.1",
+                    "datestamp": "1763681621",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2947,6 +2947,10 @@
                     "name": "Travis Carden",
                     "homepage": "https://www.drupal.org/user/3550392",
                     "email": "travis.carden@gmail.com"
+                },
+                {
+                    "name": "phenaproxima",
+                    "homepage": "https://www.drupal.org/user/205645"
                 },
                 {
                     "name": "rajeshreeputra",
@@ -7855,17 +7859,17 @@
         },
         {
             "name": "drupal/tagify",
-            "version": "1.2.42",
+            "version": "1.2.43",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/tagify.git",
-                "reference": "1.2.42"
+                "reference": "1.2.43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.42.zip",
-                "reference": "1.2.42",
-                "shasum": "3bc18ce2fad0ccdca0955900f69301824286d3d4"
+                "url": "https://ftp.drupal.org/files/projects/tagify-1.2.43.zip",
+                "reference": "1.2.43",
+                "shasum": "2e97f3c362696db2599e8b89812074a73bc358db"
             },
             "require": {
                 "drupal/core": "^8.8 || ^9 || ^10 || ^11"
@@ -7881,8 +7885,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.42",
-                    "datestamp": "1757084234",
+                    "version": "1.2.43",
+                    "datestamp": "1763655607",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
