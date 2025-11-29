@@ -6839,16 +6839,16 @@
         },
         {
             "name": "drupal/recipe_installer_kit",
-            "version": "1.0.0-alpha8",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/recipe_installer_kit.git",
-                "reference": "57545308c602ea012911987e0f3eae7820c5c865"
+                "reference": "63b3f86248b471d03f3c3a4304f096ddb5cb5068"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Frecipe_installer_kit/repository/archive.zip?sha=57545308c602ea012911987e0f3eae7820c5c865",
-                "reference": "57545308c602ea012911987e0f3eae7820c5c865",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Frecipe_installer_kit/repository/archive.zip?sha=63b3f86248b471d03f3c3a4304f096ddb5cb5068",
+                "reference": "63b3f86248b471d03f3c3a4304f096ddb5cb5068",
                 "shasum": ""
             },
             "require": {
@@ -6866,9 +6866,9 @@
                 "GPL-2.0-or-later"
             ],
             "support": {
-                "source": "https://git.drupalcode.org/project/recipe_installer_kit/-/tree/1.0.0-alpha8"
+                "source": "https://git.drupalcode.org/project/recipe_installer_kit/-/tree/1.0.0"
             },
-            "time": "2025-09-25T18:11:08+00:00"
+            "time": "2025-10-21T19:57:37+00:00"
         },
         {
             "name": "drupal/redirect",
@@ -9197,16 +9197,16 @@
         },
         {
             "name": "justinrainbow/json-schema",
-            "version": "6.6.1",
+            "version": "6.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jsonrainbow/json-schema.git",
-                "reference": "fd8e5c6b1badb998844ad34ce0abcd71a0aeb396"
+                "reference": "3c25fe750c1599716ef26aa997f7c026cee8c4b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/fd8e5c6b1badb998844ad34ce0abcd71a0aeb396",
-                "reference": "fd8e5c6b1badb998844ad34ce0abcd71a0aeb396",
+                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/3c25fe750c1599716ef26aa997f7c026cee8c4b7",
+                "reference": "3c25fe750c1599716ef26aa997f7c026cee8c4b7",
                 "shasum": ""
             },
             "require": {
@@ -9266,9 +9266,9 @@
             ],
             "support": {
                 "issues": "https://github.com/jsonrainbow/json-schema/issues",
-                "source": "https://github.com/jsonrainbow/json-schema/tree/6.6.1"
+                "source": "https://github.com/jsonrainbow/json-schema/tree/6.6.2"
             },
-            "time": "2025-11-07T18:30:29+00:00"
+            "time": "2025-11-28T15:24:03+00:00"
         },
         {
             "name": "laravel/prompts",
