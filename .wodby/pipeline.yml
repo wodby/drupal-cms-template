@@ -17,6 +17,7 @@ jobs:
     - run: wget -qO- https://api.wodby.com/v1/get/cli | sh
     - run: wodby ci init $WODBY_BUILD_ID
     - run: wodby ci run -v $HOME/.composer:/home/wodby/.composer -s php -- composer install -n --no-ansi
+    - run: wodby ci run -v $HOME/.composer:/home/wodby/.composer -s php -- composer drupal:recipe-unpack
     - run: wodby ci run -v $HOME/.composer:/home/wodby/.composer -s php -- composer require drush/drush
 
     - cache_save:
