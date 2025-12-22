@@ -5971,7 +5971,7 @@
             "extra": {
                 "drupal": {
                     "version": "8.x-1.21",
-                    "datestamp": "1766088922",
+                    "datestamp": "1766353546",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
