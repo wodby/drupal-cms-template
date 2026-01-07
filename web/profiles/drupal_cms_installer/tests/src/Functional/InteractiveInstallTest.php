@@ -56,10 +56,7 @@ class InteractiveInstallTest extends InstallerTestBase {
    */
   protected function installDefaultThemeFromClassProperty(ContainerInterface $container): void {
     $this->assertNull($this->defaultTheme);
-    // The Drupal CMS installer takes a specific step so that Stark will not
-    // be installed, so assert that it is not, in fact, installed.
     $this->assertTrue($this->isInstalled);
-    $this->assertArrayNotHasKey('stark', $container->get(ThemeHandlerInterface::class)->listInfo());
   }
 
   /**

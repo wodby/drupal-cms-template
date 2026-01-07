@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e7a1d5d43a03162629104495a6f74024",
+    "content-hash": "878d1b75f627c1d57bb6e0efa314f9de",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3695,16 +3695,16 @@
         },
         {
             "name": "drupal/drupal_cms_accessibility_tools",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools.git",
-                "reference": "714baa55770fe3f6f261dcd307e5e1a259bf1b12"
+                "reference": "e680659b2f81e363ea195426e3f57b6de778332c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=714baa55770fe3f6f261dcd307e5e1a259bf1b12",
-                "reference": "714baa55770fe3f6f261dcd307e5e1a259bf1b12",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=e680659b2f81e363ea195426e3f57b6de778332c",
+                "reference": "e680659b2f81e363ea195426e3f57b6de778332c",
                 "shasum": ""
             },
             "require": {
@@ -3719,22 +3719,22 @@
             ],
             "description": "Adds automated checks to help ensure content conforms to web accessibility guidelines.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_admin_ui",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_admin_ui.git",
-                "reference": "8cad9c5ece426292a18918c925773be7382f4e35"
+                "reference": "249474bc9791beb989098406f0a80c33ce49ebf5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=8cad9c5ece426292a18918c925773be7382f4e35",
-                "reference": "8cad9c5ece426292a18918c925773be7382f4e35",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=249474bc9791beb989098406f0a80c33ce49ebf5",
+                "reference": "249474bc9791beb989098406f0a80c33ce49ebf5",
                 "shasum": ""
             },
             "require": {
@@ -3752,22 +3752,22 @@
             ],
             "description": "Sets up a nice administrative theme and navigation.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_ai",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_ai.git",
-                "reference": "96233adc4405005f2cce1ba481ee3f29b8a7374a"
+                "reference": "90128607e4f9abccd746f2b539ca2384c204a382"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_ai/repository/archive.zip?sha=96233adc4405005f2cce1ba481ee3f29b8a7374a",
-                "reference": "96233adc4405005f2cce1ba481ee3f29b8a7374a",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_ai/repository/archive.zip?sha=90128607e4f9abccd746f2b539ca2384c204a382",
+                "reference": "90128607e4f9abccd746f2b539ca2384c204a382",
                 "shasum": ""
             },
             "require": {
@@ -3790,22 +3790,22 @@
             ],
             "description": "Adds integration with AI services, such as alt text generation and a chat bot to assist with site building. Requires an API key from Open AI or Anthropic.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_ai/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_ai/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_anti_spam",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_anti_spam.git",
-                "reference": "c4a55556de9519e42a467919e4628b1eb0d649e9"
+                "reference": "6147bf7bd1334084a6fd157b497b4874784cfd80"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_anti_spam/repository/archive.zip?sha=c4a55556de9519e42a467919e4628b1eb0d649e9",
-                "reference": "c4a55556de9519e42a467919e4628b1eb0d649e9",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_anti_spam/repository/archive.zip?sha=6147bf7bd1334084a6fd157b497b4874784cfd80",
+                "reference": "6147bf7bd1334084a6fd157b497b4874784cfd80",
                 "shasum": ""
             },
             "require": {
@@ -3822,22 +3822,22 @@
             ],
             "description": "Sets up anti-spam and anti-abuse functionality.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_anti_spam/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_anti_spam/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_authentication",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_authentication.git",
-                "reference": "4c94f62e03ad6bec563f148c00501cf7dbb1122e"
+                "reference": "e4d589a66d01c01c1593f8bbb4b98fd3afa1cdb9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_authentication/repository/archive.zip?sha=4c94f62e03ad6bec563f148c00501cf7dbb1122e",
-                "reference": "4c94f62e03ad6bec563f148c00501cf7dbb1122e",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_authentication/repository/archive.zip?sha=e4d589a66d01c01c1593f8bbb4b98fd3afa1cdb9",
+                "reference": "e4d589a66d01c01c1593f8bbb4b98fd3afa1cdb9",
                 "shasum": ""
             },
             "require": {
@@ -3854,22 +3854,22 @@
             ],
             "description": "Sets up a site with useful authentication features.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_authentication/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_authentication/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_blog",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_blog.git",
-                "reference": "06bd3282e30c19fb428320040d4ec505078378b8"
+                "reference": "e907055adab8b54bfc150fb41422a1ab52e1aee3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blog/repository/archive.zip?sha=06bd3282e30c19fb428320040d4ec505078378b8",
-                "reference": "06bd3282e30c19fb428320040d4ec505078378b8",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blog/repository/archive.zip?sha=e907055adab8b54bfc150fb41422a1ab52e1aee3",
+                "reference": "e907055adab8b54bfc150fb41422a1ab52e1aee3",
                 "shasum": ""
             },
             "require": {
@@ -3886,22 +3886,22 @@
             ],
             "description": "Adds a blog post content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_blog/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_blog/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_case_study",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_case_study.git",
-                "reference": "7016fee6c068a543ce97a97f6c7a57a609c5c5fb"
+                "reference": "b9427a9d446d9e871915c95cc853e14d611603ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_case_study/repository/archive.zip?sha=7016fee6c068a543ce97a97f6c7a57a609c5c5fb",
-                "reference": "7016fee6c068a543ce97a97f6c7a57a609c5c5fb",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_case_study/repository/archive.zip?sha=b9427a9d446d9e871915c95cc853e14d611603ae",
+                "reference": "b9427a9d446d9e871915c95cc853e14d611603ae",
                 "shasum": ""
             },
             "require": {
@@ -3916,22 +3916,22 @@
             ],
             "description": "Adds a case study content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_case_study/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_case_study/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_content_type_base",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_content_type_base.git",
-                "reference": "8e8318a48a12d3fa03b308026835a458fdb242c1"
+                "reference": "ce9fa3b076881ad4a82b8d5f24d727b8dc8dc758"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_content_type_base/repository/archive.zip?sha=8e8318a48a12d3fa03b308026835a458fdb242c1",
-                "reference": "8e8318a48a12d3fa03b308026835a458fdb242c1",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_content_type_base/repository/archive.zip?sha=ce9fa3b076881ad4a82b8d5f24d727b8dc8dc758",
+                "reference": "ce9fa3b076881ad4a82b8d5f24d727b8dc8dc758",
                 "shasum": ""
             },
             "require": {
@@ -3949,28 +3949,33 @@
                 "drupal/trash": "^3.0.13"
             },
             "type": "drupal-recipe",
+            "autoload": {
+                "classmap": [
+                    "tests/src/Traits/ContentModelTestTrait.php"
+                ]
+            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-2.0-or-later"
             ],
             "description": "Provides basic tools for creating content.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_content_type_base/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_content_type_base/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_events",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_events.git",
-                "reference": "d43eda468fe4fa9c203744e06839d32ae0ddc2e4"
+                "reference": "25c8cd82d225b9c9646f6d74ac9c721aa8ab332f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_events/repository/archive.zip?sha=d43eda468fe4fa9c203744e06839d32ae0ddc2e4",
-                "reference": "d43eda468fe4fa9c203744e06839d32ae0ddc2e4",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_events/repository/archive.zip?sha=25c8cd82d225b9c9646f6d74ac9c721aa8ab332f",
+                "reference": "25c8cd82d225b9c9646f6d74ac9c721aa8ab332f",
                 "shasum": ""
             },
             "require": {
@@ -3993,22 +3998,22 @@
             ],
             "description": "Adds an event content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_events/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_events/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_forms",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_forms.git",
-                "reference": "9d66a841e4af5aea4d11d22b8a6108243fe1e1e5"
+                "reference": "075ac0f7053605e8c219f071bef4ae3b6cf6df82"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_forms/repository/archive.zip?sha=9d66a841e4af5aea4d11d22b8a6108243fe1e1e5",
-                "reference": "9d66a841e4af5aea4d11d22b8a6108243fe1e1e5",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_forms/repository/archive.zip?sha=075ac0f7053605e8c219f071bef4ae3b6cf6df82",
+                "reference": "075ac0f7053605e8c219f071bef4ae3b6cf6df82",
                 "shasum": ""
             },
             "require": {
@@ -4024,22 +4029,22 @@
             ],
             "description": "Adds a simple contact form, and tools for building forms.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_forms/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_forms/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_google_analytics",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_google_analytics.git",
-                "reference": "c9a369fbc95b66efbf99db8cbe69f801cd272233"
+                "reference": "fa36e42a93fc3425f3046390f744fd04cf55b3c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=c9a369fbc95b66efbf99db8cbe69f801cd272233",
-                "reference": "c9a369fbc95b66efbf99db8cbe69f801cd272233",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=fa36e42a93fc3425f3046390f744fd04cf55b3c1",
+                "reference": "fa36e42a93fc3425f3046390f744fd04cf55b3c1",
                 "shasum": ""
             },
             "require": {
@@ -4054,23 +4059,23 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Adds tracking of website traffic using Google Analytics and Google Tag Manager. Requires a Google Tag Manager ID.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_helper",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_helper.git",
-                "reference": "1.2.8"
+                "reference": "1.2.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-1.2.8.zip",
-                "reference": "1.2.8",
-                "shasum": "dde2c783df0803862f532662dcbe075149761a1d"
+                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-1.2.9.zip",
+                "reference": "1.2.9",
+                "shasum": "511847946b9cdef61a63e7e9fc99aaa84ae8c983"
             },
             "require": {
                 "drupal/core": "^11.2.4"
@@ -4078,13 +4083,18 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.8",
-                    "datestamp": "1760628762",
+                    "version": "1.2.9",
+                    "datestamp": "1767743246",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
                     }
                 }
+            },
+            "autoload": {
+                "files": [
+                    "default-content-export.php"
+                ]
             },
             "notification-url": "https://packages.drupal.org/8/downloads",
             "license": [
@@ -4104,16 +4114,16 @@
         },
         {
             "name": "drupal/drupal_cms_image",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_image.git",
-                "reference": "a11c247c218754ce6d99b941080ce385045afb58"
+                "reference": "663b60b51482671f3a10307b3d29dccacb5ed235"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_image/repository/archive.zip?sha=a11c247c218754ce6d99b941080ce385045afb58",
-                "reference": "a11c247c218754ce6d99b941080ce385045afb58",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_image/repository/archive.zip?sha=663b60b51482671f3a10307b3d29dccacb5ed235",
+                "reference": "663b60b51482671f3a10307b3d29dccacb5ed235",
                 "shasum": ""
             },
             "require": {
@@ -4128,22 +4138,22 @@
             ],
             "description": "Sets up base image configuration including responsive image styles, view modes, focal point-based cropping and SVG images.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_image/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_image/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_news",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_news.git",
-                "reference": "19e0d3d03888b473e8aaa75fc0bca4285c1b8da9"
+                "reference": "a74aa887e4e5110e33558fa152bac8ce75a323ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=19e0d3d03888b473e8aaa75fc0bca4285c1b8da9",
-                "reference": "19e0d3d03888b473e8aaa75fc0bca4285c1b8da9",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=a74aa887e4e5110e33558fa152bac8ce75a323ca",
+                "reference": "a74aa887e4e5110e33558fa152bac8ce75a323ca",
                 "shasum": ""
             },
             "require": {
@@ -4160,9 +4170,9 @@
             ],
             "description": "Adds a news content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_olivero",
@@ -4233,16 +4243,16 @@
         },
         {
             "name": "drupal/drupal_cms_page",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_page.git",
-                "reference": "76268e7af0e0f0a38d983f53edcd2125c3584bdc"
+                "reference": "71fd3ba0ce1ba6b2686e8503669a08b8ae41242d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_page/repository/archive.zip?sha=76268e7af0e0f0a38d983f53edcd2125c3584bdc",
-                "reference": "76268e7af0e0f0a38d983f53edcd2125c3584bdc",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_page/repository/archive.zip?sha=71fd3ba0ce1ba6b2686e8503669a08b8ae41242d",
+                "reference": "71fd3ba0ce1ba6b2686e8503669a08b8ae41242d",
                 "shasum": ""
             },
             "require": {
@@ -4256,22 +4266,22 @@
             ],
             "description": "Adds a content type for simple pages.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_page/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_page/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_person",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_person.git",
-                "reference": "60745d42339a1f1e6c211ec16eed1fa49cfb03b2"
+                "reference": "011ae0bb94e5c7696670162a7dc1d855a97e321f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_person/repository/archive.zip?sha=60745d42339a1f1e6c211ec16eed1fa49cfb03b2",
-                "reference": "60745d42339a1f1e6c211ec16eed1fa49cfb03b2",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_person/repository/archive.zip?sha=011ae0bb94e5c7696670162a7dc1d855a97e321f",
+                "reference": "011ae0bb94e5c7696670162a7dc1d855a97e321f",
                 "shasum": ""
             },
             "require": {
@@ -4286,22 +4296,22 @@
             ],
             "description": "Adds a person profile content type.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_person/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_person/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_privacy_basic",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_privacy_basic.git",
-                "reference": "bc9a27abea85095aa5850ab02dcd20e407ba3117"
+                "reference": "a17e0d8dc3a8a2e79acd39ecb50b72abc2261356"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=bc9a27abea85095aa5850ab02dcd20e407ba3117",
-                "reference": "bc9a27abea85095aa5850ab02dcd20e407ba3117",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=a17e0d8dc3a8a2e79acd39ecb50b72abc2261356",
+                "reference": "a17e0d8dc3a8a2e79acd39ecb50b72abc2261356",
                 "shasum": ""
             },
             "require": {
@@ -4319,22 +4329,22 @@
             ],
             "description": "Adds basic privacy features such as consent management and remote content blocking.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_project",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_project.git",
-                "reference": "4c799d003f63a57db5d2cc07590a343fd96e4cb6"
+                "reference": "bb0c2e64c5a1daf51b4f206d35d6557eb9aa147c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_project/repository/archive.zip?sha=4c799d003f63a57db5d2cc07590a343fd96e4cb6",
-                "reference": "4c799d003f63a57db5d2cc07590a343fd96e4cb6",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_project/repository/archive.zip?sha=bb0c2e64c5a1daf51b4f206d35d6557eb9aa147c",
+                "reference": "bb0c2e64c5a1daf51b4f206d35d6557eb9aa147c",
                 "shasum": ""
             },
             "require": {
@@ -4349,22 +4359,22 @@
             ],
             "description": "Adds a project content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_project/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_project/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_remote_video",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_remote_video.git",
-                "reference": "f3f94d848fc7f18f330bb29783f42f924aca4c94"
+                "reference": "925036fa15972cc6be03ee22f56e0d1107646c50"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_remote_video/repository/archive.zip?sha=f3f94d848fc7f18f330bb29783f42f924aca4c94",
-                "reference": "f3f94d848fc7f18f330bb29783f42f924aca4c94",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_remote_video/repository/archive.zip?sha=925036fa15972cc6be03ee22f56e0d1107646c50",
+                "reference": "925036fa15972cc6be03ee22f56e0d1107646c50",
                 "shasum": ""
             },
             "require": {
@@ -4378,22 +4388,22 @@
             ],
             "description": "Configures display options for remote video.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_remote_video/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_remote_video/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_search",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_search.git",
-                "reference": "6b73c11737bb040ba7512fcda9bf6af29ef9d48d"
+                "reference": "610449c3f050576ee253063b537d0694e192789e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_search/repository/archive.zip?sha=6b73c11737bb040ba7512fcda9bf6af29ef9d48d",
-                "reference": "6b73c11737bb040ba7512fcda9bf6af29ef9d48d",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_search/repository/archive.zip?sha=610449c3f050576ee253063b537d0694e192789e",
+                "reference": "610449c3f050576ee253063b537d0694e192789e",
                 "shasum": ""
             },
             "require": {
@@ -4411,22 +4421,22 @@
             ],
             "description": "Adds a search to help visitors find content.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_search/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_search/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_seo_basic",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_seo_basic.git",
-                "reference": "5bfcdfe931acc82ed36dc6c4ba7eb60a35b9994a"
+                "reference": "267d6037922332e7f0543e39c85f55518e169055"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_basic/repository/archive.zip?sha=5bfcdfe931acc82ed36dc6c4ba7eb60a35b9994a",
-                "reference": "5bfcdfe931acc82ed36dc6c4ba7eb60a35b9994a",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_basic/repository/archive.zip?sha=267d6037922332e7f0543e39c85f55518e169055",
+                "reference": "267d6037922332e7f0543e39c85f55518e169055",
                 "shasum": ""
             },
             "require": {
@@ -4448,22 +4458,22 @@
             ],
             "description": "Provides basic SEO best practices.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_seo_basic/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_seo_basic/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_seo_tools",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_seo_tools.git",
-                "reference": "d02758dab02842ddd0944ecab123eacea7ccb1bc"
+                "reference": "7ae4c5a95072e6de3708a87704a58f18b234f721"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_tools/repository/archive.zip?sha=d02758dab02842ddd0944ecab123eacea7ccb1bc",
-                "reference": "d02758dab02842ddd0944ecab123eacea7ccb1bc",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_tools/repository/archive.zip?sha=7ae4c5a95072e6de3708a87704a58f18b234f721",
+                "reference": "7ae4c5a95072e6de3708a87704a58f18b234f721",
                 "shasum": ""
             },
             "require": {
@@ -4491,22 +4501,22 @@
             ],
             "description": "Adds common search engine optimisation tools such as meta tags, XML sitemap, robots.txt management and more.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_seo_tools/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_seo_tools/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
-            "version": "1.2.8",
+            "version": "1.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_starter.git",
-                "reference": "41cdaa85fbbc6e4d27e215d99292b4080fa0b9d4"
+                "reference": "f353a0dc6fc08495a3671d04f37f575e61139403"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=41cdaa85fbbc6e4d27e215d99292b4080fa0b9d4",
-                "reference": "41cdaa85fbbc6e4d27e215d99292b4080fa0b9d4",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=f353a0dc6fc08495a3671d04f37f575e61139403",
+                "reference": "f353a0dc6fc08495a3671d04f37f575e61139403",
                 "shasum": ""
             },
             "require": {
@@ -4536,9 +4546,9 @@
             ],
             "description": "Applies the foundational Drupal CMS recipes.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/1.2.9"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T16:14:58+00:00"
         },
         {
             "name": "drupal/easy_breadcrumb",
