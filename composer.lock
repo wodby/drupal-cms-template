@@ -3556,17 +3556,17 @@
         },
         {
             "name": "drupal/dashboard",
-            "version": "2.1.2",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/dashboard.git",
-                "reference": "2.1.2"
+                "reference": "2.2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/dashboard-2.1.2.zip",
-                "reference": "2.1.2",
-                "shasum": "3967cbd5cfa3871577f77432566b7f42b8b253e3"
+                "url": "https://ftp.drupal.org/files/projects/dashboard-2.2.0.zip",
+                "reference": "2.2.0",
+                "shasum": "2c382d098f1e029c190fa204ad3f846fbc214184"
             },
             "require": {
                 "drupal/core": "^11.2"
@@ -3577,8 +3577,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.1.2",
-                    "datestamp": "1766422006",
+                    "version": "2.2.0",
+                    "datestamp": "1768063362",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3725,16 +3725,16 @@
         },
         {
             "name": "drupal/drupal_cms_admin_ui",
-            "version": "1.2.9",
+            "version": "1.2.10",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_admin_ui.git",
-                "reference": "249474bc9791beb989098406f0a80c33ce49ebf5"
+                "reference": "0b28a7d05ba8034a634a6094495cb7235143c4c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=249474bc9791beb989098406f0a80c33ce49ebf5",
-                "reference": "249474bc9791beb989098406f0a80c33ce49ebf5",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_admin_ui/repository/archive.zip?sha=0b28a7d05ba8034a634a6094495cb7235143c4c6",
+                "reference": "0b28a7d05ba8034a634a6094495cb7235143c4c6",
                 "shasum": ""
             },
             "require": {
@@ -3752,9 +3752,9 @@
             ],
             "description": "Sets up a nice administrative theme and navigation.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.2.9"
+                "source": "https://git.drupalcode.org/project/drupal_cms_admin_ui/-/tree/1.2.10"
             },
-            "time": "2026-01-06T16:14:58+00:00"
+            "time": "2026-01-06T22:15:03+00:00"
         },
         {
             "name": "drupal/drupal_cms_ai",
@@ -5462,17 +5462,17 @@
         },
         {
             "name": "drupal/geofield",
-            "version": "1.66.0",
+            "version": "1.67.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/geofield.git",
-                "reference": "8.x-1.66"
+                "reference": "8.x-1.67"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/geofield-8.x-1.66.zip",
-                "reference": "8.x-1.66",
-                "shasum": "c217b8f506dcc6c4c581d2dd0dc6c02f9ce8bd14"
+                "url": "https://ftp.drupal.org/files/projects/geofield-8.x-1.67.zip",
+                "reference": "8.x-1.67",
+                "shasum": "c73bf312f3244be23d05caa57086f44310b0b4df"
             },
             "require": {
                 "drupal/core": "^9 || ^10 || ^11",
@@ -5485,8 +5485,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.66",
-                    "datestamp": "1757514238",
+                    "version": "8.x-1.67",
+                    "datestamp": "1768051870",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6126,27 +6126,27 @@
         },
         {
             "name": "drupal/leaflet",
-            "version": "10.3.11",
+            "version": "10.4.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/leaflet.git",
-                "reference": "10.3.11"
+                "reference": "10.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/leaflet-10.3.11.zip",
-                "reference": "10.3.11",
-                "shasum": "64a83207cd1bfc599d32ad5f338a3d6ee24a2bad"
+                "url": "https://ftp.drupal.org/files/projects/leaflet-10.4.1.zip",
+                "reference": "10.4.1",
+                "shasum": "158a2ec5f009b68dea41045be53f388d4fb0b54b"
             },
             "require": {
-                "drupal/core": "^9.3 || ^10 || ^11",
-                "drupal/geofield": "^1.31"
+                "drupal/core": "^10.3 || ^11",
+                "drupal/geofield": "^1.31 || ^10.3"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "10.3.11",
-                    "datestamp": "1761727339",
+                    "version": "10.4.1",
+                    "datestamp": "1768084100",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
