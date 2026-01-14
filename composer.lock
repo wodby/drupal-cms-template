@@ -2518,32 +2518,16 @@
             ],
             "authors": [
                 {
-                    "name": "david strauss",
-                    "homepage": "https://www.drupal.org/user/93254"
+                    "name": "catch",
+                    "homepage": "https://www.drupal.org/user/35733"
                 },
                 {
                     "name": "drumm",
                     "homepage": "https://www.drupal.org/user/3064"
                 },
                 {
-                    "name": "dstol",
-                    "homepage": "https://www.drupal.org/user/329570"
-                },
-                {
-                    "name": "heddn",
-                    "homepage": "https://www.drupal.org/user/1463982"
-                },
-                {
                     "name": "hestenet",
                     "homepage": "https://www.drupal.org/user/54034"
-                },
-                {
-                    "name": "mbaynton",
-                    "homepage": "https://www.drupal.org/user/2303520"
-                },
-                {
-                    "name": "Mixologic",
-                    "homepage": "https://www.drupal.org/user/391689"
                 },
                 {
                     "name": "mlhess",
@@ -2554,16 +2538,8 @@
                     "homepage": "https://www.drupal.org/user/205645"
                 },
                 {
-                    "name": "pwolanin",
-                    "homepage": "https://www.drupal.org/user/49851"
-                },
-                {
                     "name": "tedbow",
                     "homepage": "https://www.drupal.org/user/240860"
-                },
-                {
-                    "name": "wim leers",
-                    "homepage": "https://www.drupal.org/user/99777"
                 },
                 {
                     "name": "xjm",
@@ -5524,17 +5500,17 @@
         },
         {
             "name": "drupal/gin",
-            "version": "5.0.10",
+            "version": "5.0.11",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/gin.git",
-                "reference": "5.0.10"
+                "reference": "5.0.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/gin-5.0.10.zip",
-                "reference": "5.0.10",
-                "shasum": "023e4e39a1c7387c23dc2fae0fc2469341eef780"
+                "url": "https://ftp.drupal.org/files/projects/gin-5.0.11.zip",
+                "reference": "5.0.11",
+                "shasum": "60423f2c9662ccc7197f79aa29e7939b93028d7a"
             },
             "require": {
                 "drupal/core": "^11.2",
@@ -5543,8 +5519,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "5.0.10",
-                    "datestamp": "1766059405",
+                    "version": "5.0.11",
+                    "datestamp": "1768311009",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -9210,16 +9186,16 @@
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.3.8",
+            "version": "v0.3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "096748cdfb81988f60090bbb839ce3205ace0d35"
+                "reference": "5c41bf0555b7cfefaad4e66d3046675829581ac4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/096748cdfb81988f60090bbb839ce3205ace0d35",
-                "reference": "096748cdfb81988f60090bbb839ce3205ace0d35",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/5c41bf0555b7cfefaad4e66d3046675829581ac4",
+                "reference": "5c41bf0555b7cfefaad4e66d3046675829581ac4",
                 "shasum": ""
             },
             "require": {
@@ -9263,9 +9239,9 @@
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.3.8"
+                "source": "https://github.com/laravel/prompts/tree/v0.3.9"
             },
-            "time": "2025-11-21T20:52:52+00:00"
+            "time": "2026-01-07T21:00:29+00:00"
         },
         {
             "name": "league/commonmark",
