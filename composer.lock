@@ -1621,16 +1621,16 @@
         },
         {
             "name": "doctrine/collections",
-            "version": "2.5.1",
+            "version": "2.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/collections.git",
-                "reference": "171e68db4b9aca9dc1f5d49925762f3d53d248c5"
+                "reference": "7713da39d8e237f28411d6a616a3dce5e20d5de2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/collections/zipball/171e68db4b9aca9dc1f5d49925762f3d53d248c5",
-                "reference": "171e68db4b9aca9dc1f5d49925762f3d53d248c5",
+                "url": "https://api.github.com/repos/doctrine/collections/zipball/7713da39d8e237f28411d6a616a3dce5e20d5de2",
+                "reference": "7713da39d8e237f28411d6a616a3dce5e20d5de2",
                 "shasum": ""
             },
             "require": {
@@ -1687,7 +1687,7 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/collections/issues",
-                "source": "https://github.com/doctrine/collections/tree/2.5.1"
+                "source": "https://github.com/doctrine/collections/tree/2.6.0"
             },
             "funding": [
                 {
@@ -1703,7 +1703,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-01-12T20:53:55+00:00"
+            "time": "2026-01-15T10:01:58+00:00"
         },
         {
             "name": "doctrine/deprecations",
@@ -3734,16 +3734,16 @@
         },
         {
             "name": "drupal/drupal_cms_ai",
-            "version": "1.2.9",
+            "version": "1.2.10",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_ai.git",
-                "reference": "90128607e4f9abccd746f2b539ca2384c204a382"
+                "reference": "adda5b0e27d4667a1bd2f40ff2d9739361aec8fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_ai/repository/archive.zip?sha=90128607e4f9abccd746f2b539ca2384c204a382",
-                "reference": "90128607e4f9abccd746f2b539ca2384c204a382",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_ai/repository/archive.zip?sha=adda5b0e27d4667a1bd2f40ff2d9739361aec8fd",
+                "reference": "adda5b0e27d4667a1bd2f40ff2d9739361aec8fd",
                 "shasum": ""
             },
             "require": {
@@ -3766,9 +3766,9 @@
             ],
             "description": "Adds integration with AI services, such as alt text generation and a chat bot to assist with site building. Requires an API key from Open AI or Anthropic.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_ai/-/tree/1.2.9"
+                "source": "https://git.drupalcode.org/project/drupal_cms_ai/-/tree/1.2.10"
             },
-            "time": "2026-01-06T16:14:58+00:00"
+            "time": "2026-01-06T22:15:03+00:00"
         },
         {
             "name": "drupal/drupal_cms_anti_spam",
@@ -3804,16 +3804,16 @@
         },
         {
             "name": "drupal/drupal_cms_authentication",
-            "version": "1.2.9",
+            "version": "1.2.10",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_authentication.git",
-                "reference": "e4d589a66d01c01c1593f8bbb4b98fd3afa1cdb9"
+                "reference": "42b22a1f9720194f05f796ce1e76b814a670de46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_authentication/repository/archive.zip?sha=e4d589a66d01c01c1593f8bbb4b98fd3afa1cdb9",
-                "reference": "e4d589a66d01c01c1593f8bbb4b98fd3afa1cdb9",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_authentication/repository/archive.zip?sha=42b22a1f9720194f05f796ce1e76b814a670de46",
+                "reference": "42b22a1f9720194f05f796ce1e76b814a670de46",
                 "shasum": ""
             },
             "require": {
@@ -3830,9 +3830,9 @@
             ],
             "description": "Sets up a site with useful authentication features.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_authentication/-/tree/1.2.9"
+                "source": "https://git.drupalcode.org/project/drupal_cms_authentication/-/tree/1.2.10"
             },
-            "time": "2026-01-06T16:14:58+00:00"
+            "time": "2026-01-06T22:15:03+00:00"
         },
         {
             "name": "drupal/drupal_cms_blog",
@@ -8008,17 +8008,17 @@
         },
         {
             "name": "drupal/webform",
-            "version": "6.3.0-beta6",
+            "version": "6.3.0-beta7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/webform.git",
-                "reference": "6.3.0-beta6"
+                "reference": "6.3.0-beta7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/webform-6.3.0-beta6.zip",
-                "reference": "6.3.0-beta6",
-                "shasum": "f19f78f27d9a91c8ce3a2c41d8adb3e5198a0a25"
+                "url": "https://ftp.drupal.org/files/projects/webform-6.3.0-beta7.zip",
+                "reference": "6.3.0-beta7",
+                "shasum": "405d46b32e0536f9f854cf1f2620eddd87cc853b"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11.0"
@@ -8063,8 +8063,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "6.3.0-beta6",
-                    "datestamp": "1764797531",
+                    "version": "6.3.0-beta7",
+                    "datestamp": "1768489801",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Beta releases are not covered by Drupal security advisories."
@@ -9186,16 +9186,16 @@
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.3.9",
+            "version": "v0.3.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "5c41bf0555b7cfefaad4e66d3046675829581ac4"
+                "reference": "360ba095ef9f51017473505191fbd4ab73e1cab3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/5c41bf0555b7cfefaad4e66d3046675829581ac4",
-                "reference": "5c41bf0555b7cfefaad4e66d3046675829581ac4",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/360ba095ef9f51017473505191fbd4ab73e1cab3",
+                "reference": "360ba095ef9f51017473505191fbd4ab73e1cab3",
                 "shasum": ""
             },
             "require": {
@@ -9239,9 +9239,9 @@
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.3.9"
+                "source": "https://github.com/laravel/prompts/tree/v0.3.10"
             },
-            "time": "2026-01-07T21:00:29+00:00"
+            "time": "2026-01-13T20:29:29+00:00"
         },
         {
             "name": "league/commonmark",
