@@ -4758,16 +4758,16 @@
         },
         {
             "name": "drupal/easy_email_text_format",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/easy_email_text_format.git",
-                "reference": "568b1d97a91c4aab6aa2e6a3936f280cc49f8385"
+                "reference": "3274b92016acc045c9dbc068c0b129af56807105"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_text_format/repository/archive.zip?sha=568b1d97a91c4aab6aa2e6a3936f280cc49f8385",
-                "reference": "568b1d97a91c4aab6aa2e6a3936f280cc49f8385",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Feasy_email_text_format/repository/archive.zip?sha=3274b92016acc045c9dbc068c0b129af56807105",
+                "reference": "3274b92016acc045c9dbc068c0b129af56807105",
                 "shasum": ""
             },
             "require": {
@@ -4787,7 +4787,7 @@
                 "issues": "https://www.drupal.org/project/issues/easy_email_text_format",
                 "source": "https://git.drupalcode.org/project/easy_email_text_format"
             },
-            "time": "2025-06-16T14:07:18+00:00"
+            "time": "2026-01-16T19:01:41+00:00"
         },
         {
             "name": "drupal/easy_email_theme",
