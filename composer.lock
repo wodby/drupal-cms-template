@@ -6750,16 +6750,16 @@
         },
         {
             "name": "drupal/recipe_installer_kit",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/recipe_installer_kit.git",
-                "reference": "3e4f65225e0580a1f808fdc8403d9594a01faebd"
+                "reference": "f1e80070fef03196ffb001374e89a33779790378"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Frecipe_installer_kit/repository/archive.zip?sha=3e4f65225e0580a1f808fdc8403d9594a01faebd",
-                "reference": "3e4f65225e0580a1f808fdc8403d9594a01faebd",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Frecipe_installer_kit/repository/archive.zip?sha=f1e80070fef03196ffb001374e89a33779790378",
+                "reference": "f1e80070fef03196ffb001374e89a33779790378",
                 "shasum": ""
             },
             "require": {
@@ -6777,9 +6777,9 @@
                 "GPL-2.0-or-later"
             ],
             "support": {
-                "source": "https://git.drupalcode.org/project/recipe_installer_kit/-/tree/1.0.1"
+                "source": "https://git.drupalcode.org/project/recipe_installer_kit/-/tree/1.0.2"
             },
-            "time": "2025-12-25T20:46:27+00:00"
+            "time": "2026-01-23T13:00:09+00:00"
         },
         {
             "name": "drupal/redirect",
