@@ -5,7 +5,10 @@ maintenance-page:
       css/fonts.css: {}
       css/installer-styles.css: {}
       css/add-ons.css: {}
+  js:
+    js/language-switcher.js: {}
   dependencies:
+    - core/drupal
     - core/once
 
 drupal.progress:

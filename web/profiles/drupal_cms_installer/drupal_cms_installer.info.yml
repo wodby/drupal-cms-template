@@ -7,29 +7,21 @@ description: 'Provides install-time tweaks for Drupal CMS. Not to be used in pro
 distribution:
   name: Drupal CMS
   install:
-    finish_url: '/admin/dashboard/welcome'
     theme: drupal_cms_installer_theme
 
 forms:
-  - '\Drupal\RecipeKit\Installer\Form\RecipesForm'
-  - '\Drupal\RecipeKit\Installer\Form\SiteNameForm'
+  - 'Drupal\RecipeKit\Installer\Form\SiteNameForm'
+  - 'Drupal\RecipeKit\Installer\Form\SiteTemplateForm'
 
 recipes:
   required:
+    # Ensure the administrator role exists regardless of which site template
+    # is chosen.
+    - drupal/core:administrator_role
+
+  # The recipes to apply if the user doesn't choose a site template.
+  default:
     - drupal/drupal_cms_starter
-  optional:
-    'Blog':
-      - drupal/drupal_cms_blog
-    'Case Studies':
-      - drupal/drupal_cms_case_study
-    'Events':
-      - drupal/drupal_cms_events
-    'News':
-      - drupal/drupal_cms_news
-    'Person Profiles':
-      - drupal/drupal_cms_person
-    'Projects':
-      - drupal/drupal_cms_project
 
 # Explicitly provide an empty list of themes -- this prevents the installer from
 # injecting Stark into it.
