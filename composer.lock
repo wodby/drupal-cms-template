@@ -2667,17 +2667,17 @@
         },
         {
             "name": "drupal/captcha",
-            "version": "2.0.9",
+            "version": "2.0.10",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/captcha.git",
-                "reference": "2.0.9"
+                "reference": "2.0.10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/captcha-2.0.9.zip",
-                "reference": "2.0.9",
-                "shasum": "15b2ba18fab75ea88bfa8f75fb1be09f7cd52cbb"
+                "url": "https://ftp.drupal.org/files/projects/captcha-2.0.10.zip",
+                "reference": "2.0.10",
+                "shasum": "f1052ffe99ec2f8246f7da75e467b281fc2d804a"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -2685,8 +2685,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.9",
-                    "datestamp": "1753701287",
+                    "version": "2.0.10",
+                    "datestamp": "1770647534",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4178,17 +4178,17 @@
         },
         {
             "name": "drupal/drupical",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupical.git",
-                "reference": "1.0.1"
+                "reference": "1.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupical-1.0.1.zip",
-                "reference": "1.0.1",
-                "shasum": "db8ecbb0c6f6ffc7a13c544173db237ef4eb0f90"
+                "url": "https://ftp.drupal.org/files/projects/drupical-1.0.2.zip",
+                "reference": "1.0.2",
+                "shasum": "4f66ce1716c554ee8568ada25de9400619c32944"
             },
             "require": {
                 "drupal/core": "^10 || ^11"
@@ -4196,8 +4196,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.0.1",
-                    "datestamp": "1767948903",
+                    "version": "1.0.2",
+                    "datestamp": "1770633727",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
