@@ -2450,17 +2450,17 @@
         },
         {
             "name": "drupal/byte_theme",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/byte_theme.git",
-                "reference": "1.0.0"
+                "reference": "1.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/byte_theme-1.0.0.zip",
-                "reference": "1.0.0",
-                "shasum": "fbb19705783a00f71a678428dbf963b034744a3e"
+                "url": "https://ftp.drupal.org/files/projects/byte_theme-1.0.1.zip",
+                "reference": "1.0.1",
+                "shasum": "58c4eaa0569badfa20fc553453f897ff9612c25f"
             },
             "require": {
                 "drupal/canvas": "*",
@@ -2476,8 +2476,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.0.0",
-                    "datestamp": "1769530216",
+                    "version": "1.0.1",
+                    "datestamp": "1771382813",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6001,17 +6001,17 @@
         },
         {
             "name": "drupal/mercury",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/mercury.git",
-                "reference": "1.0.0"
+                "reference": "1.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/mercury-1.0.0.zip",
-                "reference": "1.0.0",
-                "shasum": "2b2a5226e25f75fefd0039a73e35ca81d37455de"
+                "url": "https://ftp.drupal.org/files/projects/mercury-1.0.1.zip",
+                "reference": "1.0.1",
+                "shasum": "e8bb92d3601527a99c8c0a1fd6dd842479bc58f5"
             },
             "require": {
                 "drupal/core": "^11.3",
@@ -6026,8 +6026,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.0.0",
-                    "datestamp": "1769531046",
+                    "version": "1.0.1",
+                    "datestamp": "1771382468",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
