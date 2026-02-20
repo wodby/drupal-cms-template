@@ -103,10 +103,14 @@ function drupal_cms_installer_theme_preprocess_form_element(array &$variables, s
   // If the site template has a screenshot, embed it as a base64-encoded data
   // URI. We can't generate a URL to it because recipes are normally stored
   // outside of the web root.
-  $screenshot = $path . '/screenshot.webp';
-  if (file_exists($screenshot)) {
+  $data_uri = 'data:image/webp;base64,';
+  $screenshot = $variables['element']['screenshot'] ?? $path . '/screenshot.webp';
+  if (str_starts_with($screenshot, $data_uri)) {
+    $variables['screenshot'] = $screenshot;
+  }
+  elseif (file_exists($screenshot)) {
     $screenshot = file_get_contents($screenshot);
-    $variables['screenshot'] = sprintf('data:image/webp;base64,%s', base64_encode($screenshot));
+    $variables['screenshot'] = $data_uri . base64_encode($screenshot);
   }
 
   $package_info = $path . '/composer.json';

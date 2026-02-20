@@ -85,10 +85,15 @@ body.install-page {
 
 .cms-installer__main {
   inline-size: 100%;
-  max-inline-size: 780px;
+  max-inline-size: 1200px;
   min-block-size: 500px;
   position: relative;
   padding-top: 3rem;
+
+  p {
+    max-inline-size: 720px;
+    hyphens: none;
+  }
 }
 
 .cms-installer__heading {
