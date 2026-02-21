@@ -4160,12 +4160,12 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_site_template_base.git",
-                "reference": "3ef03bba672f1bbf025ba25cfca27f6fd5b3d76e"
+                "reference": "0b71903c758c4d1afcf4becab2e1255e968188cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=3ef03bba672f1bbf025ba25cfca27f6fd5b3d76e",
-                "reference": "3ef03bba672f1bbf025ba25cfca27f6fd5b3d76e",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=0b71903c758c4d1afcf4becab2e1255e968188cc",
+                "reference": "0b71903c758c4d1afcf4becab2e1255e968188cc",
                 "shasum": ""
             },
             "require": {
@@ -4207,7 +4207,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/1.x"
             },
-            "time": "2026-02-19T13:30:02+00:00"
+            "time": "2026-02-20T12:28:10+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
