@@ -1878,6 +1878,14 @@
                     "role": "Maintainer"
                 },
                 {
+                    "name": "anybody",
+                    "homepage": "https://www.drupal.org/user/291091"
+                },
+                {
+                    "name": "grevil",
+                    "homepage": "https://www.drupal.org/user/3668491"
+                },
+                {
                     "name": "jurriaanroelofs",
                     "homepage": "https://www.drupal.org/user/52638"
                 },
@@ -4160,12 +4168,12 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_site_template_base.git",
-                "reference": "0b71903c758c4d1afcf4becab2e1255e968188cc"
+                "reference": "eab3a1a98e9f18baf260764d4bbb6d8951eebb15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=0b71903c758c4d1afcf4becab2e1255e968188cc",
-                "reference": "0b71903c758c4d1afcf4becab2e1255e968188cc",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=eab3a1a98e9f18baf260764d4bbb6d8951eebb15",
+                "reference": "eab3a1a98e9f18baf260764d4bbb6d8951eebb15",
                 "shasum": ""
             },
             "require": {
@@ -4207,7 +4215,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/1.x"
             },
-            "time": "2026-02-20T12:28:10+00:00"
+            "time": "2026-02-24T09:23:33+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
