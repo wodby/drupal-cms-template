@@ -3715,16 +3715,16 @@
         },
         {
             "name": "drupal/drupal_cms_ai",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_ai.git",
-                "reference": "bd03859fdfdd01ac48bd55f9b4c1f94ca215938b"
+                "reference": "d5ebc70d84884610d03981af122e00c669b58816"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_ai/repository/archive.zip?sha=bd03859fdfdd01ac48bd55f9b4c1f94ca215938b",
-                "reference": "bd03859fdfdd01ac48bd55f9b4c1f94ca215938b",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_ai/repository/archive.zip?sha=d5ebc70d84884610d03981af122e00c669b58816",
+                "reference": "d5ebc70d84884610d03981af122e00c669b58816",
                 "shasum": ""
             },
             "require": {
@@ -3732,10 +3732,10 @@
                 "drupal/ai_agents": "^1.2",
                 "drupal/ai_dashboard": "^1",
                 "drupal/ai_image_alt_text": "^1",
-                "drupal/ai_provider_amazeeio": "^1.2.6",
+                "drupal/ai_provider_amazeeio": "^1.2.7",
                 "drupal/ai_provider_anthropic": "^1.1",
                 "drupal/ai_provider_openai": "^1.1",
-                "drupal/canvas": "^1",
+                "drupal/canvas": "^1.1",
                 "drupal/core": "^11.3",
                 "drupal/drupal_cms_privacy_basic": "^2",
                 "league/commonmark": "^2.4"
@@ -3750,9 +3750,9 @@
             ],
             "description": "Adds integration with AI services, such as alt text generation and a chat bot to assist with site building. Requires an API key from Open AI or Anthropic.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_ai/-/tree/2.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_ai/-/tree/2.0.1"
             },
-            "time": "2026-01-27T12:25:21+00:00"
+            "time": "2026-02-19T12:54:17+00:00"
         },
         {
             "name": "drupal/drupal_cms_anti_spam",
@@ -3823,23 +3823,24 @@
         },
         {
             "name": "drupal/drupal_cms_content_type_base",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_content_type_base.git",
-                "reference": "46d236392db5b684841fcc04ca685263c58d9ad2"
+                "reference": "7b299638a3b3cb186269415b9b3709fe86808044"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_content_type_base/repository/archive.zip?sha=46d236392db5b684841fcc04ca685263c58d9ad2",
-                "reference": "46d236392db5b684841fcc04ca685263c58d9ad2",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_content_type_base/repository/archive.zip?sha=7b299638a3b3cb186269415b9b3709fe86808044",
+                "reference": "7b299638a3b3cb186269415b9b3709fe86808044",
                 "shasum": ""
             },
             "require": {
                 "drupal/autosave_form": "^1.10",
                 "drupal/bpmn_io": "^3",
-                "drupal/canvas": "^1",
+                "drupal/canvas": "^1.1",
                 "drupal/core": "^11.3",
+                "drupal/drupal_cms_helper": "^2",
                 "drupal/eca": "^3.0.8",
                 "drupal/linkit": "^7",
                 "drupal/modeler_api": "^1",
@@ -3857,9 +3858,9 @@
             ],
             "description": "Provides basic tools for creating content.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_content_type_base/-/tree/2.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_content_type_base/-/tree/2.0.1"
             },
-            "time": "2026-01-27T12:25:21+00:00"
+            "time": "2026-02-19T12:54:17+00:00"
         },
         {
             "name": "drupal/drupal_cms_forms",
@@ -4047,21 +4048,20 @@
         },
         {
             "name": "drupal/drupal_cms_search",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_search.git",
-                "reference": "21840b04ffe05e4951fd757ff2cb746bcf0c7d8b"
+                "reference": "c4c48fbb6a197496b3875069ce3e90b92b1639ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_search/repository/archive.zip?sha=21840b04ffe05e4951fd757ff2cb746bcf0c7d8b",
-                "reference": "21840b04ffe05e4951fd757ff2cb746bcf0c7d8b",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_search/repository/archive.zip?sha=c4c48fbb6a197496b3875069ce3e90b92b1639ca",
+                "reference": "c4c48fbb6a197496b3875069ce3e90b92b1639ca",
                 "shasum": ""
             },
             "require": {
-                "drupal/canvas": "^1",
-                "drupal/drupal_cms_helper": "^2",
+                "drupal/canvas": "^1.1",
                 "drupal/eca": "^3.0.8",
                 "drupal/search_api": "^1.39",
                 "drupal/search_api_exclude": "^2"
@@ -4073,9 +4073,9 @@
             ],
             "description": "Adds a search to help visitors find content.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_search/-/tree/2.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_search/-/tree/2.0.1"
             },
-            "time": "2026-01-27T12:25:21+00:00"
+            "time": "2026-02-19T12:54:17+00:00"
         },
         {
             "name": "drupal/drupal_cms_seo_basic",
@@ -4171,12 +4171,12 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_site_template_base.git",
-                "reference": "eab3a1a98e9f18baf260764d4bbb6d8951eebb15"
+                "reference": "c1893fc537f26935f4d1b05f8011dab0e24527ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=eab3a1a98e9f18baf260764d4bbb6d8951eebb15",
-                "reference": "eab3a1a98e9f18baf260764d4bbb6d8951eebb15",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=c1893fc537f26935f4d1b05f8011dab0e24527ed",
+                "reference": "c1893fc537f26935f4d1b05f8011dab0e24527ed",
                 "shasum": ""
             },
             "require": {
@@ -4218,7 +4218,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/1.x"
             },
-            "time": "2026-02-24T09:23:33+00:00"
+            "time": "2026-02-27T16:03:19+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
