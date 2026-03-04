@@ -273,3 +273,11 @@ select.cms-installer__language-switcher {
     margin: auto;
   }
 }
+
+/**
+ * In the installer, there is no navigation or content to skip over, so the
+ * "skip to main content" link serves no purpose.
+ */
+.skip-link {
+  display: none;
+}

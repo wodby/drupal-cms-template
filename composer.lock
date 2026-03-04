@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4259ddc2e6f14e6fb6805be9142d815a",
+    "content-hash": "e06f9c413fe4ddf0b9a08824742c1777",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3928,17 +3928,17 @@
         },
         {
             "name": "drupal/drupal_cms_helper",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_helper.git",
-                "reference": "2.0.1"
+                "reference": "2.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-2.0.1.zip",
-                "reference": "2.0.1",
-                "shasum": "fc5e61e90303352e6371e4498fff225f7b6d289b"
+                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-2.0.2.zip",
+                "reference": "2.0.2",
+                "shasum": "b1e1466ea21aa94afa303a9d5591e6a0ae224346"
             },
             "require": {
                 "drupal/core": "^11.3"
@@ -3946,8 +3946,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.1",
-                    "datestamp": "1771524634",
+                    "version": "2.0.2",
+                    "datestamp": "1772557697",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4171,12 +4171,12 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_site_template_base.git",
-                "reference": "8d886c3c5b1c2bec044297166c94f089f5cd2553"
+                "reference": "1cfdf0913c0a72f11e4af4fd11b3ec0b4351f3e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=8d886c3c5b1c2bec044297166c94f089f5cd2553",
-                "reference": "8d886c3c5b1c2bec044297166c94f089f5cd2553",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=1cfdf0913c0a72f11e4af4fd11b3ec0b4351f3e5",
+                "reference": "1cfdf0913c0a72f11e4af4fd11b3ec0b4351f3e5",
                 "shasum": ""
             },
             "require": {
@@ -4218,20 +4218,20 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/1.x"
             },
-            "time": "2026-03-01T11:57:42+00:00"
+            "time": "2026-03-03T21:31:21+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_starter.git",
-                "reference": "66a98e6756b3e961bea046b1bd4d5d74dfae2c19"
+                "reference": "9832b9d713f2cb8ee173b73313061bcae978ec6c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=66a98e6756b3e961bea046b1bd4d5d74dfae2c19",
-                "reference": "66a98e6756b3e961bea046b1bd4d5d74dfae2c19",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=9832b9d713f2cb8ee173b73313061bcae978ec6c",
+                "reference": "9832b9d713f2cb8ee173b73313061bcae978ec6c",
                 "shasum": ""
             },
             "require": {
@@ -4254,9 +4254,9 @@
             ],
             "description": "A basic site template to get started with Drupal CMS. Bring your own design, and build what you need.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/2.0.1"
+                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/2.0.2"
             },
-            "time": "2026-02-19T12:54:17+00:00"
+            "time": "2026-03-03T11:42:20+00:00"
         },
         {
             "name": "drupal/drupical",
@@ -9794,6 +9794,7 @@
                 "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Console_Getopt",
                 "source": "https://github.com/pear/Console_Getopt"
             },
+            "abandoned": true,
             "time": "2019-11-20T18:27:48+00:00"
         },
         {
