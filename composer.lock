@@ -3977,16 +3977,16 @@
         },
         {
             "name": "drupal/drupal_cms_media",
-            "version": "2.0.0",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_media.git",
-                "reference": "bce9d0d0d0a48044cfb209a47999ccf2727954b2"
+                "reference": "3e46f1d592a9f7817265cd69a9f4d6ae69af8a70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_media/repository/archive.zip?sha=bce9d0d0d0a48044cfb209a47999ccf2727954b2",
-                "reference": "bce9d0d0d0a48044cfb209a47999ccf2727954b2",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_media/repository/archive.zip?sha=3e46f1d592a9f7817265cd69a9f4d6ae69af8a70",
+                "reference": "3e46f1d592a9f7817265cd69a9f4d6ae69af8a70",
                 "shasum": ""
             },
             "require": {
@@ -4009,9 +4009,9 @@
             ],
             "description": "Sets up basic media types configuration including responsive image styles, view modes, focal point-based cropping and SVG images, video support, and file uploads.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_media/-/tree/2.0.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_media/-/tree/2.0.2"
             },
-            "time": "2026-01-27T12:25:21+00:00"
+            "time": "2026-03-03T11:42:20+00:00"
         },
         {
             "name": "drupal/drupal_cms_privacy_basic",
