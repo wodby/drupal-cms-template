@@ -4175,12 +4175,12 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_site_template_base.git",
-                "reference": "e94d8ea7413c0c041a907ec65dafda20dcab77fe"
+                "reference": "04f33c437ceb2c23b547f2716b2ac3a110c7ebec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=e94d8ea7413c0c041a907ec65dafda20dcab77fe",
-                "reference": "e94d8ea7413c0c041a907ec65dafda20dcab77fe",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=04f33c437ceb2c23b547f2716b2ac3a110c7ebec",
+                "reference": "04f33c437ceb2c23b547f2716b2ac3a110c7ebec",
                 "shasum": ""
             },
             "require": {
@@ -4222,7 +4222,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/1.x"
             },
-            "time": "2026-03-06T11:52:00+00:00"
+            "time": "2026-03-10T03:36:32+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
@@ -4697,17 +4697,17 @@
         },
         {
             "name": "drupal/eca",
-            "version": "3.0.10",
+            "version": "3.0.11",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/eca.git",
-                "reference": "3.0.10"
+                "reference": "3.0.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/eca-3.0.10.zip",
-                "reference": "3.0.10",
-                "shasum": "1f4129b68c317c3f4a9f36c891694c404885bfb9"
+                "url": "https://ftp.drupal.org/files/projects/eca-3.0.11.zip",
+                "reference": "3.0.11",
+                "shasum": "88eec94b1ebe2074bbf3b6da8a612c151b48d26e"
             },
             "require": {
                 "dragonmantank/cron-expression": "^3.1",
@@ -4733,8 +4733,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.0.10",
-                    "datestamp": "1768560278",
+                    "version": "3.0.11",
+                    "datestamp": "1773134456",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6225,17 +6225,17 @@
         },
         {
             "name": "drupal/modeler_api",
-            "version": "1.0.6",
+            "version": "1.0.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/modeler_api.git",
-                "reference": "1.0.6"
+                "reference": "1.0.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/modeler_api-1.0.6.zip",
-                "reference": "1.0.6",
-                "shasum": "7f105303e9149363d4b2649848b4d9b5ad755e25"
+                "url": "https://ftp.drupal.org/files/projects/modeler_api-1.0.7.zip",
+                "reference": "1.0.7",
+                "shasum": "5ea28a231cd66c9737eb7fd9d02e94a152f97213"
             },
             "require": {
                 "drupal/core": "^10.4 || ^11"
@@ -6243,8 +6243,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.0.6",
-                    "datestamp": "1764747432",
+                    "version": "1.0.7",
+                    "datestamp": "1773132747",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -8484,16 +8484,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "2.8.0",
+            "version": "2.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "21dc724a0583619cd1652f673303492272778051"
+                "reference": "718f1ee6a878be5290af3557aeda0c91278361d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/21dc724a0583619cd1652f673303492272778051",
-                "reference": "21dc724a0583619cd1652f673303492272778051",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/718f1ee6a878be5290af3557aeda0c91278361d9",
+                "reference": "718f1ee6a878be5290af3557aeda0c91278361d9",
                 "shasum": ""
             },
             "require": {
@@ -8580,7 +8580,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/2.8.0"
+                "source": "https://github.com/guzzle/psr7/tree/2.8.1"
             },
             "funding": [
                 {
@@ -8596,7 +8596,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-08-23T21:21:41+00:00"
+            "time": "2026-03-10T09:55:26+00:00"
         },
         {
             "name": "html2text/html2text",
@@ -8713,16 +8713,16 @@
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.3.13",
+            "version": "v0.3.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "ed8c466571b37e977532fb2fd3c272c784d7050d"
+                "reference": "9f0e371244eedfe2ebeaa72c79c54bb5df6e0176"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/ed8c466571b37e977532fb2fd3c272c784d7050d",
-                "reference": "ed8c466571b37e977532fb2fd3c272c784d7050d",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/9f0e371244eedfe2ebeaa72c79c54bb5df6e0176",
+                "reference": "9f0e371244eedfe2ebeaa72c79c54bb5df6e0176",
                 "shasum": ""
             },
             "require": {
@@ -8766,9 +8766,9 @@
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.3.13"
+                "source": "https://github.com/laravel/prompts/tree/v0.3.14"
             },
-            "time": "2026-02-06T12:17:10+00:00"
+            "time": "2026-03-01T09:02:38+00:00"
         },
         {
             "name": "league/commonmark",
