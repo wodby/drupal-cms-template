@@ -32,6 +32,10 @@
   img {
     border-radius: var(--gin-border-l);
     border: 1px solid #D8DADE;
+    width: 100%;
+    aspect-ratio: 5 / 4;
+    object-fit: cover;
+    object-position: top;
   }
 }
 

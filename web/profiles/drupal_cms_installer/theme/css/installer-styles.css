@@ -49,15 +49,6 @@ body.install-page {
   @media (min-width: 78em) {
     padding-inline: 66px;
   }
-
-  @media (min-width: 78em) and (min-height: 870px) {
-    display: grid;
-    grid-template-areas: "stack";
-
-    & > * {
-      grid-area: stack;
-    }
-  }
 }
 
 .cms-installer__header {
