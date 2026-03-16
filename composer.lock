@@ -7139,16 +7139,16 @@
         },
         {
             "name": "drupal/site_template_helper",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/site_template_helper.git",
-                "reference": "57c2e405670bfc80217ec99b87878c527e4b568d"
+                "reference": "42ea542fe084a4c96bb88620b1138309622514b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fsite_template_helper/repository/archive.zip?sha=57c2e405670bfc80217ec99b87878c527e4b568d",
-                "reference": "57c2e405670bfc80217ec99b87878c527e4b568d",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fsite_template_helper/repository/archive.zip?sha=42ea542fe084a4c96bb88620b1138309622514b5",
+                "reference": "42ea542fe084a4c96bb88620b1138309622514b5",
                 "shasum": ""
             },
             "require": {
@@ -7171,9 +7171,9 @@
             ],
             "description": "Provides tooling and scaffolding for setting up Drupal site templates.",
             "support": {
-                "source": "https://git.drupalcode.org/project/site_template_helper/-/tree/1.0.1"
+                "source": "https://git.drupalcode.org/project/site_template_helper/-/tree/1.0.2"
             },
-            "time": "2026-02-14T08:48:40+00:00"
+            "time": "2026-03-15T12:28:24+00:00"
         },
         {
             "name": "drupal/svg_image",
@@ -9276,16 +9276,16 @@
         },
         {
             "name": "mck89/peast",
-            "version": "v1.17.4",
+            "version": "v1.17.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mck89/peast.git",
-                "reference": "c6a63f32410d2e4ee2cd20fe94b35af147fb852d"
+                "reference": "e19a8bd896b7f04941a38fd38a140c9a6531c84f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mck89/peast/zipball/c6a63f32410d2e4ee2cd20fe94b35af147fb852d",
-                "reference": "c6a63f32410d2e4ee2cd20fe94b35af147fb852d",
+                "url": "https://api.github.com/repos/mck89/peast/zipball/e19a8bd896b7f04941a38fd38a140c9a6531c84f",
+                "reference": "e19a8bd896b7f04941a38fd38a140c9a6531c84f",
                 "shasum": ""
             },
             "require": {
@@ -9298,7 +9298,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.17.4-dev"
+                    "dev-master": "1.17.5-dev"
                 }
             },
             "autoload": {
@@ -9319,9 +9319,9 @@
             "description": "Peast is PHP library that generates AST for JavaScript code",
             "support": {
                 "issues": "https://github.com/mck89/peast/issues",
-                "source": "https://github.com/mck89/peast/tree/v1.17.4"
+                "source": "https://github.com/mck89/peast/tree/v1.17.5"
             },
-            "time": "2025-10-10T12:53:17+00:00"
+            "time": "2026-03-15T10:47:07+00:00"
         },
         {
             "name": "mtownsend/xml-to-array",
