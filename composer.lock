@@ -1757,6 +1757,10 @@
                     "homepage": "https://www.drupal.org/user/655282"
                 },
                 {
+                    "name": "harivansh",
+                    "homepage": "https://www.drupal.org/user/3678656"
+                },
+                {
                     "name": "jurgenhaas",
                     "homepage": "https://www.drupal.org/user/168924"
                 },
@@ -8717,16 +8721,16 @@
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.3.14",
+            "version": "v0.3.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "9f0e371244eedfe2ebeaa72c79c54bb5df6e0176"
+                "reference": "4bb8107ec97651fd3f17f897d6489dbc4d8fb999"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/9f0e371244eedfe2ebeaa72c79c54bb5df6e0176",
-                "reference": "9f0e371244eedfe2ebeaa72c79c54bb5df6e0176",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/4bb8107ec97651fd3f17f897d6489dbc4d8fb999",
+                "reference": "4bb8107ec97651fd3f17f897d6489dbc4d8fb999",
                 "shasum": ""
             },
             "require": {
@@ -8770,9 +8774,9 @@
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.3.14"
+                "source": "https://github.com/laravel/prompts/tree/v0.3.15"
             },
-            "time": "2026-03-01T09:02:38+00:00"
+            "time": "2026-03-17T13:45:17+00:00"
         },
         {
             "name": "league/commonmark",
@@ -9594,16 +9598,16 @@
         },
         {
             "name": "openai-php/client",
-            "version": "v0.19.0",
+            "version": "v0.19.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/openai-php/client.git",
-                "reference": "c52f871fba345c6cbd8a3945c4d167e2e21266fd"
+                "reference": "f2b1ce48b1c011ebc2abb255db5abf82ef4a6a44"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/openai-php/client/zipball/c52f871fba345c6cbd8a3945c4d167e2e21266fd",
-                "reference": "c52f871fba345c6cbd8a3945c4d167e2e21266fd",
+                "url": "https://api.github.com/repos/openai-php/client/zipball/f2b1ce48b1c011ebc2abb255db5abf82ef4a6a44",
+                "reference": "f2b1ce48b1c011ebc2abb255db5abf82ef4a6a44",
                 "shasum": ""
             },
             "require": {
@@ -9665,7 +9669,7 @@
             ],
             "support": {
                 "issues": "https://github.com/openai-php/client/issues",
-                "source": "https://github.com/openai-php/client/tree/v0.19.0"
+                "source": "https://github.com/openai-php/client/tree/v0.19.1"
             },
             "funding": [
                 {
@@ -9681,7 +9685,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-02-10T11:15:52+00:00"
+            "time": "2026-03-17T20:53:51+00:00"
         },
         {
             "name": "pear/archive_tar",
@@ -14167,16 +14171,16 @@
         },
         {
             "name": "twig/html-extra",
-            "version": "v3.23.0",
+            "version": "v3.24.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/html-extra.git",
-                "reference": "2ef1d0ccaa06d4f4405b330fe6c4b6f7b50fbbc3"
+                "reference": "313900fb98b371b006a55b1a29241a192634be13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/html-extra/zipball/2ef1d0ccaa06d4f4405b330fe6c4b6f7b50fbbc3",
-                "reference": "2ef1d0ccaa06d4f4405b330fe6c4b6f7b50fbbc3",
+                "url": "https://api.github.com/repos/twigphp/html-extra/zipball/313900fb98b371b006a55b1a29241a192634be13",
+                "reference": "313900fb98b371b006a55b1a29241a192634be13",
                 "shasum": ""
             },
             "require": {
@@ -14219,7 +14223,7 @@
                 "twig"
             ],
             "support": {
-                "source": "https://github.com/twigphp/html-extra/tree/v3.23.0"
+                "source": "https://github.com/twigphp/html-extra/tree/v3.24.0"
             },
             "funding": [
                 {
@@ -14231,7 +14235,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-12-02T14:45:16+00:00"
+            "time": "2026-03-17T07:24:08+00:00"
         },
         {
             "name": "twig/twig",
