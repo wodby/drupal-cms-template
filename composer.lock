@@ -1573,17 +1573,17 @@
         },
         {
             "name": "drupal/ai",
-            "version": "1.3.0",
+            "version": "1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai.git",
-                "reference": "1.3.0"
+                "reference": "1.3.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai-1.3.0.zip",
-                "reference": "1.3.0",
-                "shasum": "0585d2d799305c3275b0966f8b41959fd7fa45ab"
+                "url": "https://ftp.drupal.org/files/projects/ai-1.3.1.zip",
+                "reference": "1.3.1",
+                "shasum": "a091d050e5d839678d2ffdeab7df7e53634ea051"
             },
             "require": {
                 "drupal/core": "^10.5 || ^11.2",
@@ -1613,8 +1613,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.3.0",
-                    "datestamp": "1773325312",
+                    "version": "1.3.1",
+                    "datestamp": "1773841083",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4183,12 +4183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_site_template_base.git",
-                "reference": "d06e06255ee843b7c99c2f527f91e23368eedb01"
+                "reference": "ed1a9b1d73eb279fa1a83eebdc235af462268539"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=d06e06255ee843b7c99c2f527f91e23368eedb01",
-                "reference": "d06e06255ee843b7c99c2f527f91e23368eedb01",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=ed1a9b1d73eb279fa1a83eebdc235af462268539",
+                "reference": "ed1a9b1d73eb279fa1a83eebdc235af462268539",
                 "shasum": ""
             },
             "require": {
@@ -4205,6 +4205,11 @@
             "default-branch": true,
             "type": "drupal-recipe",
             "extra": {
+                "drupal-scaffold": {
+                    "file-mapping": {
+                        "[project-root]/AGENTS.md": "AGENTS.md"
+                    }
+                },
                 "drupal-site-template": {
                     "_comment": [
                         "This section contains configuration used by drupal/site_template_helper to assist developers in creating site templates.",
@@ -4230,7 +4235,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/1.x"
             },
-            "time": "2026-03-12T14:34:43+00:00"
+            "time": "2026-03-18T22:24:12+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
