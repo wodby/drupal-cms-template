@@ -2006,17 +2006,17 @@
         },
         {
             "name": "drupal/ai_provider_anthropic",
-            "version": "1.2.1",
+            "version": "1.2.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai_provider_anthropic.git",
-                "reference": "1.2.1"
+                "reference": "1.2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai_provider_anthropic-1.2.1.zip",
-                "reference": "1.2.1",
-                "shasum": "dc5db87c027a18fb590436582413c59f5053af88"
+                "url": "https://ftp.drupal.org/files/projects/ai_provider_anthropic-1.2.2.zip",
+                "reference": "1.2.2",
+                "shasum": "603e94933ae13884298525eeec744e4cf8b29f58"
             },
             "require": {
                 "drupal/ai": "^1.2.0",
@@ -2026,8 +2026,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.2.1",
-                    "datestamp": "1765964810",
+                    "version": "1.2.2",
+                    "datestamp": "1773928939",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2420,16 +2420,16 @@
         },
         {
             "name": "drupal/byte",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/byte.git",
-                "reference": "163f34e8f5143aad096b7c4e709c08ad3b40eb1f"
+                "reference": "3ab0eb8158810be56dc91e28c1c302488fa84f59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fbyte/repository/archive.zip?sha=163f34e8f5143aad096b7c4e709c08ad3b40eb1f",
-                "reference": "163f34e8f5143aad096b7c4e709c08ad3b40eb1f",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fbyte/repository/archive.zip?sha=3ab0eb8158810be56dc91e28c1c302488fa84f59",
+                "reference": "3ab0eb8158810be56dc91e28c1c302488fa84f59",
                 "shasum": ""
             },
             "require": {
@@ -2460,23 +2460,23 @@
             ],
             "description": "Designed for a SaaS product website, this template includes landing pages, a blog, newsletter sign up and other features.",
             "support": {
-                "source": "https://git.drupalcode.org/project/byte/-/tree/1.0.1"
+                "source": "https://git.drupalcode.org/project/byte/-/tree/1.0.2"
             },
-            "time": "2026-03-12T10:51:11+00:00"
+            "time": "2026-03-19T11:33:46+00:00"
         },
         {
             "name": "drupal/byte_theme",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/byte_theme.git",
-                "reference": "1.0.1"
+                "reference": "1.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/byte_theme-1.0.1.zip",
-                "reference": "1.0.1",
-                "shasum": "58c4eaa0569badfa20fc553453f897ff9612c25f"
+                "url": "https://ftp.drupal.org/files/projects/byte_theme-1.0.2.zip",
+                "reference": "1.0.2",
+                "shasum": "d93d2f3e1670fed3da6fa484758c3ce4d0251d3c"
             },
             "require": {
                 "drupal/canvas": "*",
@@ -2492,8 +2492,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.0.1",
-                    "datestamp": "1771382813",
+                    "version": "1.0.2",
+                    "datestamp": "1773939323",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4183,12 +4183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_site_template_base.git",
-                "reference": "ed1a9b1d73eb279fa1a83eebdc235af462268539"
+                "reference": "ec781ffa4dd804e3e4c2cc10e8c8af7968c8eb14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=ed1a9b1d73eb279fa1a83eebdc235af462268539",
-                "reference": "ed1a9b1d73eb279fa1a83eebdc235af462268539",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=ec781ffa4dd804e3e4c2cc10e8c8af7968c8eb14",
+                "reference": "ec781ffa4dd804e3e4c2cc10e8c8af7968c8eb14",
                 "shasum": ""
             },
             "require": {
@@ -4235,7 +4235,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/1.x"
             },
-            "time": "2026-03-18T22:24:12+00:00"
+            "time": "2026-03-19T16:26:26+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
@@ -6084,17 +6084,17 @@
         },
         {
             "name": "drupal/mercury",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/mercury.git",
-                "reference": "1.0.2"
+                "reference": "1.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/mercury-1.0.2.zip",
-                "reference": "1.0.2",
-                "shasum": "caf0d4d2d6dd264fc0e06ea34f11c7e08fd80ccc"
+                "url": "https://ftp.drupal.org/files/projects/mercury-1.0.3.zip",
+                "reference": "1.0.3",
+                "shasum": "621a353cb78a9688702695c2f46b304fde037186"
             },
             "require": {
                 "drupal/core": "^11.3",
@@ -6109,8 +6109,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.0.2",
-                    "datestamp": "1773061896",
+                    "version": "1.0.3",
+                    "datestamp": "1773939393",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -8785,16 +8785,16 @@
         },
         {
             "name": "league/commonmark",
-            "version": "2.8.1",
+            "version": "2.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/commonmark.git",
-                "reference": "84b1ca48347efdbe775426f108622a42735a6579"
+                "reference": "59fb075d2101740c337c7216e3f32b36c204218b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/84b1ca48347efdbe775426f108622a42735a6579",
-                "reference": "84b1ca48347efdbe775426f108622a42735a6579",
+                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/59fb075d2101740c337c7216e3f32b36c204218b",
+                "reference": "59fb075d2101740c337c7216e3f32b36c204218b",
                 "shasum": ""
             },
             "require": {
@@ -8888,7 +8888,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-03-05T21:37:03+00:00"
+            "time": "2026-03-19T13:16:38+00:00"
         },
         {
             "name": "league/config",
