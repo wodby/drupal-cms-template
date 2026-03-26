@@ -3387,16 +3387,16 @@
         },
         {
             "name": "drupal/drupal_cms_google_analytics",
-            "version": "2.0.4",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_google_analytics.git",
-                "reference": "598782a08859a4cf48585ed66bae70129b576c72"
+                "reference": "fd5aaaf51dfbc8da82a245c271f5e1f82ac367ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=598782a08859a4cf48585ed66bae70129b576c72",
-                "reference": "598782a08859a4cf48585ed66bae70129b576c72",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=fd5aaaf51dfbc8da82a245c271f5e1f82ac367ad",
+                "reference": "fd5aaaf51dfbc8da82a245c271f5e1f82ac367ad",
                 "shasum": ""
             },
             "require": {
@@ -3414,9 +3414,9 @@
             ],
             "description": "Adds tracking of website traffic using Google Analytics and Google Tag Manager. Requires a Google Tag Manager ID.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/2.0.4"
+                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/2.1.0"
             },
-            "time": "2026-03-12T17:25:13+00:00"
+            "time": "2026-03-20T22:14:05+00:00"
         },
         {
             "name": "drupal/drupal_cms_helper",
@@ -3596,16 +3596,16 @@
         },
         {
             "name": "drupal/drupal_cms_seo_basic",
-            "version": "2.1.0",
+            "version": "2.0.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_seo_basic.git",
-                "reference": "d756b97c8eb07988bbc0706e9b277696c0883705"
+                "reference": "5b721fed6c8bd6091056a0409962f1d47fb3ea08"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_basic/repository/archive.zip?sha=d756b97c8eb07988bbc0706e9b277696c0883705",
-                "reference": "d756b97c8eb07988bbc0706e9b277696c0883705",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_basic/repository/archive.zip?sha=5b721fed6c8bd6091056a0409962f1d47fb3ea08",
+                "reference": "5b721fed6c8bd6091056a0409962f1d47fb3ea08",
                 "shasum": ""
             },
             "require": {
@@ -3627,9 +3627,9 @@
             ],
             "description": "Provides basic SEO best practices.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_seo_basic/-/tree/2.1.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_seo_basic/-/tree/2.0.4"
             },
-            "time": "2026-03-20T22:14:05+00:00"
+            "time": "2026-03-12T17:25:13+00:00"
         },
         {
             "name": "drupal/drupal_cms_seo_tools",
@@ -3688,12 +3688,12 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_site_template_base.git",
-                "reference": "ec781ffa4dd804e3e4c2cc10e8c8af7968c8eb14"
+                "reference": "07d2d799be3c11da034fccaaee9cd5408606f70d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=ec781ffa4dd804e3e4c2cc10e8c8af7968c8eb14",
-                "reference": "ec781ffa4dd804e3e4c2cc10e8c8af7968c8eb14",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=07d2d799be3c11da034fccaaee9cd5408606f70d",
+                "reference": "07d2d799be3c11da034fccaaee9cd5408606f70d",
                 "shasum": ""
             },
             "require": {
@@ -3740,7 +3740,7 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/1.x"
             },
-            "time": "2026-03-19T16:26:26+00:00"
+            "time": "2026-03-24T22:50:03+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
@@ -13991,16 +13991,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "13.7.1",
+            "version": "13.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "4049dd4332bfc47d19ce849cb50380bd0498e4cc"
+                "reference": "670c5f81b3f525b3f08263f038c7f07558f2580d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/4049dd4332bfc47d19ce849cb50380bd0498e4cc",
-                "reference": "4049dd4332bfc47d19ce849cb50380bd0498e4cc",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/670c5f81b3f525b3f08263f038c7f07558f2580d",
+                "reference": "670c5f81b3f525b3f08263f038c7f07558f2580d",
                 "shasum": ""
             },
             "require": {
@@ -14128,7 +14128,7 @@
                 "issues": "https://github.com/drush-ops/drush/issues",
                 "security": "https://github.com/drush-ops/drush/security/advisories",
                 "slack": "https://drupal.slack.com/messages/C62H9CWQM",
-                "source": "https://github.com/drush-ops/drush/tree/13.7.1"
+                "source": "https://github.com/drush-ops/drush/tree/13.7.2"
             },
             "funding": [
                 {
@@ -14136,7 +14136,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-01-28T22:21:17+00:00"
+            "time": "2026-03-20T19:18:11+00:00"
         },
         {
             "name": "grasmash/expander",
