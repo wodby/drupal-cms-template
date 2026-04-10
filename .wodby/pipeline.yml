@@ -11,19 +11,16 @@ jobs:
     - clone
 
     - cache_restore:
-        path: ~/.composer
-        key: 'composer-{{ hash "composer.lock" }}-v1'
+        path: .buildx-cache
+        key: 'buildx-{{ hash "composer.lock" }}-v1'
 
     - run: wget -qO- https://api.wodby.com/v1/get/cli | sh
     - run: wodby ci init $WODBY_BUILD_ID
-    - run: wodby ci run -v $HOME/.composer:/home/wodby/.composer -s php -- composer install -n --no-ansi
-    - run: wodby ci run -v $HOME/.composer:/home/wodby/.composer -s php -- composer require drush/drush
 
     - cache_save:
-        key: 'composer-{{ hash "composer.lock" }}-v1'
-        path: ~/.composer
+        key: 'buildx-{{ hash "composer.lock" }}-v1'
+        path: .buildx-cache
 
-    - run: wodby ci build php
-    - run: wodby ci build nginx --from web --to /var/www/html/web
+    - run: wodby ci build --cache-dir .buildx-cache
     - run: wodby ci release
     - run: wodby ci deploy
