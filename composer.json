@@ -1,6 +1,6 @@
 {
     "name": "drupal/cms",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "description": "Drupal CMS is a ready-to-use platform built on Drupal core, offering smart defaults to get started quickly and enterprise-grade tools for marketers, designers, and content creators.",
     "type": "project",
     "license": "GPL-2.0-or-later",
@@ -33,9 +33,7 @@
         "drupal/drupal_cms_site_template_base": "^1@dev",
         "drupal/drupal_cms_starter": "^2",
         "drupal/haven": "^1",
-        "drupal/webform": "@beta"
-    },
-    "require-dev": {
+        "drupal/webform": "@beta",
         "drush/drush": "^13.7"
     },
     "conflict": {
@@ -63,6 +61,9 @@
                 "web-root": "web/"
             },
             "file-mapping": {
+                "[web-root]/sites/default/default.settings.php": {
+                    "append": "assets/append-default.settings.php.txt"
+                },
                 "[web-root]/example.gitignore": false
             },
             "allowed-packages": [

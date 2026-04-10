@@ -1,0 +1,10 @@
+#
+# Appended to default.settings.php by Drupal CMS's scaffold plugin configuration.
+#
+$sync_directory = realpath('../config/sync');
+if (is_dir($sync_directory)) {
+  $settings['config_sync_directory'] ??= $sync_directory;
+}
+#
+# End of settings appended by Drupal CMS.
+#
