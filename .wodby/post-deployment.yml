@@ -4,7 +4,7 @@ env:
   FOO: bar
 
 jobs:
-  drush-status:
+  drush-cr:
     env:
       FOO: bar
     steps:
