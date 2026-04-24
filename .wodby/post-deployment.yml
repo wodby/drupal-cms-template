@@ -6,6 +6,6 @@ env:
 jobs:
   drush-status:
     env:
-      FOO: bar2
+      FOO: bar
     steps:
-    - run: drush status
+    - run: drush cr
