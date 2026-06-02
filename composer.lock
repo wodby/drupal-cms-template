@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d42168f6645248dba5a66ac3a90cc1eb",
+    "content-hash": "9f30f4d376197f24baf04c0263b13868",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3800,16 +3800,16 @@
         },
         {
             "name": "drupal/drupal_cms_starter",
-            "version": "2.1.2",
+            "version": "2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_starter.git",
-                "reference": "0de64d3db1c1a3e9e37a1e4836bb581c26a685be"
+                "reference": "a5356d2142f0b97cfc533a2e0a45aef8370aa4de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=0de64d3db1c1a3e9e37a1e4836bb581c26a685be",
-                "reference": "0de64d3db1c1a3e9e37a1e4836bb581c26a685be",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=a5356d2142f0b97cfc533a2e0a45aef8370aa4de",
+                "reference": "a5356d2142f0b97cfc533a2e0a45aef8370aa4de",
                 "shasum": ""
             },
             "require": {
@@ -3823,7 +3823,7 @@
                 "drupal/drupal_cms_search": "^2",
                 "drupal/drupal_cms_seo_basic": "^2",
                 "drupal/easy_email_express": "^1.0.2",
-                "drupal/mercury": "^1.0.4"
+                "drupal/mercury": "^1.0.5"
             },
             "type": "drupal-recipe",
             "notification-url": "https://packagist.org/downloads/",
@@ -3832,9 +3832,9 @@
             ],
             "description": "A basic site template to get started with Drupal CMS. Bring your own design, and build what you need.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/2.1.2"
+                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/2.1.3"
             },
-            "time": "2026-05-21T13:14:11+00:00"
+            "time": "2026-06-01T22:35:21+00:00"
         },
         {
             "name": "drupal/drupical",
@@ -5863,17 +5863,17 @@
         },
         {
             "name": "drupal/mercury",
-            "version": "1.0.4",
+            "version": "1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/mercury.git",
-                "reference": "1.0.4"
+                "reference": "1.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/mercury-1.0.4.zip",
-                "reference": "1.0.4",
-                "shasum": "a520536aae3d163f0bc09e3536111197a4c37cad"
+                "url": "https://ftp.drupal.org/files/projects/mercury-1.0.5.zip",
+                "reference": "1.0.5",
+                "shasum": "7fdf9671e2f74eccb4f4d806f279f4fa8f4153c5"
             },
             "require": {
                 "drupal/core": "^11.3",
@@ -5888,8 +5888,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.0.4",
-                    "datestamp": "1779381660",
+                    "version": "1.0.5",
+                    "datestamp": "1780368496",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7779,16 +7779,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.10.5",
+            "version": "7.10.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "7c8d84b39e680315f687e8662a9d6fb0865c5148"
+                "reference": "e7412b3180912c01650cc66647f18c1d1cbe9b94"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/7c8d84b39e680315f687e8662a9d6fb0865c5148",
-                "reference": "7c8d84b39e680315f687e8662a9d6fb0865c5148",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/e7412b3180912c01650cc66647f18c1d1cbe9b94",
+                "reference": "e7412b3180912c01650cc66647f18c1d1cbe9b94",
                 "shasum": ""
             },
             "require": {
@@ -7886,7 +7886,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.10.5"
+                "source": "https://github.com/guzzle/guzzle/tree/7.10.6"
             },
             "funding": [
                 {
@@ -7902,7 +7902,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-05-27T11:53:46+00:00"
+            "time": "2026-06-01T13:06:22+00:00"
         },
         {
             "name": "guzzlehttp/promises",
