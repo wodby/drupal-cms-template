@@ -1177,10 +1177,6 @@
                     "homepage": "https://www.drupal.org/user/626050"
                 },
                 {
-                    "name": "joshua1234511",
-                    "homepage": "https://www.drupal.org/user/3362218"
-                },
-                {
                     "name": "ahmad khader",
                     "homepage": "https://www.drupal.org/user/3727855"
                 }
@@ -3437,16 +3433,16 @@
         },
         {
             "name": "drupal/drupal_cms_google_analytics",
-            "version": "2.1.2",
+            "version": "2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_google_analytics.git",
-                "reference": "16609ff2c6b7355c946cf1138357cecdb558974d"
+                "reference": "866f11b4bbde2510c7e503051fbe0ccebc1bb1d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=16609ff2c6b7355c946cf1138357cecdb558974d",
-                "reference": "16609ff2c6b7355c946cf1138357cecdb558974d",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=866f11b4bbde2510c7e503051fbe0ccebc1bb1d3",
+                "reference": "866f11b4bbde2510c7e503051fbe0ccebc1bb1d3",
                 "shasum": ""
             },
             "require": {
@@ -3464,23 +3460,23 @@
             ],
             "description": "Adds tracking of website traffic using Google Analytics and Google Tag Manager. Requires a Google Tag Manager ID.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/2.1.2"
+                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/2.1.3"
             },
-            "time": "2026-05-21T13:14:11+00:00"
+            "time": "2026-06-01T22:35:21+00:00"
         },
         {
             "name": "drupal/drupal_cms_helper",
-            "version": "2.1.2",
+            "version": "2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_helper.git",
-                "reference": "2.1.2"
+                "reference": "2.1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-2.1.2.zip",
-                "reference": "2.1.2",
-                "shasum": "f08a3c9554e2652b2c9d853eec3eebb8ebdea8df"
+                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-2.1.3.zip",
+                "reference": "2.1.3",
+                "shasum": "25fc0d0955885b382977370e8a9d4eff452706eb"
             },
             "require": {
                 "drupal/core": "^11.3.10"
@@ -3488,8 +3484,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.1.2",
-                    "datestamp": "1779384661",
+                    "version": "2.1.3",
+                    "datestamp": "1780405883",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3519,16 +3515,16 @@
         },
         {
             "name": "drupal/drupal_cms_installer",
-            "version": "2.1.2",
+            "version": "2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_installer.git",
-                "reference": "9453883d133fcdd90a4d505a8b1cda0d11aaae14"
+                "reference": "f32d98f94ab20833892766a1148ba57964590b0f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_installer/repository/archive.zip?sha=9453883d133fcdd90a4d505a8b1cda0d11aaae14",
-                "reference": "9453883d133fcdd90a4d505a8b1cda0d11aaae14",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_installer/repository/archive.zip?sha=f32d98f94ab20833892766a1148ba57964590b0f",
+                "reference": "f32d98f94ab20833892766a1148ba57964590b0f",
                 "shasum": ""
             },
             "type": "drupal-profile",
@@ -3538,22 +3534,22 @@
             ],
             "description": "Provides install-time tweaks for Drupal CMS. Not to be used in production.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_installer/-/tree/2.1.2"
+                "source": "https://git.drupalcode.org/project/drupal_cms_installer/-/tree/2.1.3"
             },
-            "time": "2026-05-21T13:14:11+00:00"
+            "time": "2026-06-01T22:35:21+00:00"
         },
         {
             "name": "drupal/drupal_cms_media",
-            "version": "2.1.2",
+            "version": "2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_media.git",
-                "reference": "a77ad6b1c5f08d571adc7bbf5734bf379db369c5"
+                "reference": "3830588e14b982634c482f31bac93f338329710e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_media/repository/archive.zip?sha=a77ad6b1c5f08d571adc7bbf5734bf379db369c5",
-                "reference": "a77ad6b1c5f08d571adc7bbf5734bf379db369c5",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_media/repository/archive.zip?sha=3830588e14b982634c482f31bac93f338329710e",
+                "reference": "3830588e14b982634c482f31bac93f338329710e",
                 "shasum": ""
             },
             "require": {
@@ -3576,22 +3572,22 @@
             ],
             "description": "Sets up basic media types configuration including responsive image styles, view modes, focal point-based cropping and SVG images, video support, and file uploads.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_media/-/tree/2.1.2"
+                "source": "https://git.drupalcode.org/project/drupal_cms_media/-/tree/2.1.3"
             },
-            "time": "2026-05-21T13:14:11+00:00"
+            "time": "2026-06-01T22:35:21+00:00"
         },
         {
             "name": "drupal/drupal_cms_privacy_basic",
-            "version": "2.1.2",
+            "version": "2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_privacy_basic.git",
-                "reference": "952bac32974f572f0c2690301390fc2384d0df9d"
+                "reference": "2733bcb1084ae9df3dcffd9a0d8669ee3d345ecb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=952bac32974f572f0c2690301390fc2384d0df9d",
-                "reference": "952bac32974f572f0c2690301390fc2384d0df9d",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_privacy_basic/repository/archive.zip?sha=2733bcb1084ae9df3dcffd9a0d8669ee3d345ecb",
+                "reference": "2733bcb1084ae9df3dcffd9a0d8669ee3d345ecb",
                 "shasum": ""
             },
             "require": {
@@ -3609,9 +3605,9 @@
             ],
             "description": "Adds basic privacy features such as consent management and remote content blocking.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/2.1.2"
+                "source": "https://git.drupalcode.org/project/drupal_cms_privacy_basic/-/tree/2.1.3"
             },
-            "time": "2026-05-21T13:14:11+00:00"
+            "time": "2026-06-01T22:35:21+00:00"
         },
         {
             "name": "drupal/drupal_cms_search",
