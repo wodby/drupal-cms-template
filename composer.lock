@@ -5039,17 +5039,17 @@
         },
         {
             "name": "drupal/haven_theme",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/haven_theme.git",
-                "reference": "1.0.0"
+                "reference": "1.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/haven_theme-1.0.0.zip",
-                "reference": "1.0.0",
-                "shasum": "c2d70d7807a3d1f8c945d9df5afebd5284061fe7"
+                "url": "https://ftp.drupal.org/files/projects/haven_theme-1.0.1.zip",
+                "reference": "1.0.1",
+                "shasum": "f3f64ee60ddddfeafbe0d59ba84e9d9efc5a8fea"
             },
             "require": {
                 "drupal/core": "^11.3",
@@ -5064,8 +5064,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "1.0.0",
-                    "datestamp": "1773939237",
+                    "version": "1.0.1",
+                    "datestamp": "1780902491",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
