@@ -5722,20 +5722,20 @@
         },
         {
             "name": "drupal/media_file_delete",
-            "version": "1.3.1",
+            "version": "1.3.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/media_file_delete.git",
-                "reference": "1.3.1"
+                "reference": "1.3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/media_file_delete-1.3.1.zip",
-                "reference": "1.3.1",
-                "shasum": "5d715425c65e97343665eb23a055ab4aca45fe47"
+                "url": "https://ftp.drupal.org/files/projects/media_file_delete-1.3.2.zip",
+                "reference": "1.3.2",
+                "shasum": "41df08822af0de08ea2927a4038b77d8480e4a22"
             },
             "require": {
-                "drupal/core": "^8.8 || ~9.0 || ~10.0 || ^11"
+                "drupal/core": "^8.8 || ~9.0 || ~10.0 || ^11 || ^12"
             },
             "require-dev": {
                 "drupal/entity_usage": "^2@beta"
@@ -5743,8 +5743,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.3.1",
-                    "datestamp": "1721367494",
+                    "version": "1.3.2",
+                    "datestamp": "1782096368",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
