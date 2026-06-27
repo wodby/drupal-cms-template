@@ -6905,16 +6905,16 @@
         },
         {
             "name": "drupal/site_template_helper",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/site_template_helper.git",
-                "reference": "85f74833d71827c8240efb32f1f0555cc7292028"
+                "reference": "df40651370a5a9833dd9ca10be9597d83bfb5e93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fsite_template_helper/repository/archive.zip?sha=85f74833d71827c8240efb32f1f0555cc7292028",
-                "reference": "85f74833d71827c8240efb32f1f0555cc7292028",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fsite_template_helper/repository/archive.zip?sha=df40651370a5a9833dd9ca10be9597d83bfb5e93",
+                "reference": "df40651370a5a9833dd9ca10be9597d83bfb5e93",
                 "shasum": ""
             },
             "require": {
@@ -6937,9 +6937,9 @@
             ],
             "description": "Provides tooling and scaffolding for setting up Drupal site templates.",
             "support": {
-                "source": "https://git.drupalcode.org/project/site_template_helper/-/tree/1.0.3"
+                "source": "https://git.drupalcode.org/project/site_template_helper/-/tree/1.0.4"
             },
-            "time": "2026-03-26T16:04:29+00:00"
+            "time": "2026-06-26T20:44:48+00:00"
         },
         {
             "name": "drupal/svg_image",
