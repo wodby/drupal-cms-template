@@ -1182,17 +1182,17 @@
         },
         {
             "name": "drupal/ai_agents",
-            "version": "1.3.3",
+            "version": "1.3.4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai_agents.git",
-                "reference": "1.3.3"
+                "reference": "1.3.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai_agents-1.3.3.zip",
-                "reference": "1.3.3",
-                "shasum": "dd6745007a85352c3089816a578447702789a7d5"
+                "url": "https://ftp.drupal.org/files/projects/ai_agents-1.3.4.zip",
+                "reference": "1.3.4",
+                "shasum": "3fa700424357b28ec7099dd0d55c4281bbba5771"
             },
             "require": {
                 "drupal/ai": "^1.4.0",
@@ -1210,8 +1210,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.3.3",
-                    "datestamp": "1785932643",
+                    "version": "1.3.4",
+                    "datestamp": "1786606299",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -1399,24 +1399,25 @@
         },
         {
             "name": "drupal/ai_provider_amazeeio",
-            "version": "1.4.0",
+            "version": "1.4.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai_provider_amazeeio.git",
-                "reference": "1.4.0"
+                "reference": "1.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai_provider_amazeeio-1.4.0.zip",
-                "reference": "1.4.0",
-                "shasum": "461791ab0a59948256ae8c7f51a85d5bbe037ac0"
+                "url": "https://ftp.drupal.org/files/projects/ai_provider_amazeeio-1.4.1.zip",
+                "reference": "1.4.1",
+                "shasum": "2c5979834ffeaaef17e9257ea1d43a28985ff67a"
             },
             "require": {
                 "drupal/ai": "^1.3",
                 "drupal/core": "^10.4 || ^11",
                 "drupal/key": "*",
                 "drupal/search_api": ">1.20",
-                "ext-pgsql": "*"
+                "ext-pdo": "*",
+                "ext-pdo_pgsql": "*"
             },
             "require-dev": {
                 "drupal/config_ignore": "^3.0"
@@ -1424,8 +1425,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.4.0",
-                    "datestamp": "1785969382",
+                    "version": "1.4.1",
+                    "datestamp": "1786542114",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2074,17 +2075,17 @@
         },
         {
             "name": "drupal/canvas",
-            "version": "1.10.0",
+            "version": "1.10.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/canvas.git",
-                "reference": "1.10.0"
+                "reference": "1.10.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/canvas-1.10.0.zip",
-                "reference": "1.10.0",
-                "shasum": "9c8333da0a74d61e7025b6b7c09d111075451a3b"
+                "url": "https://ftp.drupal.org/files/projects/canvas-1.10.1.zip",
+                "reference": "1.10.1",
+                "shasum": "388140b9d0c9628ff4f1322202aca632ec5801a6"
             },
             "require": {
                 "drupal/core": "^11.3",
@@ -2117,8 +2118,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.10.0",
-                    "datestamp": "1786114019",
+                    "version": "1.10.1",
+                    "datestamp": "1786575902",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4418,17 +4419,17 @@
         },
         {
             "name": "drupal/eca",
-            "version": "3.1.4",
+            "version": "3.1.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/eca.git",
-                "reference": "3.1.4"
+                "reference": "3.1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/eca-3.1.4.zip",
-                "reference": "3.1.4",
-                "shasum": "a63ee9d4a7d943698a5640f14499d9f0986630eb"
+                "url": "https://ftp.drupal.org/files/projects/eca-3.1.5.zip",
+                "reference": "3.1.5",
+                "shasum": "56e2969e66e925160570e11d09548341f631fad6"
             },
             "require": {
                 "dragonmantank/cron-expression": "^3.1",
@@ -4441,13 +4442,14 @@
                 "drupal/eca_endpoint": "*",
                 "drupal/eca_misc": "*",
                 "drupal/eca_render": "*",
-                "drupal/modeler_api": "*"
+                "drupal/modeler_api": "*",
+                "drupal/project_browser": "^2.1"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.1.4",
-                    "datestamp": "1783530591",
+                    "version": "3.1.5",
+                    "datestamp": "1786381321",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -8312,16 +8314,16 @@
         },
         {
             "name": "league/commonmark",
-            "version": "2.9.0",
+            "version": "2.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/commonmark.git",
-                "reference": "5703d83ba3da3b2e356a5fedc848ed6d8ffb6529"
+                "reference": "d2d1aa8b35e072966c89bc0c66cf926e56767dc4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/5703d83ba3da3b2e356a5fedc848ed6d8ffb6529",
-                "reference": "5703d83ba3da3b2e356a5fedc848ed6d8ffb6529",
+                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/d2d1aa8b35e072966c89bc0c66cf926e56767dc4",
+                "reference": "d2d1aa8b35e072966c89bc0c66cf926e56767dc4",
                 "shasum": ""
             },
             "require": {
@@ -8358,7 +8360,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "2.10-dev"
+                    "dev-main": "2.11-dev"
                 }
             },
             "autoload": {
@@ -8415,7 +8417,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-03T13:42:31+00:00"
+            "time": "2026-08-11T16:06:25+00:00"
         },
         {
             "name": "league/config",
