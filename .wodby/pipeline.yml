@@ -14,7 +14,6 @@ jobs:
         path: ~/.composer
         key: 'composer-{{ hash "composer.lock" }}-v1'
 
-    - run: wget -qO- https://api.wodby.com/v1/get/cli | sh
     - run: wodby ci init $WODBY_BUILD_ID
 
     # use wodby ci run instead of wodby ci build with buildx cache because we need to scaffold web/ for nginx image.
