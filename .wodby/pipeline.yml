@@ -17,7 +17,7 @@ jobs:
     - run: wodby ci init $WODBY_BUILD_ID
 
     # use wodby ci run instead of wodby ci build with buildx cache because we need to scaffold web/ for nginx image.
-    - run: wodby ci run -v $HOME/.composer:/home/wodby/.composer -- composer install -n --no-ansi
+    - run: wodby ci run -- composer install -n --no-ansi
     - run: wodby ci build
 
     - cache_save:
