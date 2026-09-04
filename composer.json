@@ -1,13 +1,13 @@
 {
     "name": "drupal/cms",
-    "version": "2.1.3",
+    "version": "2.1.4",
     "description": "Drupal CMS is a ready-to-use platform built on Drupal core, offering smart defaults to get started quickly and enterprise-grade tools for marketers, designers, and content creators.",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "homepage": "https://www.drupal.org/project/cms",
     "support": {
-        "docs": "https://new.drupal.org/docs/drupal-cms",
-        "chat": "https://drupal.org/node/314178"
+        "User guide": "https://www.drupal.org/docs/drupal-cms",
+        "Get help": "https://www.drupal.org/project/cms#support"
     },
     "repositories": {
         "drupal": {
@@ -86,16 +86,11 @@
             "web/themes/custom/{$name}": ["type:drupal-custom-theme"]
         },
         "drupal-core-project-message": {
-            "include-keys": ["homepage", "support"],
+            "include-keys": ["support"],
             "post-create-project-cmd-message": [
                 "<bg=blue;fg=white>                                                   </>",
-                "<bg=blue;fg=white>  Congratulations, you’ve installed Drupal CMS!    </>",
-                "<bg=blue;fg=white>                                                   </>",
-                "",
-                "<bg=yellow;fg=black>Next steps</>:",
-                "  * Read the user guide: https://www.drupal.org/docs/user_guide/en/index.html",
-                "  * Get support: https://drupal.org/support",
-                "  * Get involved with the Drupal community: https://drupal.org/getting-involved"
+                "<bg=blue;fg=white>  You're all set to get started with Drupal CMS!   </>",
+                ""
             ]
         },
         "drupal-core-vendor-hardening": {
