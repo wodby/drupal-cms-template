@@ -1,6 +1,6 @@
 {
     "name": "drupal/cms",
-    "version": "2.1.5",
+    "version": "2.2.0",
     "description": "Drupal CMS is a ready-to-use platform built on Drupal core, offering smart defaults to get started quickly and enterprise-grade tools for marketers, designers, and content creators.",
     "type": "project",
     "license": "GPL-2.0-or-later",
@@ -9,31 +9,31 @@
         "User guide": "https://www.drupal.org/docs/drupal-cms",
         "Get help": "https://www.drupal.org/project/cms#support"
     },
-    "repositories": {
-        "drupal": {
+    "repositories": [
+        {
+            "name": "drupal",
             "type": "composer",
-            "url": "https://packages.drupal.org/8"
+            "url": "https://packages.drupal.org/8",
+            "only": ["drupal/*"]
         }
-    },
+    ],
     "require": {
         "composer/composer": "^2.9.8",
         "composer/installers": "^2.3",
-        "drupal/byte": "^1",
-        "drupal/core-composer-scaffold": "^11.3.10",
-        "drupal/core-project-message": "^11.3.10",
-        "drupal/core-recipe-unpack": "^11.3.10",
-        "drupal/core-recommended": "^11.3.10",
-        "drupal/core-vendor-hardening": "^11.3.10",
+        "drupal/canvas_translate": "@alpha",
+        "drupal/core-composer-scaffold": "^11.4",
+        "drupal/core-project-message": "^11.4",
+        "drupal/core-recipe-unpack": "^11.4",
+        "drupal/core-recommended": "^11.4",
+        "drupal/core-vendor-hardening": "^11.4",
         "drupal/drupal_cms_accessibility_tools": "^2",
         "drupal/drupal_cms_ai": "^2",
+        "drupal/drupal_cms_blank": "^2",
         "drupal/drupal_cms_forms": "^2",
         "drupal/drupal_cms_google_analytics": "^2",
         "drupal/drupal_cms_installer": "^2",
-        "drupal/drupal_cms_seo_tools": "^2",
-        "drupal/drupal_cms_site_template_base": "^1@dev",
-        "drupal/drupal_cms_starter": "^2",
-        "drupal/haven": "^1",
-        "drupal/webform": "@beta"
+        "drupal/drupal_cms_multilingual": "^2",
+        "drupal/drupal_cms_starter": "^2"
     },
     "require-dev": {
         "drush/drush": "^13.7"
@@ -70,7 +70,7 @@
                 "[web-root]/example.gitignore": false
             },
             "allowed-packages": [
-                "drupal/drupal_cms_seo_tools"
+                "drupal/drupal_cms_site_template_base"
             ]
         },
         "installer-paths": {
