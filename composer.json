@@ -1,6 +1,6 @@
 {
     "name": "drupal/cms",
-    "version": "2.2.3",
+    "version": "2.2.7",
     "description": "Drupal CMS is a ready-to-use platform built on Drupal core, offering smart defaults to get started quickly and enterprise-grade tools for marketers, designers, and content creators.",
     "type": "project",
     "license": "GPL-2.0-or-later",
@@ -26,14 +26,7 @@
         "drupal/core-recipe-unpack": "^11.4",
         "drupal/core-recommended": "^11.4",
         "drupal/core-vendor-hardening": "^11.4",
-        "drupal/drupal_cms_accessibility_tools": "^2",
-        "drupal/drupal_cms_ai": "^2",
-        "drupal/drupal_cms_blank": "^2",
-        "drupal/drupal_cms_forms": "^2",
-        "drupal/drupal_cms_google_analytics": "^2",
-        "drupal/drupal_cms_installer": "^2",
-        "drupal/drupal_cms_multilingual": "^2",
-        "drupal/drupal_cms_starter": "^2"
+        "drupal/drupal_cms_installer": "^2"
     },
     "require-dev": {
         "drush/drush": "^13.7"
@@ -64,12 +57,10 @@
                 "web-root": "web/"
             },
             "file-mapping": {
-                "[web-root]/sites/default/default.settings.php": {
-                    "append": "assets/append-default.settings.php.txt"
-                },
                 "[web-root]/example.gitignore": false
             },
             "allowed-packages": [
+                "drupal/drupal_cms_blank",
                 "drupal/drupal_cms_site_template_base"
             ]
         },
@@ -100,6 +91,9 @@
     "scripts": {
         "post-update-cmd": [
             "@php -r \"@unlink('vendor/bin/composer');\""
+        ],
+        "post-install-cmd": [
+            "@post-update-cmd"
         ]
     }
 }
