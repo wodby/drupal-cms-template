@@ -51,7 +51,10 @@
         },
         "bin-dir": "vendor/bin",
         "sort-packages": true,
-        "optimize-autoloader": true
+        "optimize-autoloader": true,
+        "platform": {
+            "php": "8.3.0"
+        }
     },
     "extra": {
         "drupal-scaffold": {
