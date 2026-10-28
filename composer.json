@@ -26,7 +26,9 @@
         "drupal/core-recipe-unpack": "^11.4",
         "drupal/core-recommended": "^11.4",
         "drupal/core-vendor-hardening": "^11.4",
-        "drupal/drupal_cms_installer": "^2"
+        "drupal/drupal_cms_blank": "^2",
+        "drupal/drupal_cms_installer": "^2",
+        "drupal/drupal_cms_starter": "^2"
     },
     "require-dev": {
         "drush/drush": "^13.7"
