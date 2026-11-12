@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3fc341e2a0b2e6e363ce2ddb5f9c4324",
+    "content-hash": "7dcce2116269deea365a8bb11ffd858d",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2360,16 +2360,16 @@
         },
         {
             "name": "drupal/drupal_cms_blank",
-            "version": "2.2.8",
+            "version": "2.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_blank.git",
-                "reference": "70712934c2f511c74ce4a36b8578d362a97c5be4"
+                "reference": "5ff14cf54bbb8297636a040bb692b72942dadf89"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blank/repository/archive.zip?sha=70712934c2f511c74ce4a36b8578d362a97c5be4",
-                "reference": "70712934c2f511c74ce4a36b8578d362a97c5be4",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_blank/repository/archive.zip?sha=5ff14cf54bbb8297636a040bb692b72942dadf89",
+                "reference": "5ff14cf54bbb8297636a040bb692b72942dadf89",
                 "shasum": ""
             },
             "require": {
@@ -2405,24 +2405,24 @@
             ],
             "description": "A blank template with the foundational features of Drupal CMS, for those who truly want to start from scratch.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_blank/-/tree/2.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_blank/-/tree/2.2.9"
             },
-            "time": "2026-11-01T21:08:44+00:00",
-            "published-time": "2026-11-02T02:25:21+00:00"
+            "time": "2026-11-11T12:01:35+00:00",
+            "published-time": "2026-11-11T17:25:36+00:00"
         },
         {
             "name": "drupal/drupal_cms_helper",
-            "version": "2.2.8",
+            "version": "2.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_helper.git",
-                "reference": "2.2.8"
+                "reference": "2.2.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-2.2.8.zip",
-                "reference": "2.2.8",
-                "shasum": "2c86b167d814ed1083ddc8deeae747e3e27f0047"
+                "url": "https://ftp.drupal.org/files/projects/drupal_cms_helper-2.2.9.zip",
+                "reference": "2.2.9",
+                "shasum": "d302757929d964d82d438cf203a396bd0bd0b3f4"
             },
             "require": {
                 "drupal/core": "^11.4.8"
@@ -2437,8 +2437,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.2.8",
-                    "datestamp": "1793586224",
+                    "version": "2.2.9",
+                    "datestamp": "1794417904",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2465,20 +2465,20 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_helper"
             },
-            "published-time": "2026-11-02T02:23:23+00:00"
+            "published-time": "2026-11-11T17:24:43+00:00"
         },
         {
             "name": "drupal/drupal_cms_installer",
-            "version": "2.2.8",
+            "version": "2.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_installer.git",
-                "reference": "77951ac749adff15e5cdb94d58a63202b7b40fcf"
+                "reference": "1882da06aee1c68c754420f499fb016ac5800a60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_installer/repository/archive.zip?sha=77951ac749adff15e5cdb94d58a63202b7b40fcf",
-                "reference": "77951ac749adff15e5cdb94d58a63202b7b40fcf",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_installer/repository/archive.zip?sha=1882da06aee1c68c754420f499fb016ac5800a60",
+                "reference": "1882da06aee1c68c754420f499fb016ac5800a60",
                 "shasum": ""
             },
             "require": {
@@ -2493,23 +2493,23 @@
             ],
             "description": "Provides install-time tweaks for Drupal CMS. Not to be used in production.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_installer/-/tree/2.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_installer/-/tree/2.2.9"
             },
-            "time": "2026-11-01T21:08:44+00:00",
-            "published-time": "2026-11-02T03:26:15+00:00"
+            "time": "2026-11-11T12:01:35+00:00",
+            "published-time": "2026-11-11T17:25:49+00:00"
         },
         {
             "name": "drupal/drupal_cms_site_template_base",
-            "version": "2.2.8",
+            "version": "2.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_site_template_base.git",
-                "reference": "da649f5d24c56e83731efc884a6b28cd5444ffd4"
+                "reference": "fcd832915d55fc4e30b3a81496c4809187088f20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=da649f5d24c56e83731efc884a6b28cd5444ffd4",
-                "reference": "da649f5d24c56e83731efc884a6b28cd5444ffd4",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_site_template_base/repository/archive.zip?sha=fcd832915d55fc4e30b3a81496c4809187088f20",
+                "reference": "fcd832915d55fc4e30b3a81496c4809187088f20",
                 "shasum": ""
             },
             "require": {
@@ -2569,23 +2569,23 @@
             ],
             "description": "Provides the foundational features of Drupal CMS.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/2.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_site_template_base/-/tree/2.2.9"
             },
-            "time": "2026-11-01T21:08:44+00:00",
-            "published-time": "2026-11-02T02:25:30+00:00"
+            "time": "2026-11-11T12:01:35+00:00",
+            "published-time": "2026-11-11T17:26:00+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
-            "version": "2.2.8",
+            "version": "2.2.9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_starter.git",
-                "reference": "e9134c8550d96796872b766ade8d21172439d9c3"
+                "reference": "50f96318eeaea33d4b1c8e7c708608bd708cd5e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=e9134c8550d96796872b766ade8d21172439d9c3",
-                "reference": "e9134c8550d96796872b766ade8d21172439d9c3",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_starter/repository/archive.zip?sha=50f96318eeaea33d4b1c8e7c708608bd708cd5e6",
+                "reference": "50f96318eeaea33d4b1c8e7c708608bd708cd5e6",
                 "shasum": ""
             },
             "require": {
@@ -2599,10 +2599,10 @@
             ],
             "description": "A basic site template to get started with Drupal CMS. Bring your own design, and build what you need.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/2.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_starter/-/tree/2.2.9"
             },
-            "time": "2026-11-01T21:08:44+00:00",
-            "published-time": "2026-11-02T02:25:54+00:00"
+            "time": "2026-11-11T12:01:35+00:00",
+            "published-time": "2026-11-11T17:26:03+00:00"
         },
         {
             "name": "drupal/drupical",
@@ -4177,17 +4177,17 @@
         },
         {
             "name": "drupal/metatag",
-            "version": "2.2.6",
+            "version": "2.2.7",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/metatag.git",
-                "reference": "2.2.6"
+                "reference": "2.2.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/metatag-2.2.6.zip",
-                "reference": "2.2.6",
-                "shasum": "9cd10f4b3eecc038921ed6a16f84fb9d5946af4e"
+                "url": "https://ftp.drupal.org/files/projects/metatag-2.2.7.zip",
+                "reference": "2.2.7",
+                "shasum": "c7516fb9e396af39b4f8b1b962873558552e31d6"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11",
@@ -4207,11 +4207,15 @@
                 "drupal/redirect": "^1.0",
                 "ergebnis/composer-normalize": "*"
             },
+            "suggest": {
+                "drupal/token_browser": "A significantly improved token interface for Drupal 11.3+.",
+                "drupal/token_or": "Allows providing a fallback option for when a token is empty to use either another token or a fixed value."
+            },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.2.6",
-                    "datestamp": "1793891825",
+                    "version": "2.2.7",
+                    "datestamp": "1794448328",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4248,7 +4252,7 @@
                 "issues": "https://www.drupal.org/project/issues/metatag",
                 "docs": "https://www.drupal.org/docs/8/modules/metatag"
             },
-            "published-time": "2026-11-05T15:16:44+00:00"
+            "published-time": "2026-11-12T01:51:48+00:00"
         },
         {
             "name": "drupal/modeler",
@@ -11450,16 +11454,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "13.8.0",
+            "version": "13.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "a5529118232c722c052ad6ae3be587df43c7d6fa"
+                "reference": "0218690d082b71e20343549515bbb3944cbc5939"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/a5529118232c722c052ad6ae3be587df43c7d6fa",
-                "reference": "a5529118232c722c052ad6ae3be587df43c7d6fa",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/0218690d082b71e20343549515bbb3944cbc5939",
+                "reference": "0218690d082b71e20343549515bbb3944cbc5939",
                 "shasum": ""
             },
             "require": {
@@ -11467,18 +11471,18 @@
                 "composer-runtime-api": "^2.2",
                 "composer/semver": "^1.4 || ^3",
                 "consolidation/annotated-command": "^4.10.2",
-                "consolidation/config": "^2.1.2 || ^3.1.1",
+                "consolidation/config": "^3.1.1",
                 "consolidation/filter-via-dot-access-data": "^2.0.2",
                 "consolidation/output-formatters": "^4.6.1",
-                "consolidation/robo": "^4.0.6 || ^5.1.0",
+                "consolidation/robo": "^5.1.0",
                 "consolidation/site-alias": "^4.1.1",
                 "consolidation/site-process": "^5.4.2 || ^6.1",
                 "dflydev/dot-access-data": "^3.0.2",
                 "ext-dom": "*",
                 "grasmash/yaml-cli": "^3.2",
-                "guzzlehttp/guzzle": "^7.0",
+                "guzzlehttp/guzzle": "^7.0 || ^8.0",
                 "laravel/prompts": "^0.3.5",
-                "league/container": "^4.2",
+                "league/container": "^4.2.5",
                 "php": ">=8.3",
                 "psy/psysh": "~0.12",
                 "symfony/event-dispatcher": "^6 || ^7",
@@ -11490,7 +11494,8 @@
             "conflict": {
                 "drupal/core": "<10.4 <12.0",
                 "drupal/migrate_run": "*",
-                "drupal/migrate_tools": "<= 5"
+                "drupal/migrate_tools": "<= 5",
+                "grasmash/expander": "<3.0.1"
             },
             "require-dev": {
                 "composer/installers": "^2",
@@ -11587,7 +11592,7 @@
                 "issues": "https://github.com/drush-ops/drush/issues",
                 "security": "https://github.com/drush-ops/drush/security/advisories",
                 "slack": "https://drupal.slack.com/messages/C62H9CWQM",
-                "source": "https://github.com/drush-ops/drush/tree/13.8.0"
+                "source": "https://github.com/drush-ops/drush/tree/13.8.1"
             },
             "funding": [
                 {
@@ -11595,8 +11600,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-08T18:24:55+00:00",
-            "published-time": "2026-09-08T18:48:45+00:00"
+            "time": "2026-11-10T19:12:09+00:00",
+            "published-time": "2026-11-10T21:39:56+00:00"
         },
         {
             "name": "grasmash/expander",
