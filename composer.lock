@@ -11186,16 +11186,16 @@
         },
         {
             "name": "consolidation/robo",
-            "version": "5.1.1",
+            "version": "5.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/consolidation/robo.git",
-                "reference": "6d02c7d800b5e1a3a8977ae74d23bce723486025"
+                "reference": "78a541531cb613e9ce825b64ef3aa666d1e95598"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/consolidation/robo/zipball/6d02c7d800b5e1a3a8977ae74d23bce723486025",
-                "reference": "6d02c7d800b5e1a3a8977ae74d23bce723486025",
+                "url": "https://api.github.com/repos/consolidation/robo/zipball/78a541531cb613e9ce825b64ef3aa666d1e95598",
+                "reference": "78a541531cb613e9ce825b64ef3aa666d1e95598",
                 "shasum": ""
             },
             "require": {
@@ -11203,15 +11203,16 @@
                 "consolidation/config": "^3",
                 "consolidation/log": "^3",
                 "consolidation/output-formatters": "^4.1.2",
+                "consolidation/self-update": "^3.2.0",
                 "league/container": "^3.3.1 || ^4.0",
                 "php": ">=8.2",
                 "phpowermove/docblock": "^4.0",
-                "symfony/console": "^6 || ^7",
-                "symfony/event-dispatcher": "^6 || ^7",
-                "symfony/filesystem": "^6 || ^7",
-                "symfony/finder": "^6 || ^7",
-                "symfony/process": "^6 || ^7",
-                "symfony/yaml": "^6 || ^7"
+                "symfony/console": "^6 || ^7 || ^8",
+                "symfony/event-dispatcher": "^6 || ^7 || ^8",
+                "symfony/filesystem": "^6 || ^7 || ^8",
+                "symfony/finder": "^6 || ^7 || ^8",
+                "symfony/process": "^6 || ^7 || ^8",
+                "symfony/yaml": "^6 || ^7 || ^8"
             },
             "conflict": {
                 "codegyre/robo": "*"
@@ -11225,7 +11226,6 @@
                 "yoast/phpunit-polyfills": "^0.2.0"
             },
             "suggest": {
-                "consolidation/self-update": "For self-updating a phar-based app built with Robo",
                 "natxet/cssmin": "For minifying CSS files in taskMinify",
                 "patchwork/jsqueeze": "For minifying JS files in taskMinify",
                 "pear/archive_tar": "Allows tar archives to be created and extracted in taskPack and taskExtract, respectively.",
@@ -11253,10 +11253,69 @@
             "description": "Modern task runner",
             "support": {
                 "issues": "https://github.com/consolidation/robo/issues",
-                "source": "https://github.com/consolidation/robo/tree/5.1.1"
+                "source": "https://github.com/consolidation/robo/tree/5.2.3"
             },
-            "time": "2025-11-14T23:30:05+00:00",
-            "published-time": "2025-11-14T23:30:25+00:00"
+            "time": "2026-11-12T17:53:46+00:00",
+            "published-time": "2026-11-12T17:54:12+00:00"
+        },
+        {
+            "name": "consolidation/self-update",
+            "version": "3.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/consolidation/self-update.git",
+                "reference": "eb8e044f46e1a29a49eaaaa35a9f5f6b14408707"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/consolidation/self-update/zipball/eb8e044f46e1a29a49eaaaa35a9f5f6b14408707",
+                "reference": "eb8e044f46e1a29a49eaaaa35a9f5f6b14408707",
+                "shasum": ""
+            },
+            "require": {
+                "composer/semver": "^3.2",
+                "guzzlehttp/guzzle": "^7.9",
+                "kevinrob/guzzle-cache-middleware": "^5.1 || ^6",
+                "php": "^8.1",
+                "symfony/cache": "^5.4 || ^6.4 || ^7 || ^8",
+                "symfony/console": "^5.4 || ^6.4 || ^7 || ^8",
+                "symfony/filesystem": "^5.4 || ^6.4 || ^7 || ^8"
+            },
+            "bin": [
+                "scripts/release"
+            ],
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "3.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "SelfUpdate\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alexander Menk",
+                    "email": "menk@mestrona.net"
+                },
+                {
+                    "name": "Greg Anderson",
+                    "email": "greg.1.anderson@greenknowe.org"
+                }
+            ],
+            "description": "Provides a self:update command for Symfony Console applications.",
+            "support": {
+                "issues": "https://github.com/consolidation/self-update/issues",
+                "source": "https://github.com/consolidation/self-update/tree/3.2.1"
+            },
+            "time": "2026-11-10T19:11:51+00:00",
+            "published-time": "2026-11-10T19:12:57+00:00"
         },
         {
             "name": "consolidation/site-alias",
@@ -11714,6 +11773,92 @@
             "published-time": "2024-04-29T16:52:13+00:00"
         },
         {
+            "name": "kevinrob/guzzle-cache-middleware",
+            "version": "6.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Kevinrob/guzzle-cache-middleware.git",
+                "reference": "61305ed694e763e887a04f61e71e2292bb4fbad1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Kevinrob/guzzle-cache-middleware/zipball/61305ed694e763e887a04f61e71e2292bb4fbad1",
+                "reference": "61305ed694e763e887a04f61e71e2292bb4fbad1",
+                "shasum": ""
+            },
+            "require": {
+                "guzzlehttp/guzzle": "^7.9.2",
+                "guzzlehttp/promises": "^2.0.3",
+                "guzzlehttp/psr7": "^2.7.0",
+                "php": ">=8.1"
+            },
+            "require-dev": {
+                "cache/array-adapter": "^0.4 || ^0.5 || ^1.0",
+                "cache/simple-cache-bridge": "^0.1 || ^1.0",
+                "doctrine/cache": "^1.10",
+                "illuminate/cache": "^5.0",
+                "league/flysystem": "^2.5",
+                "phpunit/phpunit": "^9.6.21",
+                "psr/cache": "^1.0",
+                "symfony/cache": "^4.4 || ^5.0",
+                "symfony/phpunit-bridge": "^7.1.4"
+            },
+            "suggest": {
+                "doctrine/cache": "This library has a lot of ready-to-use cache storage (to be used with Kevinrob\\GuzzleCache\\Storage\\DoctrineCacheStorage). Use only versions >=1.4.0 < 2.0.0",
+                "guzzlehttp/guzzle": "For using this library. It was created for Guzzle6 (but you can use it with any PSR-7 HTTP client).",
+                "laravel/framework": "To be used with Kevinrob\\GuzzleCache\\Storage\\LaravelCacheStorage",
+                "league/flysystem": "To be used with Kevinrob\\GuzzleCache\\Storage\\FlysystemStorage",
+                "psr/cache": "To be used with Kevinrob\\GuzzleCache\\Storage\\Psr6CacheStorage",
+                "psr/simple-cache": "To be used with Kevinrob\\GuzzleCache\\Storage\\Psr16CacheStorage"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Kevinrob\\GuzzleCache\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kevin Robatel",
+                    "email": "kevinrob2@gmail.com",
+                    "homepage": "https://github.com/Kevinrob"
+                }
+            ],
+            "description": "A HTTP/1.1 Cache for Guzzle 6. It's a simple Middleware to be added in the HandlerStack. (RFC 7234)",
+            "homepage": "https://github.com/Kevinrob/guzzle-cache-middleware",
+            "keywords": [
+                "Etag",
+                "Flysystem",
+                "Guzzle",
+                "cache",
+                "cache-control",
+                "doctrine",
+                "expiration",
+                "guzzle6",
+                "handler",
+                "http",
+                "http 1.1",
+                "middleware",
+                "performance",
+                "php",
+                "promise",
+                "psr6",
+                "psr7",
+                "rfc7234",
+                "validation"
+            ],
+            "support": {
+                "issues": "https://github.com/Kevinrob/guzzle-cache-middleware/issues",
+                "source": "https://github.com/Kevinrob/guzzle-cache-middleware/tree/6.0.0"
+            },
+            "time": "2024-10-17T09:11:54+00:00",
+            "published-time": "2024-11-28T09:55:03+00:00"
+        },
+        {
             "name": "laravel/prompts",
             "version": "v0.3.27",
             "source": {
@@ -12073,6 +12218,56 @@
             "published-time": "2021-09-22T17:03:07+00:00"
         },
         {
+            "name": "psr/cache",
+            "version": "3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/cache.git",
+                "reference": "aa5030cfa5405eccfdcb1083ce040c2cb8d253bf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/cache/zipball/aa5030cfa5405eccfdcb1083ce040c2cb8d253bf",
+                "reference": "aa5030cfa5405eccfdcb1083ce040c2cb8d253bf",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Cache\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interface for caching libraries",
+            "keywords": [
+                "cache",
+                "psr",
+                "psr-6"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/cache/tree/3.0.0"
+            },
+            "time": "2021-02-03T23:26:27+00:00",
+            "published-time": "2021-02-03T23:27:34+00:00"
+        },
+        {
             "name": "psy/psysh",
             "version": "v0.12.24",
             "source": {
@@ -12151,6 +12346,191 @@
             },
             "time": "2026-06-29T15:41:09+00:00",
             "published-time": "2026-06-29T15:41:53+00:00"
+        },
+        {
+            "name": "symfony/cache",
+            "version": "v7.4.23",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/cache.git",
+                "reference": "bbaa2ca4a93a94532285bdd5a0caf225d34ff578"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/cache/zipball/bbaa2ca4a93a94532285bdd5a0caf225d34ff578",
+                "reference": "bbaa2ca4a93a94532285bdd5a0caf225d34ff578",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.2",
+                "psr/cache": "^2.0|^3.0",
+                "psr/log": "^1.1|^2|^3",
+                "symfony/cache-contracts": "^3.6",
+                "symfony/deprecation-contracts": "^2.5|^3",
+                "symfony/service-contracts": "^2.5|^3",
+                "symfony/var-exporter": "^6.4|^7.0|^8.0"
+            },
+            "conflict": {
+                "doctrine/dbal": "<3.6",
+                "ext-relay": "<0.12.1",
+                "symfony/dependency-injection": "<6.4",
+                "symfony/http-kernel": "<6.4",
+                "symfony/var-dumper": "<6.4"
+            },
+            "provide": {
+                "psr/cache-implementation": "2.0|3.0",
+                "psr/simple-cache-implementation": "1.0|2.0|3.0",
+                "symfony/cache-implementation": "1.1|2.0|3.0"
+            },
+            "require-dev": {
+                "cache/integration-tests": "^1.0.3",
+                "doctrine/dbal": "^3.6|^4",
+                "predis/predis": "^1.1|^2.0",
+                "psr/simple-cache": "^1.0|^2.0|^3.0",
+                "symfony/clock": "^6.4|^7.0|^8.0",
+                "symfony/config": "^6.4|^7.0|^8.0",
+                "symfony/dependency-injection": "^6.4|^7.0|^8.0",
+                "symfony/filesystem": "^6.4|^7.0|^8.0",
+                "symfony/http-kernel": "^6.4|^7.0|^8.0",
+                "symfony/messenger": "^6.4|^7.0|^8.0",
+                "symfony/var-dumper": "^6.4|^7.0|^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Cache\\": ""
+                },
+                "classmap": [
+                    "Traits/ValueWrapper.php"
+                ],
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Provides extended PSR-6, PSR-16 (and tags) implementations",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "caching",
+                "psr6"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/cache/tree/v7.4.23"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/nicolas-grekas",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2026-11-01T22:26:51+00:00",
+            "published-time": "2026-11-04T11:28:20+00:00"
+        },
+        {
+            "name": "symfony/cache-contracts",
+            "version": "v3.8.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/cache-contracts.git",
+                "reference": "af26a91232085b7edd4e04be62f75e7c25159ece"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/cache-contracts/zipball/af26a91232085b7edd4e04be62f75e7c25159ece",
+                "reference": "af26a91232085b7edd4e04be62f75e7c25159ece",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.1",
+                "psr/cache": "^3.0"
+            },
+            "type": "library",
+            "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/contracts",
+                    "name": "symfony/contracts"
+                },
+                "branch-alias": {
+                    "dev-main": "3.8-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Contracts\\Cache\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Generic abstractions related to caching",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "abstractions",
+                "contracts",
+                "decoupling",
+                "interfaces",
+                "interoperability",
+                "standards"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/cache-contracts/tree/v3.8.1"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/nicolas-grekas",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2026-09-26T07:05:14+00:00",
+            "published-time": "2026-11-04T11:25:38+00:00"
         }
     ],
     "aliases": [],
