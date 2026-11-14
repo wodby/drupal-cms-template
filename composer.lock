@@ -1349,6 +1349,10 @@
             ],
             "description": "Canvas",
             "homepage": "https://www.drupal.org/project/canvas",
+            "keywords": [
+                "Actively maintained",
+                "Site structure"
+            ],
             "support": {
                 "source": "https://git.drupalcode.org/project/canvas"
             },
@@ -2462,6 +2466,9 @@
             ],
             "description": "Provides functionality for Drupal CMS that is not yet in Drupal core or dependencies.",
             "homepage": "https://www.drupal.org/project/drupal_cms_helper",
+            "keywords": [
+                "Actively maintained"
+            ],
             "support": {
                 "source": "https://git.drupalcode.org/project/drupal_cms_helper"
             },
